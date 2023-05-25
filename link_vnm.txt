@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="26/05/2023 00:01:53",26/05/2023 00:01:53
+#EXTINF:-1 group-title="26/05/2023 00:12:13",26/05/2023 00:12:13
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b49398f6c5a0a691c2d1ea9177c539e3.png", ﻿[LIVE] 22h00 25/05 - Havadar S.C. vs Persepolis
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -18,39 +18,18 @@ https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6003_small.png", [LIVE] 22h30 25/05 - MP vs SJK Akatemia [Giàng A Lử] #SD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd111/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/348b05307188e5ba081db3e659b7ba0d.png", [LIVE] 23h00 25/05 - FC Nomme United vs Paide Linnameeskond B
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhzwg19qwz/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/82cdda9478d04ff7768ab90bc2439979.png", [LIVE] 23h00 25/05 - Jedinstvo Bijelo Polje vs FK Rudar Pljevlja
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph32vw9m2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/94ec2edf5a6c91a6d3d42bdf83968b53.png", [LIVE] 23h00 25/05 - Jezero Plav vs Decic Tuzi
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhzw531qwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b562647138280daa4e6d9bd79a0b5acc.png", [LIVE] 23h00 25/05 - Mornar vs FK Buducnost Podgorica
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-n54qllhpw38kqvy/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/8b38773738e375421536382900b1abb0.png", [LIVE] 23h00 25/05 - Tallinna FC Levadia B vs Tallinna JK Legion
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-x7lm7ph329pjm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a3eb46b363d8b6c9f72c3b3b21896e21.png", [LIVE] 23h00 25/05 - Viimsi MRJK vs Tallinna FC Ararat TTU
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-n54qllhpwjd3qvy/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://static.vebotv.app/files/tennis1.png", [LIVE] 23h30 25/05 - ATP vs Gonet Geneva Open #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d734fbfa47a4624234a932482eb44b3e.jpg", [LIVE] 00h00 - Amedspor vs Erzincanspor
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-6ypq3nh79186md7/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3935aabcfa443b64677197fdb20af7cd.png", [LIVE] 00h00 - Degerfors IF vs Hammarby
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h39k4lqdy/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c4eafa3dcc19ce535ed62a0b3278476a.png", [LIVE] 00h00 - Erokspor vs Ankaraspor FK
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-23xmvkhp5x2gqg8/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c60d870eaad6a3946ab3e8734466e532.jpg", [LIVE] 00h00 - Orduspor vs Kusadasispor
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-jw2r09h6z13yrz8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/fdef90456d2a2eee09976c558457aec7.png", [LIVE] 00h30 - Mallorca vs Valencia #FullHD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8|Referer=https://player.4shares.live
@@ -66,6 +45,9 @@ https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8|Referer=http
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/fdef90456d2a2eee09976c558457aec7.png", [LIVE] 00h30 - Mallorca vs Valencia #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/fdef90456d2a2eee09976c558457aec7.png", [LIVE] 00h30 - Mallorca vs Valencia [Người Cồn] #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live2.thapcam.net/truc-tiep/mallorca-vs-valencia-3kZfTZU|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Spain La Liga : Mallorca vs Valencia - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
