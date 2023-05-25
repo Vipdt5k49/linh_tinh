@@ -1,38 +1,11 @@
-#EXTINF:-1 group-title="25/05/2023 18:52:44",25/05/2023 18:52:44
+#EXTINF:-1 group-title="25/05/2023 19:02:59",25/05/2023 19:02:59
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/23/14/1684825433966/18c480624d23_640_360.jpg", 17:00 - Bóng Đá: CLB Bình Phước vs CLB Quảng Nam
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-http://live-zlr1.tv360.vn/manifest/sukien/./playlist_1080p-5M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/23/14/1684825599214/623c60de12ab_640_360.jpg", 18:00 - Bóng Đá: Bà Rịa - Vũng Tàu vs CLB Bình Thuận
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://live-zlr1.tv360.vn/manifest/HTV_The_Thao_HD-50fps/./playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/965428_small.png", ﻿[LIVE] 17h00 - FC Minaj vs Rukh Lviv #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/965428_small.png", [LIVE] 17h00 - FC Minaj vs Rukh Lviv #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://www.scoreboard.com/res/image/data/8KiHfxjl-tEenIQtm.png", [LIVE] 17h00 - Binh Phuoc vs Quang Nam #Nhà Đài
+#EXTINF:-1 group-title="CAST" tvg-logo="https://www.scoreboard.com/res/image/data/8KiHfxjl-tEenIQtm.png", ﻿[LIVE] 17h00 - Binh Phuoc vs Quang Nam #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Binh_Phuoc_FC_logo.png", [LIVE] 17h00 - Binh Phuoc vs Quang Nam #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/523f27e1952c7dedf40d85419c731e65.png", [LIVE] 17h00 - Binh Phuoc vs Quang Nam [Người Già] #Full HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/523f27e1952c7dedf40d85419c731e65.png", [LIVE] 17h00 - Binh Phuoc vs Quang Nam [Người Già] #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/523f27e1952c7dedf40d85419c731e65.png", [LIVE] 17h00 - Binh Phuoc vs Quang Nam [Người Già] #SD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/523f27e1952c7dedf40d85419c731e65.png", [LIVE] 17h00 - Binh Phuoc vs Quang Nam [Người Già] #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-pxwrxlhxon88ryk/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/7da8d685f974d4ec39341ec2b5133f1e.png", [LIVE] 17h00 - FC Mynai vs Rukh Vynnyky
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-k82rekh0098drep/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5745_small.png", [LIVE] 18h00 - FC Lviv vs Chornomorets Odessa #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://live2.cakhia18.com
@@ -93,6 +66,9 @@ https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpzx28moe/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/284315b0aef23c50aadb34f0a2782d32.png", [LIVE] 18h30 - FC Talant vs FK Alga Bishkek
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y39mp1h0l9lnmoj/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/96331f0cb47011fd82fc1a7852b1c624.png", [LIVE] 18h30 - Yuxi Yukun Football Club vs Shaoxing Shangyu Pterosaur
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-23xmvkhp14vnqg8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img0.aiscore.com/football/team/a2137a2ae8e39b5002a3f8909ecb88fe.jpg!w60", [LIVE] 19h00 - Kryvbas vs Metalist Kharkiv [Giàng A Páo] #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live2.cakhia18.com
@@ -102,6 +78,12 @@ https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img0.aiscore.com/football/team/a2137a2ae8e39b5002a3f8909ecb88fe.jpg!w60", [LIVE] 19h00 - Kryvbas vs Metalist Kharkiv [Giàng A Páo] #SD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3bd267c6eccc8d58c06c4c2c9ceba810.png", [LIVE] 19h00 - FC Turan vs Tarlan
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-jw2r09h6v327rz8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png", [LIVE] 19h00 - FO Jas Qyran vs FK Arys
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-965mkyh2xwy7r1g/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Spain La Liga : Mallorca vs Valencia - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
