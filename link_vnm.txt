@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="25/05/2023 19:33:49",25/05/2023 19:33:49
+#EXTINF:-1 group-title="25/05/2023 19:44:05",25/05/2023 19:44:05
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/23/14/1684825599214/623c60de12ab_640_360.jpg", 18:00 - Bóng Đá: Bà Rịa - Vũng Tàu vs CLB Bình Thuận
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -57,6 +57,9 @@ https://179720687.global.cdnfastest.com/live/sd-4jwq2ghzzk0nm0v/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/e80dccd2e4a3f40919c26759b461e59c.png", [LIVE] 18h00 - FC Lviv vs Chernomorets Odessa
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y39mp1h005kemoj/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c65e978a02e25e6c45cf3cf24375b813.png", [LIVE] 18h00 - Yassy Turkistan vs Zhenis
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpzx28moe/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/284315b0aef23c50aadb34f0a2782d32.png", [LIVE] 18h30 - FC Talant vs FK Alga Bishkek
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y39mp1h0l9lnmoj/playlist.m3u8|Referer=https://player.4shares.live
@@ -66,6 +69,9 @@ https://179720687.global.cdnfastest.com/live/sd-23xmvkhp14vnqg8/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3bd267c6eccc8d58c06c4c2c9ceba810.png", [LIVE] 19h00 - FC Turan vs Tarlan
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h6v327rz8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/563c40183d48640fcb72bb5a0eb0e727.png", [LIVE] 19h30 - Hekimoglu Trabzon vs Belediye Vanspor
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8p1xpr51/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Spain La Liga : Mallorca vs Valencia - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
