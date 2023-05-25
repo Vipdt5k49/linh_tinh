@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="26/05/2023 01:55:19",26/05/2023 01:55:19
+#EXTINF:-1 group-title="26/05/2023 02:05:38",26/05/2023 02:05:38
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://static.vebotv.app/files/tennis1.png", ﻿[LIVE] 23h30 25/05 - ATP vs Gonet Geneva Open #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -6,9 +6,6 @@ https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8|Referer=https
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d734fbfa47a4624234a932482eb44b3e.jpg", [LIVE] 00h00 - Amedspor vs Erzincanspor
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh79186md7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3935aabcfa443b64677197fdb20af7cd.png", [LIVE] 00h00 - Degerfors IF vs Hammarby
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-3glrw7h39k4lqdy/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/197710e96433ca507120d5fc3ebfbc58.png", [LIVE] 00h15 - Beroe Stara Zagora vs Spartak Varna
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh796z4md7/playlist.m3u8|Referer=https://player.4shares.live
@@ -132,12 +129,12 @@ https://179720687.global.cdnfastest.com/live/sd-4jwq2ghz273gm0v/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6456_small.png", [LIVE] 01h30 - Cosenza vs Brescia #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/53b6909a40a5d06ba5548d35c5a85ff2.png", [LIVE] 01h30 - FC Sion vs Luzern
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-965mkyh2g5ndr1g/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/fa7a1484f5cae6f025ba822ca42c70a9.png", [LIVE] 01h30 - Grasshopper vs St. Gallen
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y39mp1h0kw1lmoj/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b452d34b5c021778fedac390fde5e963.png", [LIVE] 01h30 - Lugano vs Young Boys
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-k82rekh08637rep/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7896_small.png", [LIVE] 01h30 - Lugano vs Young Boys #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://live2.cakhia18.com
@@ -165,6 +162,12 @@ https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may91/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea #Sơ cua 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh52424r6o/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-vjxm8gh52424r6o/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea [Bún Chả] #FullHD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8|Referer=https://player.4shares.live
@@ -186,6 +189,33 @@ https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8|Referer=https
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Đầu cầu Chelsea [Phở Bò] #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png", [LIVE] 02h00 - Man United vs Chelsea [Giàng A Lử] #HD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd111/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png", [LIVE] 02h00 - Man United vs Chelsea [Giàng A Lử] #HD 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179665839.global.cdnfastest.com/live/luhd222/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png", [LIVE] 02h00 - Man United vs Chelsea [Giàng A Lử] #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png", [LIVE] 02h00 - Man United vs Chelsea [Giàng A Lử] #SD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd111/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png", [LIVE] 02h00 - Man United vs Chelsea [Giàng A Lử] #SD 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179665839.global.cdnfastest.com/live/lusd222/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png", [LIVE] 02h00 - Man United vs Chelsea [Sao Kê] #HD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@sk4-0082/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png", [LIVE] 02h00 - Man United vs Chelsea [Sao Kê] #SD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@sk3-0082/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png", [LIVE] 02h00 - Man United vs Chelsea [Sao Kê] #SD 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://713291609.cloud.anycastapnic.com/pepmc/sk1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png", [LIVE] 02h00 - Man United vs Chelsea [Sao Kê] #SD 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://saoke2.cdn.khmer-hd.com/sk1/playlist.m3u8|Referer=https://vip10.saoketvs.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Offline fan MU vs Chelsea [Người Thỏ & Người Mỏ Vịt] #FullHD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
@@ -204,18 +234,27 @@ https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8|Referer=http
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Đầu cầu MU vs Chelsea [Người Bún & Bánh Cuốn] #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/61a1f9406cde098a265280a3683da9b7.png", [LIVE] 02h00 - Crvena Zvezda vs Cukaricki Stankom
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-l5ergphl1pxgr8k/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Spain La Liga : Mallorca vs Valencia - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 02:00 England Premier League : Manchester United vs Chelsea - Optus Sport (CH-34)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium4/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 02:00 England Premier League : Manchester United vs Chelsea - Sky Sports Premier League (CH-313330)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium130/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 02:00 England Premier League : Manchester United vs Chelsea - Canal+ Foot (CH-343633)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium463/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 02:00 England Premier League : Manchester United vs Chelsea - Sky Sport Premier League DE (CH-35)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium5/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 02:00 England Premier League : Manchester United vs Chelsea - Sky Sport Top Event DE (CH-353536)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium556/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 02:00 England Premier League : Manchester United vs Chelsea - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium61/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -246,3 +285,6 @@ https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:00 2023 IIHF World Championship : Canada vs Finland - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - Sky Sport Top Event DE (CH-353536)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium556/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
