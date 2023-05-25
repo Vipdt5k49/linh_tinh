@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="25/05/2023 17:40:53",25/05/2023 17:40:53
+#EXTINF:-1 group-title="25/05/2023 17:51:12",25/05/2023 17:51:12
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/23/14/1684825433966/18c480624d23_640_360.jpg", 17:00 - Bóng Đá: CLB Bình Phước vs CLB Quảng Nam
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -6,7 +6,7 @@ http://live-zlr1.tv360.vn/manifest/sukien/./playlist_1080p-5M.m3u8|User-Agent=Mo
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/23/14/1684825599214/623c60de12ab_640_360.jpg", 18:00 - Bóng Đá: Bà Rịa - Vũng Tàu vs CLB Bình Thuận
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://live-zlr1.tv360.vn/manifest/HTV_The_Thao_HD-50fps/./playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d1bba4fe3e0e715cf55d89f74aa65bd2.png", ﻿[LIVE] 16h00 - Yadanabon FC vs Ayeyawady united
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d1bba4fe3e0e715cf55d89f74aa65bd2.png", ﻿[LIVE] 16h15 - Yadanabon FC vs Ayeyawady united
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l5ergphl7zl4r8k/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/186789/image", [LIVE] 16h15 - Yadanarbon vs Ayeyawady [Giàng A Phọt] #HD
@@ -18,6 +18,9 @@ https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8
 #EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/186789/image", [LIVE] 16h15 - Yadanarbon vs Ayeyawady [Giàng A Phọt] #SD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@photsd1/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/585ac15f9198c3162dc7de08ab99ca17.png", [LIVE] 16h30 - Chinland vs Mawyawadi
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-jw2r09h6ge65rz8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/965428_small.png", [LIVE] 17h00 - FC Minaj vs Rukh Lviv #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live2.cakhia18.com
