@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="25/05/2023 22:33:45",25/05/2023 22:33:45
+#EXTINF:-1 group-title="25/05/2023 22:42:29",25/05/2023 22:42:29
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="NAMED", Rai Sport 31 Italy
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -132,6 +132,9 @@ https://webudit.salamus1.lol/lb/premium69/index.m3u8|User-Agent=Mozilla/5.0+(Win
 #EXTINF:-1 group-title="NONAME",70
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium70/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="NAMED", Eleven Sports 1 Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium71/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="NAMED", Eleven Sport 2 Poland
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium72/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -330,9 +333,6 @@ https://webudit.salamus1.lol/lb/premium145/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="NAMED", Sport 5 Live Israel
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium146/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="NONAME",148
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium148/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="NAMED", ESPN SUR
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium149/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -558,9 +558,6 @@ https://webudit.salamus1.lol/lb/premium352/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="NONAME",357
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium357/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="NONAME",358
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium358/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="NONAME",366
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium366/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -711,9 +708,6 @@ https://webudit.salamus1.lol/lb/premium417/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="NAMED", SuperSport Variety 3
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium418/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="NAMED", SuperSport Variety 4
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium419/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="NONAME",420
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium420/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -885,6 +879,9 @@ https://webudit.salamus1.lol/lb/premium491/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="NONAME",492
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium492/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="NONAME",493
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium493/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="NAMED", beIN Sports MAX 4 France
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium494/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -1041,6 +1038,9 @@ https://webudit.salamus1.lol/lb/premium553/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="NAMED", Sky Sport Top Event DE
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium556/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="NONAME" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg",558 50f
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium558/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="NAMED", Sky Sport Austria 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium559/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -1563,16 +1563,13 @@ https://webudit.salamus1.lol/lb/premium816/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="NONAME",820
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium820/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="NONAME",823
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium823/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="NONAME",824
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium824/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="NONAME",825
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium825/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="NONAME",826
+#EXTINF:-1 group-title="NONAME" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg",826 50f
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium826/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="NONAME",827
