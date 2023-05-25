@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="26/05/2023 03:07:10",26/05/2023 03:07:10
+#EXTINF:-1 group-title="26/05/2023 03:17:42",26/05/2023 03:17:42
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/afbdd53d1cf6aaaded4b33a863f36ecb.png", ﻿[LIVE] 00h30 - Ankaragucu vs Istanbul Buyuksehir Belediyesi
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -6,12 +6,6 @@ https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx8xv6ryk/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9742_small.png", [LIVE] 00h30 - Ankaragücü vs Istanbul Başakşehir #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6636_small.png", [LIVE] 01h00 - France U20 vs Gambia U20 #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png", [LIVE] 01h00 - Uruguay U20 vs England U20 #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia18.com
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d5eaeff7a8e671b4a4a7317265cf798a.png", [LIVE] 01h30 - Cosenza Calcio 1914 vs Brescia
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-4jwq2ghz273gm0v/playlist.m3u8|Referer=https://player.4shares.live
@@ -39,30 +33,12 @@ https://179720687.global.cdnfastest.com/live/sd-ednm9wh2dxg4ryo/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/16dc7bdfba30e5705d1cab925136e85a.png", [LIVE] 01h30 - Winterthur vs FC Zurich
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-4jwq2ghz0p7dm0v/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea #HD (Bún + Cuốn)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea #HD (Chả)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea #HD (Phở)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea #HD (Thỏ)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may91/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-vjxm8gh52424r6o/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea #Sơ cua 2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/hd-en-vjxm8gh52424r6o/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea [Bún Chả] #FullHD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea [Bún Chả] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Chelsea [Bún Chả] #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live2.thapcam.net/truc-tiep/manchester-united-vs-chelsea-rE8TpEp|Referer=https://player.4shares.live
@@ -75,6 +51,9 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/p
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Đầu cầu Chelsea [Phở Bò] #FullHD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Đầu cầu Chelsea [Phở Bò] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Manchester United vs Đầu cầu Chelsea [Phở Bò] #SD1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8|Referer=https://player.4shares.live
@@ -111,15 +90,27 @@ https://saoke2.cdn.khmer-hd.com/sk1/playlist.m3u8|Referer=https://vip10.saoketvs
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Offline fan MU vs Chelsea [Người Thỏ & Người Mỏ Vịt] #FullHD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Offline fan MU vs Chelsea [Người Thỏ & Người Mỏ Vịt] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Offline fan MU vs Chelsea [Người Thỏ & Người Mỏ Vịt] #SD1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Offline fan MU vs Chelsea [Người Thỏ & Người Mỏ Vịt] #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Offline fan MU vs Chelsea [Người Thỏ & Người Mỏ Vịt] #Sơ cua 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh52424r6o/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Offline fan MU vs Chelsea [Người Thỏ & Người Mỏ Vịt] #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-vjxm8gh52424r6o/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Đầu cầu MU vs Chelsea [Người Bún & Bánh Cuốn] #FullHD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Đầu cầu MU vs Chelsea [Người Bún & Bánh Cuốn] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png", [LIVE] 02h00 - Đầu cầu MU vs Chelsea [Người Bún & Bánh Cuốn] #SD1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8|Referer=https://player.4shares.live
