@@ -1,9 +1,6 @@
-#EXTINF:-1 group-title="25/05/2023 20:04:37",25/05/2023 20:04:37
+#EXTINF:-1 group-title="25/05/2023 20:14:52",25/05/2023 20:14:52
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/284315b0aef23c50aadb34f0a2782d32.png", ﻿[LIVE] 18h30 - FC Talant vs FK Alga Bishkek
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y39mp1h0l9lnmoj/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/96331f0cb47011fd82fc1a7852b1c624.png", [LIVE] 18h30 - Yuxi Yukun Football Club vs Shaoxing Shangyu Pterosaur
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/96331f0cb47011fd82fc1a7852b1c624.png", ﻿[LIVE] 18h30 - Yuxi Yukun Football Club vs Shaoxing Shangyu Pterosaur
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-23xmvkhp14vnqg8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3bd267c6eccc8d58c06c4c2c9ceba810.png", [LIVE] 19h00 - FC Turan vs Tarlan
@@ -15,6 +12,15 @@ https://179720687.global.cdnfastest.com/live/sd-965mkyh2xwy7r1g/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/563c40183d48640fcb72bb5a0eb0e727.png", [LIVE] 19h30 - Hekimoglu Trabzon vs Belediye Vanspor
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8p1xpr51/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3f5c82900b38b0c2860851cb53b47984.png", [LIVE] 20h00 - Karaman Belediyespor vs Ayvalikgucu Belediyespor
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh51x7jr6o/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4145_small.png", [LIVE] 20h00 - Lernayin A. vs Ararat #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/0f6913e2cc99b9a7b9c2a2ca89773a96.jpg", [LIVE] 20h00 - Lernayin Artsakh vs Ararat Yerevan
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-1l4rjnhj41djm7v/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Spain La Liga : Mallorca vs Valencia - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
