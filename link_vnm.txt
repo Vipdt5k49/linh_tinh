@@ -1,6 +1,9 @@
-#EXTINF:-1 group-title="25/05/2023 16:12:48",25/05/2023 16:12:48
+#EXTINF:-1 group-title="25/05/2023 16:23:04",25/05/2023 16:23:04
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6c9b59f9726bb561e9d56f0170760991.png", ﻿[LIVE] 15h00 - Jiangxi Dark Horse Junior vs Chongqing Tongliangloong Football Club
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/2f9eb966ea08f899aab909c6af10513a.png", ﻿[LIVE] 14h30 - Tai'an Tiankuang vs Dalian Duxing Football Club
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3yw4jm2w/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6c9b59f9726bb561e9d56f0170760991.png", [LIVE] 15h00 - Jiangxi Dark Horse Junior vs Chongqing Tongliangloong Football Club
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5d8yor6o/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d1bba4fe3e0e715cf55d89f74aa65bd2.png", [LIVE] 16h00 - Yadanabon FC vs Ayeyawady united
