@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="26/05/2023 18:16:00",26/05/2023 18:16:00
+#EXTINF:-1 group-title="26/05/2023 11:19:57",26/05/2023 11:19:57
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/1940/image", ﻿[LIVE] 09h00 - Tigres UANL vs Chivas Guadalajara [Người Nện] #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
