@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="26/05/2023 20:54:22",26/05/2023 20:54:22
+#EXTINF:-1 group-title="26/05/2023 21:04:41",26/05/2023 21:04:41
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/24/14/1684914734387/2a070f206e36_640_360.jpg", 18:30 - Bóng Đá: CLB Hải Phòng vs CLB Khánh Hòa
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -96,9 +96,33 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/
 #EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/33124/image", [LIVE] 19h15 - Hải Phòng vs Khánh Hòa [Trâu Gác Bếp] #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-n54qllhpwwe9qvy/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/555ed40ede7fc6f2879993bc058fb8ac.png", [LIVE] 19h50 - PFK Montana vs FC Dobrudzha
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-965mkyh21d7lr1g/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c7ef810171c64895c16b85b56d1b3c28.png", [LIVE] 20h00 - Efeler 09 vs Artvin Hopaspor
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-318q66h6ek11qo9/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1078400_small.png", [LIVE] 20h00 - Van vs Shirak #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x3/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/52ad6d005782baec899d29055cbed020.png", [LIVE] 21h00 - Bodrumspor vs Goztepe
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-n54qllhp0dk0qvy/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/658811_small.png", [LIVE] 21h00 - Bodrumspor vs Göztepe [Giàng A Lử] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd111/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/658811_small.png", [LIVE] 21h00 - Bodrumspor vs Göztepe [Giàng A Lử] #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/658811_small.png", [LIVE] 21h00 - Bodrumspor vs Göztepe [Giàng A Lử] #SD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd111/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/77fb91230c25df960873cb7c278f1334.png", [LIVE] 21h00 - Racing Club Reserves vs Defensa y Justicia Reserves
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-8yomo4hgp5yeq0j/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b3dabcc55cb6e8d387dd75376e2464e3.png", [LIVE] 21h00 - Tigre Reserves vs Boca Juniors Reserve
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6k234q82/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 FIFA U-20 World Cup : Slovakia U20 vs United States U20 - beIN SPORTS 2 PREMIUM (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
