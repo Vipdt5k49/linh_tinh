@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="26/05/2023 18:20:50",26/05/2023 18:20:50
+#EXTINF:-1 group-title="26/05/2023 18:41:12",26/05/2023 18:41:12
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/24/11/168490227318/1d58e121edda_640_360.jpg", 18:00 - Bóng Đá: Topenland Bình Định vs Thép Xanh Nam Định
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -6,22 +6,7 @@ http://live-zlr1.tv360.vn/manifest/HTV_The_Thao_HD-50fps/./playlist_HTV-TheThao-
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/24/14/1684914734387/2a070f206e36_640_360.jpg", 18:30 - Bóng Đá: CLB Hải Phòng vs CLB Khánh Hòa
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://live-zlr1.tv360.vn/manifest/sukien/./playlist_1080p-5M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/826b807221d9a7cc3bd6df7797853920.png", ﻿[LIVE] 16h30 - Box Hill (w) vs Preston Lions (w)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-8yomo4hg6dlwq0j/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d6a96f7603b190bb46e2de96cf41d9a0.png", [LIVE] 16h30 - Hantharwady United vs Dagon FC
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-dj2ryohe9we9q1z/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/959622e4ada5a88652672ae91d8ba17d.png", [LIVE] 16h30 - Southside Eagles vs Queensland Lions SC
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-l5ergphl7dnxr8k/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f9eaa241dfc24ef3be2bdd8734612f29.png", [LIVE] 16h30 - Sydney FC (Youth) vs Marconi Stallions
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-l5ergphldyeer8k/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/efae44ec97227dca2a2b38a19823a2f2.png", [LIVE] 16h30 - Wollongong Wolves vs Sutherland Sharks
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-jw2r09h639jwrz8/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d9871eddeba5e0acc3b10d79ce715b34.png", [LIVE] 17h00 - Chittagong Abahani vs Azampur FC Uttara
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d9871eddeba5e0acc3b10d79ce715b34.png", ﻿[LIVE] 17h00 - Chittagong Abahani vs Azampur FC Uttara
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhzp3e0qwz/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png", [LIVE] 17h00 - FK Taraz vs Akademiya Ontustik
@@ -33,27 +18,21 @@ https://179720687.global.cdnfastest.com/live/sd-y0or5jhzdv77qwz/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/ce420e1c7a8b93f3dfe28434e89a3e41.png", [LIVE] 17h00 - KSPO FC (w) vs Boeun Sangmu (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3dl4lm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/945908a6546987110c60eaf9cfef05ca.png", [LIVE] 17h00 - Mohammedan Dhaka vs Abahani Limited
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-x7lm7ph36w0km2w/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/452897128d9fec1594af0e8795026c1f.png", [LIVE] 17h00 - Suwon FMC (w) vs Changnyeong (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-pxwrxlhxwdppryk/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/710716387c508ae1fddc3c593f953bfb.png", [LIVE] 17h15 - Essendon Royals vs Caroline Springs George Cross
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-k82rekh0k14prep/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f5303a9bc7a98344ffa9b7c060817077.png", [LIVE] 17h15 - Launceston City vs Riverside Olympic
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwdognql0/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/5cae62255ca170949672a7ce8999b094.png", [LIVE] 17h30 - Heidelberg United vs Hume City
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-6ypq3nh78g96md7/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/873f655c74783dbb85de6cacc8f503c0.png", [LIVE] 17h30 - Oakleigh Cannons vs Melbourne Knights
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-pxwrxlhxn74gryk/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/1e40b9c5ee0d8ffc6b77d7b5a1b68385.png", [LIVE] 17h45 - FFSA NTC Girls (w) vs Fulham United (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h38ydkqdy/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/22b8a1add9247e3d7ab27d27e4f15fa8.png", [LIVE] 17h45 - West Torrens Birkalla (W) vs Adelaide City (w)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-y0or5jhzp3veqwz/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Nam Dinh [Giàng A Phọt] #HD 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/playlist.m3u8|Referer=https://live2.cakhia18.com
@@ -81,27 +60,12 @@ https://713291609.cloud.anycastapnic.com/pepmc/x3y1/playlist.m3u8|Referer=https:
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Nam Dinh [Thần Chổi] #SD 3
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://saoke2.cdn.khmer-hd.com/x3y1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Nam Định [Phở Bò] #Full HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Nam Định [Phở Bò] #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Nam Định [Phở Bò] #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live2.thapcam.net/truc-tiep/binh-dinh-vs-nam-dinh-WZkZcwP|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Nam Định [Phở Bò] #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Nam Định [Phở Bò] #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Nam Định [Phở Bò] #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph322opm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/99ba7fc8678d8ee40ab1c56443f4b1a3.png", [LIVE] 18h00 - FC Chernigiv vs Prykarpattya Ivano Frankivsk
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-1l4rjnhj0d69m7v/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/fd9d7bace6738fd4c071c402b1f75c8d.png", [LIVE] 18h00 - FK Yelimay Semey vs Ekibastuzets
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-4wyrn4honwx9q86/playlist.m3u8|Referer=https://player.4shares.live
@@ -117,6 +81,15 @@ https://179720687.global.cdnfastest.com/live/sd-ednm9wh24pkoryo/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/10301db45fca8c2135ea0622db68532f.png", [LIVE] 18h00 - Skoruk Tomakovka vs FC Bukovyna chernivtsi
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-965mkyh2x070r1g/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/37a6d93f9ef15fd418595aeba50740e8.png", [LIVE] 18h30 - Chao Pak Kei vs Xiamen Lujiantiancheng Football Club
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-l5ergphlxljpr8k/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c2dcf3c238a01b1ea74228b63d8b47fc.png", [LIVE] 18h30 - Guangdong Red Treasure Football Club vs Guangxi Junling Fast
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-jw2r09h6y6dprz8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/22323482973b7884230ef38777e700c3.png", [LIVE] 18h35 - Beijing Guoan U21 vs Zhejiang Professional FC U21
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho3726q86/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Portugal Primeira Liga : Rio Ave vs Famalicão - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
