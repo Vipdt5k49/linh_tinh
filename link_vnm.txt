@@ -1,56 +1,20 @@
-#EXTINF:-1 group-title="27/05/2023 02:57:55",27/05/2023 02:57:55
+#EXTINF:-1 group-title="27/05/2023 03:18:08",27/05/2023 03:18:08
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4116_small.png", ﻿[LIVE] 01h00 - Almere City FC vs FC Eindhoven #Nhà Đài
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6fc28fcf1969e983c6974c9f5b96b77c.PNG", ﻿[LIVE] 01h00 - Almere City FC vs FC Eindhoven
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx4zveryk/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4116_small.png", [LIVE] 01h00 - Almere City FC vs FC Eindhoven #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4757/image", [LIVE] 01h00 - Ecuador U20 vs Fiji U20 #FullHD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4757/image", [LIVE] 01h00 - Ecuador U20 vs Fiji U20 #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png", [LIVE] 01h00 - Ecuador U20 vs Fiji U20 #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/263041_small.png", [LIVE] 01h00 - Ecuador U20 vs Fiji U20 #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x3/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4757/image", [LIVE] 01h00 - Ecuador U20 vs Fiji U20 #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4757/image", [LIVE] 01h00 - Ecuador U20 vs Fiji U20 #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7841_small.png", [LIVE] 01h00 - Rio Ave vs Famalicao #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7841_small.png", [LIVE] 01h00 - Rio Ave vs Famalicao #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/e83b163c8501f897012bcc29adfae2b9.png", [LIVE] 01h00 - Rio Ave vs FC Famalicao
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhzjw8yqwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4697/image", [LIVE] 01h00 - Slovakia U20 vs USA U20 #FullHD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4697/image", [LIVE] 01h00 - Slovakia U20 vs USA U20 #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5871_small.png", [LIVE] 01h00 - Slovakia U20 vs USA U20 #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4697/image", [LIVE] 01h00 - Slovakia U20 vs USA U20 #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4697/image", [LIVE] 01h00 - Slovakia U20 vs USA U20 #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5871_small.png", [LIVE] 01h00 - Slovakia U20 vs USA U20 [Thần Chổi] #HD 
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4-0493/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5871_small.png", [LIVE] 01h00 - Slovakia U20 vs USA U20 [Thần Chổi] #SD 
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3-0493/playlist.m3u8|Referer=https://vip10.saoketvs.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3ae4f12b897c4bb51327a8e1c921df7d.gif", [LIVE] 01h00 - Wegberg-Beeck vs Hurth
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-318q66h6e763qo9/playlist.m3u8|Referer=https://player.4shares.live
@@ -108,9 +72,6 @@ https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png", [LIVE] 01h45 - Sampdoria vs Sassuolo [Giàng A Chuối] #SD 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179665839.global.cdnfastest.com/live/cachuoisd2/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/8c09cef92a06c4b85c37df2d5c201966.png", [LIVE] 01h45 - Ayr United vs Partick Thistle
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-8yomo4hgpvl6q0j/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/5b218206069ad7bbe999fcaced8989f4.png", [LIVE] 01h45 - Bastia vs Le Havre
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l7oqdeh830wgr51/playlist.m3u8|Referer=https://player.4shares.live
@@ -123,9 +84,6 @@ https://179720687.global.cdnfastest.com/live/sd-dn1m1ghp9d66moe/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/49f16b80aa6bbdf0f40c6170339d3239.png", [LIVE] 01h45 - Caen vs Saint Etienne
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h60jy2rz8/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/da0905816f0dfa5075683e34b64fcf16.png", [LIVE] 01h45 - Cork City vs Shamrock Rovers
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhz9dd0qwz/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a09bdd4fbd4e94b25365b5b64a5e9e05.png", [LIVE] 01h45 - Dijon vs Paris FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-dj2ryohexg67q1z/playlist.m3u8|Referer=https://player.4shares.live
@@ -147,9 +105,6 @@ https://179720687.global.cdnfastest.com/live/sd-k82rekh0ee39rep/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/85ffc58ae48c8480d3aa5818da1ac4a5.png", [LIVE] 01h45 - Quevilly vs Amiens
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h3py22qdy/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/996f2181c782adc5cbf1e0a98c0fe9b6.png", [LIVE] 01h45 - Rodez Aveyron vs Pau FC
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx3j8oryk/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4120_small.png", [LIVE] 01h45 - Rodez vs Pau #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://live2.cakhia18.com
@@ -183,9 +138,6 @@ https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7np25md7/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/426666bc594a8c414a9b6c0caa6b74b0.png", [LIVE] 02h00 - Orleans US 45 vs Concarneau
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h3pgxyqdy/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/bb5e56788b036b1305fe02460fd4b095.png", [LIVE] 02h00 - Paris 13 Atletico vs Chateauroux
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5w7npr6o/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/74c7f4f137149d012051f58396e95e35.png", [LIVE] 02h00 - Real Zaragoza vs Tenerife
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-2y8m4zhw4kxyql0/playlist.m3u8|Referer=https://player.4shares.live
@@ -195,9 +147,12 @@ https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/7856af721c37b990ccdf39fea798dbdf.png", [LIVE] 02h00 - Red Star FC 93 vs Stade Briochin
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph372lpm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d709f38ef758b5066ef31b18039b8ce5.jpg", [LIVE] 02h00 - Sedan vs Villefranche
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3514be4deaac9320c4d86bbf119c82af.png", [LIVE] 03h00 - Academia Deportiva Cantolao vs Deportivo Garcilaso
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhzowv0qwz/playlist.m3u8|Referer=https://player.4shares.live
+https://179720687.global.cdnfastest.com/live/sd-1l4rjnhjgedwm7v/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4531_small.png", [LIVE] 03h15 - Vizela vs Sporting CP #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Portugal Primeira Liga : Rio Ave vs Famalicão - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
