@@ -1,5 +1,11 @@
-#EXTINF:-1 group-title="26/05/2023 14:04:42",26/05/2023 14:04:42
+#EXTINF:-1 group-title="26/05/2023 14:10:45",26/05/2023 14:10:45
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/5c210283ed526ab7336351ba45aba812.png", ﻿[LIVE] 14h00 - Chengdu Rongcheng U21 vs Henan FC U21
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpjo72moe/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/51bbefa8069e06c0e2911f4c690feb29.png", [LIVE] 14h00 - Sejong Gumi Sportstoto (w) vs Seoul Amazones (w)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5onyzr6o/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Turkish Cup : Ankaragücü vs İstanbul Başakşehir - A Spor Turkey (CH-32)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium2/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
