@@ -1,53 +1,113 @@
-#EXTINF:-1 group-title="26/05/2023 09:16:20",26/05/2023 09:16:20
+#EXTINF:-1 group-title="26/05/2023 08:45:06",26/05/2023 08:45:06
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/2e92e906a8eefb7d3cdbee066fe622a7.png", ﻿[LIVE] 07h30 - North Texas SC vs Colorado Rapids II
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3de7fff92c61b2ac93b08814386cf85d.png", ﻿[LIVE] 07h00 - CA Huracan vs Club Sport Emelec
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-dj2ryohe044jq1z/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3de7fff92c61b2ac93b08814386cf85d.png", [LIVE] 07h00 - CA Huracan vs Club Sport Emelec #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-dj2ryohe044jq1z/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/4001bbbf6a6272347b1a7901bbd7860b.png", [LIVE] 07h00 - Estudiantes Merida FC vs Palestino
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-dj2ryohe041jq1z/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/4001bbbf6a6272347b1a7901bbd7860b.png", [LIVE] 07h00 - Estudiantes Merida FC vs Palestino #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-dj2ryohe041jq1z/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/93061_small.png", [LIVE] 07h00 - Estudiantes Merida vs Palestino #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m206nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/93061_small.png", [LIVE] 07h00 - Estudiantes Merida vs Palestino #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x6/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10081_small.png", [LIVE] 07h00 - Huracan vs Emelec #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10081_small.png", [LIVE] 07h00 - Huracan vs Emelec #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x3/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d138a4d0829205be8e477b43d95b138d.png", [LIVE] 07h00 - Macara vs CD Vargas Torres
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7ddjdmd7/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/365280_small.png", [LIVE] 07h00 - Metropolitanos FC vs Internacional #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/365280_small.png", [LIVE] 07h00 - Metropolitanos FC vs Internacional #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6528d5852a5c4d3060d15c94f122b81d.png", [LIVE] 07h00 - Metropolitanos FC vs Internacional RS #FullHD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6528d5852a5c4d3060d15c94f122b81d.png", [LIVE] 07h00 - Metropolitanos FC vs Internacional RS #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6528d5852a5c4d3060d15c94f122b81d.png", [LIVE] 07h00 - Metropolitanos FC vs Internacional RS #SD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6528d5852a5c4d3060d15c94f122b81d.png", [LIVE] 07h00 - Metropolitanos FC vs Internacional RS #Sơ cua 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-y0or5jhzkjxyqwz/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6528d5852a5c4d3060d15c94f122b81d.png", [LIVE] 07h00 - Metropolitanos FC vs Internacional RS #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-y0or5jhzkjxyqwz/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6528d5852a5c4d3060d15c94f122b81d.png", [LIVE] 07h00 - Metropolitanos FC vs Internacional RS [Trâu Gác Bếp] #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-y0or5jhzkjxyqwz/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d1b4fee45c275f4eb9ceaff444e4ec56.png", [LIVE] 07h00 - Oriente Petrolero vs Bragantino
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-1l4rjnhj055gm7v/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d1b4fee45c275f4eb9ceaff444e4ec56.png", [LIVE] 07h00 - Oriente Petrolero vs Bragantino #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-1l4rjnhj055gm7v/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1844_small.png", [LIVE] 07h00 - Oriente Petrolero vs Red Bull Bragantino #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1844_small.png", [LIVE] 07h00 - Oriente Petrolero vs Red Bull Bragantino #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x4/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/2302/image", [LIVE] 07h00 - Sporting Cristal vs River Plate #FullHD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/2302/image", [LIVE] 07h00 - Sporting Cristal vs River Plate #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1848_small.png", [LIVE] 07h00 - Sporting Cristal vs River Plate #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/2302/image", [LIVE] 07h00 - Sporting Cristal vs River Plate #SD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/2302/image", [LIVE] 07h00 - Sporting Cristal vs River Plate #Sơ cua 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-3glrw7h350wgqdy/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/2302/image", [LIVE] 07h00 - Sporting Cristal vs River Plate #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-3glrw7h350wgqdy/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://cdn.livesoccertv.com/images/teams/peru/logos/sporting-cristal.png", [LIVE] 07h00 - Sporting Cristal vs River Plate [Giàng A Páo] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://cdn.livesoccertv.com/images/teams/peru/logos/sporting-cristal.png", [LIVE] 07h00 - Sporting Cristal vs River Plate [Giàng A Páo] #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://cdn.livesoccertv.com/images/teams/peru/logos/sporting-cristal.png", [LIVE] 07h00 - Sporting Cristal vs River Plate [Giàng A Páo] #SD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6ce6801ee631ce04c9bc9df54a85bf87.png", [LIVE] 07h00 - Univ.Cesar Vallejo vs Botafogo RJ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-1l4rjnhj052gm7v/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6ce6801ee631ce04c9bc9df54a85bf87.png", [LIVE] 07h00 - Univ.Cesar Vallejo vs Botafogo RJ #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-1l4rjnhj052gm7v/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4415_small.png", [LIVE] 07h00 - Universidad Cesar Vallejo vs Botafogo #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4415_small.png", [LIVE] 07h00 - Universidad Cesar Vallejo vs Botafogo #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x5/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/2e92e906a8eefb7d3cdbee066fe622a7.png", [LIVE] 07h30 - North Texas SC vs Colorado Rapids II
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-ednm9wh2nv04ryo/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/96580e883dc95fa190949d98e2c3e259.png", [LIVE] 07h30 - Patriotas FC vs Cortulua
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y39mp1h0ly34moj/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png", [LIVE] 09h00 - Alajuelense vs Deportivo Saprissa
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y39mp1h0l9pjmoj/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6335_small.png", [LIVE] 09h00 - LD Alajuelense vs Deportivo Saprissa #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/ca05b27dd2979a344914fd662c3471c7.png", [LIVE] 09h00 - Portland Timbers Reserve vs Saint Louis City B
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6kp4oq82/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/01cc9879fc21a3d66c3bac235404df65.png", [LIVE] 09h00 - San Jose Earthquakes Reserve vs Vancouver Whitecaps Reserve
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-318q66h6e4n9qo9/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/350fb0b07c02337e8155e3bf29a47bc1.png", [LIVE] 09h00 - Shanghai SIPG U21 vs Shenzhen FC U21
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-318q66h6e726qo9/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/1940/image", [LIVE] 09h00 - Tigres UANL vs Chivas Guadalajara #Full HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/nenFHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/1940/image", [LIVE] 09h00 - Tigres UANL vs Chivas Guadalajara #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/1940/image", [LIVE] 09h00 - Tigres UANL vs Chivas Guadalajara #SD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/1940/image", [LIVE] 09h00 - Tigres UANL vs Chivas Guadalajara #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-1l4rjnhj7e60m7v/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/1940/image", [LIVE] 09h00 - Tigres UANL vs Chivas Guadalajara [Người Nện] #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-1l4rjnhj7e60m7v/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8561_small.png", [LIVE] 09h00 - Tigres vs Chivas #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8561_small.png", [LIVE] 09h00 - Tigres vs Chivas [Giàng A Phọt] #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8561_small.png", [LIVE] 09h00 - Tigres vs Chivas [Giàng A Phọt] #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8561_small.png", [LIVE] 09h00 - Tigres vs Chivas [Giàng A Phọt] #SD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@photsd1/playlist.m3u8|Referer=https://live2.cakhia18.com
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Turkish Cup : Ankaragücü vs İstanbul Başakşehir - A Spor Turkey (CH-32)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium2/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -57,6 +117,9 @@ https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 01:00 FIFA U-20 World Cup : Uruguay U20 vs England U20 - beIN Sports MENA Premium 2 (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 02:00 England Premier League : Manchester United vs Chelsea - Sky Sports Premier League (CH-313330)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium130/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 02:00 England Premier League : Manchester United vs Chelsea - Sky Sport Premier League DE (CH-35)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium5/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -78,9 +141,9 @@ https://webudit.salamus1.lol/lb/premium92/index.m3u8|User-Agent=Mozilla/5.0+(Win
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : Iraq U20 vs Tunisia U20 - beIN Sports MENA Premium 2 (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : Korea Republic U20 vs Honduras U20 - beIN Sports MENA English 2 (CH-3930)
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 05:00 Copa Libertadores : The Strongest vs Fluminense - ESPN 1 NL (CH-333739)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium90/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium379/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 05:00 Copa Sudamericana : Danubio vs Guaraní - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium61/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -105,9 +168,9 @@ https://webudit.salamus1.lol/lb/premium5/index.m3u8|User-Agent=Mozilla/5.0+(Wind
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 07:30 NBA : Miami Heat vs Boston Celtics - TNT USA (CH-333338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium338/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 07:30 NBA : Miami Heat vs Boston Celtics - beIN Sports MENA English 2 (CH-3930)
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 07:30 NBA : Miami Heat vs Boston Celtics - ESPN 1 NL (CH-333739)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium90/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium379/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 20:00 2023 IIHF World Championship : USA vs Czech Republic - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -141,9 +204,6 @@ https://webudit.salamus1.lol/lb/premium46/index.m3u8|User-Agent=Mozilla/5.0+(Win
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : New Zealand U20 vs Argentina U20 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : New Zealand U20 vs Argentina U20 - beIN SPORTS 2 English (CH-3930)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium90/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : New Zealand U20 vs Argentina U20 - beIN SPORTS 2 PREMIUM (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -165,6 +225,3 @@ https://webudit.salamus1.lol/lb/premium103/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 01:20 MLB : Cincinnati Reds vs Chicago Cubs - BT Sport 1 UK (CH-3331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium31/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 01:20 MLB : Cincinnati Reds vs Chicago Cubs - beIN SPORTS 2 English (CH-3930)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium90/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
