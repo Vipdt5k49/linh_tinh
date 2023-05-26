@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="26/05/2023 18:51:26",26/05/2023 18:51:26
+#EXTINF:-1 group-title="26/05/2023 19:01:44",26/05/2023 19:01:44
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/24/11/168490227318/1d58e121edda_640_360.jpg", 18:00 - Bóng Đá: Topenland Bình Định vs Thép Xanh Nam Định
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -6,9 +6,15 @@ http://live-zlr1.tv360.vn/manifest/HTV_The_Thao_HD-50fps/./playlist_HTV-TheThao-
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/24/14/1684914734387/2a070f206e36_640_360.jpg", 18:30 - Bóng Đá: CLB Hải Phòng vs CLB Khánh Hòa
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://live-zlr1.tv360.vn/manifest/sukien/./playlist_1080p-5M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/24/14/1684914701469/12bb1d190768_640_360.jpg", 19:15 - Bóng Đá: Công An Hà Nội vs Sông Lam Nghệ An
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d9871eddeba5e0acc3b10d79ce715b34.png", ﻿[LIVE] 17h00 - Chittagong Abahani vs Azampur FC Uttara
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhzp3e0qwz/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png", [LIVE] 17h00 - FK Taraz vs Akademiya Ontustik
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-k82rekh04ewyrep/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/ea4ce3a397e17ff504fcb9a4b1c4f740.png", [LIVE] 17h00 - Hyundai Steel Red Angels (w) vs Gyeongju FC (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhzdv77qwz/playlist.m3u8|Referer=https://player.4shares.live
@@ -71,7 +77,7 @@ https://713291609.cloud.anycastapnic.com/pepmc/x3y1/playlist.m3u8|Referer=https:
 https://saoke2.cdn.khmer-hd.com/x3y1/playlist.m3u8|Referer=https://vip10.saoketvs.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Nam Định [Phở Bò] #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live2.thapcam.net/truc-tiep/binh-dinh-vs-nam-dinh-WZkZcwP|Referer=https://player.4shares.live
+https://obevcimanyd179314182.thapcam.link/live/may92/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Nam Định [Phở Bò] #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph322opm2w/playlist.m3u8|Referer=https://player.4shares.live
@@ -105,6 +111,9 @@ https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho3726q86/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/1bc138bc13d186569590f57f9d9127cd.png", [LIVE] 18h45 - Albirex Niigata FC vs Balestier Khalsa FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-k82rekh0je8krep/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67377_small.png", [LIVE] 18h45 - Albirex Niigata FC vs Balestier Khalsa FC #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/193616/image", [LIVE] 19h15 - Công An Nhân Dân vs Sông Lam Nghệ An [Bún Chả] #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
@@ -120,6 +129,21 @@ https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8|Referer=http
 #EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/193616/image", [LIVE] 19h15 - Công An Nhân Dân vs Sông Lam Nghệ An [Bún Chả] #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/33124/image", [LIVE] 19h15 - Hải Phòng vs Khánh Hòa [Trâu Gác Bếp] #Full HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/33124/image", [LIVE] 19h15 - Hải Phòng vs Khánh Hòa [Trâu Gác Bếp] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/33124/image", [LIVE] 19h15 - Hải Phòng vs Khánh Hòa [Trâu Gác Bếp] #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live2.thapcam.net/truc-tiep/hai-phong-vs-khanh-hoa-GweKvpD|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/33124/image", [LIVE] 19h15 - Hải Phòng vs Khánh Hòa [Trâu Gác Bếp] #SD1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/33124/image", [LIVE] 19h15 - Hải Phòng vs Khánh Hòa [Trâu Gác Bếp] #SD2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Portugal Primeira Liga : Rio Ave vs Famalicão - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
