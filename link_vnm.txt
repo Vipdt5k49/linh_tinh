@@ -1,12 +1,6 @@
-#EXTINF:-1 group-title="26/05/2023 08:12:15",26/05/2023 08:12:15
+#EXTINF:-1 group-title="26/05/2023 08:22:28",26/05/2023 08:22:28
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/edb062572326167a76fc8a5542c8a71a.png", ﻿[LIVE] 06h00 - Cincinnati II vs Atlanta United FC II
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhzp3znqwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c5c020935553f0f043f746f9a75d6dca.png", [LIVE] 06h00 - Independente AP vs Sao Paulo AP
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-ednm9wh2yxdkryo/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3de7fff92c61b2ac93b08814386cf85d.png", [LIVE] 07h00 - CA Huracan vs Club Sport Emelec
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3de7fff92c61b2ac93b08814386cf85d.png", ﻿[LIVE] 07h00 - CA Huracan vs Club Sport Emelec
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-dj2ryohe044jq1z/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3de7fff92c61b2ac93b08814386cf85d.png", [LIVE] 07h00 - CA Huracan vs Club Sport Emelec #Sơ cua 2
