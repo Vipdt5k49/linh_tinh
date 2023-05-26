@@ -1,47 +1,8 @@
-#EXTINF:-1 group-title="27/05/2023 06:01:53",27/05/2023 06:01:53
+#EXTINF:-1 group-title="27/05/2023 06:12:13",27/05/2023 06:12:13
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4531_small.png", ﻿[LIVE] 03h15 - Vizela vs Sporting CP #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/879dafe7de10ca61659e2b7a8b34c54f.png", [LIVE] 04h00 - Charlotte Independ B vs North Carolina FC U23
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-k82rekh0k3zdrep/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/187755/image", [LIVE] 04h00 - New Zealand U20 vs Argentina U20 #FullHD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/187755/image", [LIVE] 04h00 - New Zealand U20 vs Argentina U20 #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/187755/image", [LIVE] 04h00 - New Zealand U20 vs Argentina U20 #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/187755/image", [LIVE] 04h00 - New Zealand U20 vs Argentina U20 #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/187755/image", [LIVE] 04h00 - New Zealand U20 vs Argentina U20 #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8w0kyr51/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/187755/image", [LIVE] 04h00 - New Zealand U20 vs Argentina U20 [Người Bún] #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8w0kyr51/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4723/image", [LIVE] 04h00 - Uzbekistan U20 vs Guatemala U20 #FullHD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4723/image", [LIVE] 04h00 - Uzbekistan U20 vs Guatemala U20 #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4723/image", [LIVE] 04h00 - Uzbekistan U20 vs Guatemala U20 #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/chaSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4723/image", [LIVE] 04h00 - Uzbekistan U20 vs Guatemala U20 #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4723/image", [LIVE] 04h00 - Uzbekistan U20 vs Guatemala U20 #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-dj2ryohe6g0kq1z/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4723/image", [LIVE] 04h00 - Uzbekistan U20 vs Guatemala U20 [Bún Chả] #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-dj2ryohe6g0kq1z/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4724/image", [LIVE] 05h00 - USA (w) U20 vs Panama (w) U20
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8p1zpr51/playlist.m3u8|Referer=https://player.4shares.live
@@ -57,9 +18,6 @@ https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 01:45 Italy Serie A : Sampdoria vs Sassuolo - Arena Sport 1 Premium (CH-313334)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium134/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 03:15 Portugal Primeira Liga : Vizela vs Sporting CP - RMC Sport 1 France (CH-313139)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium119/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 03:15 Portugal Primeira Liga : Vizela vs Sporting CP - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -168,9 +126,6 @@ https://webudit.salamus1.lol/lb/premium92/index.m3u8|User-Agent=Mozilla/5.0+(Win
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 02:00 France Ligue 1 : Strasbourg vs PSG - Arena Sport 2 Premium (CH-313335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium135/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 02:30 Portugal Primeira Liga : Sporting Braga vs Paços de Ferreira - RMC Sport 1 France (CH-313139)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium119/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : Colombia U20 vs Senegal U20 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
