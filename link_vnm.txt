@@ -1,2 +1,71 @@
-#EXTINF:-1 group-title="26/05/2023 16:00:00",26/05/2023 16:00:00
+#EXTINF:-1 group-title="26/05/2023 16:04:01",26/05/2023 16:04:01
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/24/11/168490209410/d81106f8e614_640_360.jpg", 16:00 - Bóng Đá: CLB Phù Đổng vs CLB Phú Thọ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+http://live-zlr1.tv360.vn/manifest/Su_Kien_3/./playlist_1080p.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/24/14/1684915105453/6847c297e646_640_360.jpg", 16:00 - Bóng Đá: CLB Bóng đá Huế vs CLB Hòa Bình
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+http://live-zlr1.tv360.vn/manifest/sukien/./playlist_1080p-5M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f9d33397d6dc52e963f25f4f69b0f55b.png", ﻿[LIVE] 15h15 - Heidelberg United U21 vs Hume City U21
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-8yomo4hg66odq0j/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3997db1e8864ff11cd88dceeb8377422.png", [LIVE] 15h15 - Oakleigh Cannons U21 vs Melbourne Knights U21
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwee9oql0/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b3fd08f252ca7176508a6bc7fa492aae.png", [LIVE] 15h30 - Chongqing Benbiao Football Club vs Xiamen1020
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpypd3moe/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6206e9ddf0c739fdcc8c0a7a9dbeec35.png", [LIVE] 15h30 - Guangzhou E-Power FC vs Chengdu Yuhui Rende
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-318q66h6y6dvqo9/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d12d4c7fd6484bf33257913584c8df42.png", [LIVE] 15h45 - Salisbury Inter (w) vs Metropolis United (w)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6kxj6q82/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://www.scoreboard.com/res/image/data/roASWXcM-WIfGrmqa.png", [LIVE] 16h00 - Huế vs Hòa Bình [Giàng A Chuối] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://www.scoreboard.com/res/image/data/roASWXcM-WIfGrmqa.png", [LIVE] 16h00 - Huế vs Hòa Bình [Giàng A Chuối] #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://www.scoreboard.com/res/image/data/roASWXcM-WIfGrmqa.png", [LIVE] 16h00 - Huế vs Hòa Bình [Giàng A Chuối] #SD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a5fe969624b4e240afbd6f425f0fce46.png", [LIVE] 16h00 - TTBD Phu Dong vs Tuan Tu Phu Tho
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh560dzr6o/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png", [LIVE] 16h00 - YANGON UNITED vs Mahar United
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-l7oqdeh89v8xr51/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Portugal Primeira Liga : Rio Ave vs Famalicão - Arena Sport 3 Premium (CH-313339)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 01:45 Italy Serie A : Sampdoria vs Sassuolo - BT Sport 2 UK (CH-3332)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium32/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 01:45 Italy Serie A : Sampdoria vs Sassuolo - Arena Sport 1 Premium (CH-313334)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium134/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 03:15 Portugal Primeira Liga : Vizela vs Sporting CP - Arena Sport 3 Premium (CH-313339)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : Uzbekistan U20 vs Guatemala U20 - beIN SPORTS 3 English (CH-3436)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium46/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 16:00 Formula 3 : Monaco GP - Qualifying - Sport Klub 3 Serbia (CH-313033)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium103/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 18:30 Formula 1 : Monaco Grand Prix - Practice 1 - Sport Klub 3 Serbia (CH-313033)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium103/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 20:08 Formula 2 : Monaco GP - Qualifying - Sport Klub 3 Serbia (CH-313033)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium103/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 22:00 Formula 1 : Monaco Grand Prix - Practice 2 - Sport Klub 3 Serbia (CH-313033)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium103/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 23:40 Porsche Supercup Series: Monte Carlo Qualifying - Sport Klub 3 Serbia (CH-313033)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium103/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 01:20 MLB : Cincinnati Reds vs Chicago Cubs - BT Sport 1 UK (CH-3331)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium31/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
