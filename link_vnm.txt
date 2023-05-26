@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="26/05/2023 10:10:38",26/05/2023 10:10:38
+#EXTINF:-1 group-title="26/05/2023 10:20:51",26/05/2023 10:20:51
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png", ﻿[LIVE] 09h00 - Alajuelense vs Deportivo Saprissa
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -9,9 +9,6 @@ https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x2/playlist.m3u
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/ca05b27dd2979a344914fd662c3471c7.png", [LIVE] 09h00 - Portland Timbers Reserve vs Saint Louis City B
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6kp4oq82/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/01cc9879fc21a3d66c3bac235404df65.png", [LIVE] 09h00 - San Jose Earthquakes Reserve vs Vancouver Whitecaps Reserve
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-318q66h6e4n9qo9/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/350fb0b07c02337e8155e3bf29a47bc1.png", [LIVE] 09h00 - Shanghai SIPG U21 vs Shenzhen FC U21
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-318q66h6e726qo9/playlist.m3u8|Referer=https://player.4shares.live
