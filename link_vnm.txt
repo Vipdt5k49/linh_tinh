@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="26/05/2023 19:32:26",26/05/2023 19:32:26
+#EXTINF:-1 group-title="26/05/2023 19:42:41",26/05/2023 19:42:41
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/24/11/168490227318/1d58e121edda_640_360.jpg", 18:00 - Bóng Đá: Topenland Bình Định vs Thép Xanh Nam Định
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -9,12 +9,12 @@ http://live-zlr1.tv360.vn/manifest/sukien/./playlist_1080p-5M.m3u8|User-Agent=Mo
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/24/14/1684914701469/12bb1d190768_640_360.jpg", 19:15 - Bóng Đá: Công An Hà Nội vs Sông Lam Nghệ An
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/5cae62255ca170949672a7ce8999b094.png", ﻿[LIVE] 17h30 - Heidelberg United vs Hume City
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-6ypq3nh78g96md7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/1e40b9c5ee0d8ffc6b77d7b5a1b68385.png", [LIVE] 17h45 - FFSA NTC Girls (w) vs Fulham United (w)
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/1e40b9c5ee0d8ffc6b77d7b5a1b68385.png", ﻿[LIVE] 17h45 - FFSA NTC Girls (w) vs Fulham United (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h38ydkqdy/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/22b8a1add9247e3d7ab27d27e4f15fa8.png", [LIVE] 17h45 - West Torrens Birkalla (W) vs Adelaide City (w)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-y0or5jhzp3veqwz/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Nam Dinh [Giàng A Phọt] #HD 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/playlist.m3u8|Referer=https://live2.cakhia18.com
@@ -48,15 +48,15 @@ https://obevcimanyd179314182.thapcam.link/live/may92/playlist.m3u8|Referer=https
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Nam Định #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph322opm2w/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/99ba7fc8678d8ee40ab1c56443f4b1a3.png", [LIVE] 18h00 - FC Chernigiv vs Prykarpattya Ivano Frankivsk
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-1l4rjnhj0d69m7v/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/fd9d7bace6738fd4c071c402b1f75c8d.png", [LIVE] 18h00 - FK Yelimay Semey vs Ekibastuzets
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-4wyrn4honwx9q86/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/873e907a88b0248171f67a6f3085e2d3.png", [LIVE] 18h00 - Hirnyk-Sport vs FK Yarud Mariupol
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-4jwq2ghzj54gm0v/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b441594bd311f519000d1790e1855506.png", [LIVE] 18h00 - SC Poltava vs Dinaz Vyshgorod
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-ednm9wh24pkoryo/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/37a6d93f9ef15fd418595aeba50740e8.png", [LIVE] 18h30 - Chao Pak Kei vs Xiamen Lujiantiancheng Football Club
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l5ergphlxljpr8k/playlist.m3u8|Referer=https://player.4shares.live
@@ -69,9 +69,6 @@ https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho3726q86/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67377_small.png", [LIVE] 18h45 - Albirex Niigata FC vs Balestier Khalsa FC #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/679fae18b360a039da7e94c401471191.png", [LIVE] 19h00 - FK Aktobe II vs Khan Tengri FC
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-zp5rzgh69o6lq82/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614354_small.png", [LIVE] 19h15 - Cong An Ha Noi vs Song Lam Nghe An [Giàng A Chuối] #HD 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://live2.cakhia18.com
@@ -168,9 +165,6 @@ https://179720687.global.cdnfastest.com/live/sd-y39mp1h066lzmoj/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/555ed40ede7fc6f2879993bc058fb8ac.png", [LIVE] 19h30 - PFK Montana vs FC Dobrudzha
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-965mkyh21d7lr1g/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 FIFA U-20 World Cup : Ecuador U20 vs Fiji U20 - beIN SPORTS 3 PREMIUM (CH-313030)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium100/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 FIFA U-20 World Cup : Slovakia U20 vs United States U20 - beIN SPORTS 2 PREMIUM (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -189,9 +183,6 @@ https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : Uzbekistan U20 vs Guatemala U20 - beIN SPORTS 3 English (CH-3436)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium46/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : Uzbekistan U20 vs Guatemala U20 - beIN SPORTS 3 PREMIUM (CH-313030)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium100/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : New Zealand U20 vs Argentina U20 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
