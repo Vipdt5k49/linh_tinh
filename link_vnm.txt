@@ -1,15 +1,6 @@
-#EXTINF:-1 group-title="27/05/2023 10:50:17",27/05/2023 10:50:17
+#EXTINF:-1 group-title="27/05/2023 11:00:37",27/05/2023 11:00:37
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f132c9236fb022ddf0004820565b49fd.png", ﻿[LIVE] 09h00 - PDX FC vs Oly Town FC
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-k82rekh0k8jkrep/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f9f96a7e0c789c86175f50d3bdc5cfee.png", [LIVE] 09h00 - San Diego Wave (W) vs Portland Thorns FC (w)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-jw2r09h6vl76rz8/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c2de2973d03bcdadb30fb4cc395fc3b3.jpg", [LIVE] 09h00 - Saprissa (w) vs Sporting FC (W)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-ednm9wh2nd57ryo/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/ff0d0739c041ad09fdc99db4c355a932.png", [LIVE] 09h00 - Tacoma Defiance vs Los Angeles FC II
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/ff0d0739c041ad09fdc99db4c355a932.png", ﻿[LIVE] 09h00 - Tacoma Defiance vs Los Angeles FC II
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-8yomo4hgpvndq0j/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d3700266512d9e222ed3a87c49876fc9.png", [LIVE] 09h30 - Phoenix Rising FC vs Las Vegas Lights
@@ -42,9 +33,48 @@ https://179720687.global.cdnfastest.com/live/sd-x7lm7ph36p8em2w/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png", [LIVE] 10h00 - Pachuca (W) vs Monterrey (W) #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 FIFA U-20 World Cup : Slovakia U20 vs United States U20 - beIN SPORTS 2 PREMIUM (CH-3939)
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/82a4919b33c4cd1184a36f6d48e33b91.png", [LIVE] 11h00 - AS Harima ALBION (w) vs Speranza Takatsuki(w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3dd22m2w/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/2a2a5d251c157be485891c94a1e1a495.png", [LIVE] 11h00 - Consadole Sapporo vs Nagoya Grampus
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-318q66h634jpqo9/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/112688_small.png", [LIVE] 11h00 - Consadole Sapporo vs Nagoya Grampus [Giàng A Phọt] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/112688_small.png", [LIVE] 11h00 - Consadole Sapporo vs Nagoya Grampus [Giàng A Phọt] #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/112688_small.png", [LIVE] 11h00 - Consadole Sapporo vs Nagoya Grampus [Giàng A Phọt] #SD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@photsd1/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b8542c25b8d7b65941eba5012c993de0.png", [LIVE] 11h00 - Criacao Shinjuku vs Veertien Kuwana
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5okwzr6o/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d6d7a70bd2e0f53898d6bd1cacfff994.jpg", [LIVE] 11h00 - Gunma FC White Star (w) vs Shizuoka Sangyo University (w)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5oo70r6o/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/112688_small.png", [LIVE] 11h00 - Hokkaido Consadole Sapporo vs Nagoya Grampus #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x3/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/32088f38a78d51cee7a9363cf621e68c.png", [LIVE] 11h00 - Honda FC vs Yokogawa Musashino
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-pxwrxlhxwl38ryk/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/db8541bd99eb4da4a59c36d86b20bdcd.png", [LIVE] 11h00 - Kochi United vs FC Tiamo Hirakata
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-3glrw7h3e4p8qdy/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/69ede90ac04ff3e4204389bc9ec882ef.png", [LIVE] 11h00 - Launceston United vs Glenorchy Knights FC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7d9znmd7/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b8b460199465f54fd8248acb1fd72b3d.png", [LIVE] 11h00 - Vegalta Sendai (w) vs Nojima Stella (w)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-y39mp1h0gx5pmoj/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/0c068fea8685c930406edc33b5ef1cc4.png", [LIVE] 11h00 - Yangju Citizen vs Chuncheon Citizen
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-3glrw7h3e7yjqdy/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/ea53743f7d56c2bdff6b594fa6d0d833.png", [LIVE] 11h00 - Yokohama SCC vs Giravanz Kitakyushu
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-2y8m4zhw7k86ql0/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:30 Portugal Primeira Liga : Rio Ave vs Famalicão - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -69,9 +99,6 @@ https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : New Zealand U20 vs Argentina U20 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : New Zealand U20 vs Argentina U20 - beIN SPORTS 2 PREMIUM (CH-3939)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 16:00 Formula 3 : Monaco GP - Qualifying - Sport Klub 3 Serbia (CH-313033)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium103/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -120,9 +147,6 @@ https://webudit.salamus1.lol/lb/premium91/index.m3u8|User-Agent=Mozilla/5.0+(Win
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 20:30 Bundesliga : Köln vs Bayern München - Sky Sport Arena Italy (CH-343632)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium462/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 20:30 Bundesliga : Borussia M'gladbach vs Augsburg - beIN Sports MENA Premium 2 (CH-3939)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 22:45 England Championship : Coventry City vs Luton Town - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -138,9 +162,6 @@ https://webudit.salamus1.lol/lb/premium135/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 00:00 Spain La Liga : Sevilla vs Real Madrid - beIN Sports MENA 1 (CH-3931)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium91/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 01:00 FIFA U-20 World Cup : Brazil U20 vs Nigeria U20 - beIN Sports MENA Premium 2 (CH-3939)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 01:45 Italy Serie A : Internazionale vs Atalanta - BT Sport 2 UK (CH-3332)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium32/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -168,6 +189,3 @@ https://webudit.salamus1.lol/lb/premium119/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : Colombia U20 vs Senegal U20 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 04:00 FIFA U-20 World Cup : Colombia U20 vs Senegal U20 - beIN Sports MENA Premium 2 (CH-3939)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
