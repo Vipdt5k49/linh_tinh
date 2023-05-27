@@ -1,27 +1,6 @@
-#EXTINF:-1 group-title="28/05/2023 03:10:00",28/05/2023 03:10:00
+#EXTINF:-1 group-title="28/05/2023 03:30:23",28/05/2023 03:30:23
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3eae75399b66fdd1905febb29b9bbf00.png", ﻿[LIVE] 01h00 - Al-Baten vs Al-adalh
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-965mkyh286v5r1g/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/9d1d9466902be6c4a1195550de23af2f.png", [LIVE] 01h00 - Al-Ettifaq vs Al-Nasr(KSA) [Phở Bò] #Full HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/9d1d9466902be6c4a1195550de23af2f.png", [LIVE] 01h00 - Al-Ettifaq vs Al-Nasr(KSA) [Phở Bò] #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/9d1d9466902be6c4a1195550de23af2f.png", [LIVE] 01h00 - Al-Ettifaq vs Al-Nasr(KSA) [Phở Bò] #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live2.thapcam.net/truc-tiep/al-ettifaq-vs-al-nasrksa-EUPRHNA|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/9d1d9466902be6c4a1195550de23af2f.png", [LIVE] 01h00 - Al-Ettifaq vs Al-Nasr(KSA) [Phở Bò] #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/9d1d9466902be6c4a1195550de23af2f.png", [LIVE] 01h00 - Al-Ettifaq vs Al-Nasr(KSA) [Phở Bò] #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/fa6c1ad3d736562a52972fb6a22ed3f5.png", [LIVE] 01h15 - SD Tarazona vs Compostela
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho3vv8q86/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/aecf6739c5b5c374a1574aaf89c2e017.png", [LIVE] 01h30 - Club Atletico Guemes vs San Telmo
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/aecf6739c5b5c374a1574aaf89c2e017.png", ﻿[LIVE] 01h30 - Club Atletico Guemes vs San Telmo
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpgolzmoe/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/0c8992ef652d337521dbbdf03dd7a97b.png", [LIVE] 01h30 - Foggia vs Crotone
@@ -36,9 +15,6 @@ https://179720687.global.cdnfastest.com/live/sd-4wyrn4hoynzzq86/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/0d56685fdcaf6ffc533a4c9bcfb44e91.png", [LIVE] 01h30 - Pescara vs ACD Virtus Entella
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph36p4xm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/15e3ca2f8686d04acc197235dedf04ba.png", [LIVE] 01h30 - Vicenza vs Cesena
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y39mp1h0lkv7moj/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f694143f9cde3001b1b7c612c1059fd2.png", [LIVE] 01h30 - Znicz Pruszkow vs Wisla Pulawy
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h6vd81rz8/playlist.m3u8|Referer=https://player.4shares.live
