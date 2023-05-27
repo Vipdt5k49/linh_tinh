@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="27/05/2023 12:43:11",27/05/2023 12:43:11
+#EXTINF:-1 group-title="27/05/2023 12:53:29",27/05/2023 12:53:29
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/82a4919b33c4cd1184a36f6d48e33b91.png", ﻿[LIVE] 11h00 - AS Harima ALBION (w) vs Speranza Takatsuki(w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -48,9 +48,6 @@ https://179720687.global.cdnfastest.com/live/sd-8yomo4hgjp2xq0j/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/4d44d0661cc1d382c732bc98d8535354.png", [LIVE] 11h30 - Maitland vs New Lambton FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho5ng0q86/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c874335f000f1d1199a4d03ee504eea1.png", [LIVE] 12h00 - Armadale SC U20 vs Stirling Macedonia U20
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-318q66h6dlegqo9/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/7693414306d2076d2562976b54b97832.png", [LIVE] 12h00 - Balcatta U20 vs FloreatAthena U20
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l5ergphljg14r8k/playlist.m3u8|Referer=https://player.4shares.live
@@ -75,6 +72,9 @@ https://179720687.global.cdnfastest.com/live/sd-8yomo4hg8dv1q0j/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d4ed9cfe295346dfa4befe838f3c0c1c.png", [LIVE] 12h00 - Nagano Parceiro (w) vs Urawa Red Diamonds (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpy5epmoe/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f3d654ef6112d441e56b0561a2b7cb9f.png", [LIVE] 12h00 - Newcastle Olympic vs Lake Macquarie
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-l5ergphl76gyr8k/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/4157777a3c8dc9eae566ac8c4ff18ac3.png", [LIVE] 12h00 - Nojima Stella (w) vs Albirex Niigata (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-k82rekh0p596rep/playlist.m3u8|Referer=https://player.4shares.live
@@ -84,9 +84,6 @@ https://179720687.global.cdnfastest.com/live/sd-318q66h6y90gqo9/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/df5c70d45e8e013f82e098da8d134134.png", [LIVE] 12h00 - Osaka FC vs Vanraure Hachinohe FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh78jwkmd7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/168a576101da1361ca9dc5201255fd68.png", [LIVE] 12h00 - Perth RedStar FC U20 vs Cockburn City U20
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8z7pxr51/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/9bf1c2ecfb5340e35c4a76159824e07b.png", [LIVE] 12h00 - Pires U20 vs Inglewood United U20
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpd6jpmoe/playlist.m3u8|Referer=https://player.4shares.live
@@ -207,6 +204,9 @@ https://webudit.salamus1.lol/lb/premium308/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 20:30 Bundesliga : Borussia Dortmund vs Mainz 05 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 20:30 Bundesliga : Borussia Dortmund vs Mainz 05 - Astro SuperSport 2 (CH-313234)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium124/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 20:30 Bundesliga : Borussia Dortmund vs Mainz 05 - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium61/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
