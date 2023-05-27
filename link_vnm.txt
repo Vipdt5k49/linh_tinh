@@ -1,9 +1,6 @@
-#EXTINF:-1 group-title="27/05/2023 22:21:17",27/05/2023 22:21:17
+#EXTINF:-1 group-title="27/05/2023 22:31:36",27/05/2023 22:31:36
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6591_small.png", ﻿[LIVE] 20h00 - Germany U17 vs Switzerland U17 #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png", [LIVE] 20h30 - Bochum vs Leverkusen #Nhà đài
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png", ﻿[LIVE] 20h30 - Bochum vs Leverkusen #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/bbfacbdbe67705172c6414d7e9c21b58.png", [LIVE] 20h30 - Borussia Dortmund vs FSV Mainz 05 [Bánh Cuốn & Bún Chả] #FullHD
@@ -159,12 +156,6 @@ https://obevcimanyd179314182.thapcam.link/live/trauSD/playlist.m3u8|Referer=http
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png", [LIVE] 20h30 - RB Leipzig vs Schalke 04 [Trâu Gác Bếp] #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png", [LIVE] 20h30 - RB Leipzig vs Schalke 04 [Trâu Gác Bếp] #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx2jv5ryk/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png", [LIVE] 20h30 - RB Leipzig vs Schalke 04 [Trâu Gác Bếp] #Sơ cua 2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/hd-en-pxwrxlhx2jv5ryk/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/45ab4c846b0d4df5b002c571b16112dc.png", [LIVE] 20h30 - Union Berlin vs Werder Bremen
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhz031wqwz/playlist.m3u8|Referer=https://player.4shares.live
@@ -231,21 +222,24 @@ https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/8bdf53dba36eabed4350f4ba768900b3.png", [LIVE] 20h30 - Brighton H.A. (w) vs Leicester City (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h692kxrz8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg", [LIVE] 20h30 - FK Gilan Gabala vs FK Kapaz Ganca
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-8yomo4hgj74kq0j/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/07b2ee9f02d5e6e8894377afb4feed32.jpg", [LIVE] 20h30 - Liverpool (w) vs Manchester United (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l7oqdeh82og0r51/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/46e02b8dea22b2951976d1262dd0279f.png", [LIVE] 20h30 - Standard Sumgayit vs Zira FK
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5o4wxr6o/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/ce6ad0b8a310c77248661466b0e2f14a.png", [LIVE] 20h30 - Torpedo moskva vs Gazovik Orenburg
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx2470ryk/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/ca12e8bdae01ac6f251d59ea6472a476.png", [LIVE] 21h00 - Ariana vs Oskarshamns AIK
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8x6yzr51/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/74105d373a71b517ed650caabb9c2cb8.jpg", [LIVE] 21h00 - Dalkurd FF vs Sandvikens IF
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/14b6fe766b34ab3e24106a509045c059.png", [LIVE] 21h00 - Bohemians 1905 vs Sigma Olomouc
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-4jwq2ghzwk98m0v/playlist.m3u8|Referer=https://player.4shares.live
+https://179720687.global.cdnfastest.com/live/sd-y0or5jhzy256qwz/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/5cce8dede893813f879b873962fb669f.gif", [LIVE] 21h00 - Falkenberg vs Atvidabergs
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-jw2r09h63n4grz8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f323884c2481d25aa4b316a43583b733.png", [LIVE] 21h00 - Gimnasia La Plata vs Sarmiento Junin
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3xeyzm2w/playlist.m3u8|Referer=https://player.4shares.live
@@ -264,15 +258,12 @@ https://179720687.global.cdnfastest.com/live/sd-k82rekh08woxrep/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/744503fe6a2165ebeecf1a371af442e3.png", [LIVE] 21h00 - Slavia Praha vs Synot Slovacko
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3y1vnm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/5b8479ebddd13feeef3165a1393aad19.png", [LIVE] 21h00 - Sparta Praha vs FC Viktoria Plzen
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5dz02r6o/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/5233f69df6a301d74784a83919db8dd2.png", [LIVE] 21h00 - Tartu JK Maag Tammeka vs FC Kuressaare
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-23xmvkhp2lx3qg8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f3aa37eff0023279c42b6e99eecc31d0.png", [LIVE] 21h00 - TPS Turku vs SalPa
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-318q66h63opeqo9/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/db5c1496362a58da79f7c6aa9b90c3aa.png", [LIVE] 21h00 - Volgar-Gazprom Astrachan vs FK Krasnodar 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-y39mp1h0kzywmoj/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b56522cb95aa89c207e129509362cce3.gif", [LIVE] 21h00 - Volga Ulyanovsk vs Rodina Moskva
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-ednm9wh2d7vdryo/playlist.m3u8|Referer=https://player.4shares.live
@@ -300,9 +291,9 @@ https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x2/playlist.m3u
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/8d44ba3c0bbe2a8f6535aa75e9867b38.png", [LIVE] 21h30 - GD Chaves vs Boavista FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7gpvkmd7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/487a310ef1af87f7d99b52f507007ffc.png", [LIVE] 21h30 - Istra 1961 Pula vs Slaven Koprivnica
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/653137889f832e657e8b2a016b20164d.png", [LIVE] 21h30 - Willem II vs VVV Venlo
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-965mkyh2z6dzr1g/playlist.m3u8|Referer=https://player.4shares.live
+https://179720687.global.cdnfastest.com/live/sd-dj2ryoheon2nq1z/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/804a96aa15251f0672dea9eb6a354705.png", [LIVE] 21h45 - Valerenga (w) vs Rosenborg BK  (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-ednm9wh2pv3gryo/playlist.m3u8|Referer=https://player.4shares.live
@@ -315,15 +306,15 @@ https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7del3md7/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/e0d19c151af2ed75cc8205c10a67c4c3.png", [LIVE] 22h00 - FK Andijon vs Turon Nukus
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y39mp1h08140moj/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f9febad819c8bf2e552267e14127c5b7.png", [LIVE] 22h00 - FK Spartak Zlatibor Voda vs Radnik Surdulica
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/7d35c67da2b80a3092e25e784ce21762.png", [LIVE] 22h00 - FK Napredak Krusevac vs Habitpharm Javor
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5d4dyr6o/playlist.m3u8|Referer=https://player.4shares.live
+https://179720687.global.cdnfastest.com/live/sd-3glrw7h32w2xqdy/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/e8e8c368492ea967af552900af9c4def.png", [LIVE] 22h00 - Kolubara vs Radnicki Nis
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhzylypqwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/ad46fa23922b5b837acb555dd434ce42.png", [LIVE] 22h00 - Metallurg Bekobod vs Kuruvchi Bunyodkor
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/e64d3418718f4415783fcfaca7db3448.png", [LIVE] 22h00 - Mladost Lucani vs Mladost Novi Sad
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-k82rekh0d3xwrep/playlist.m3u8|Referer=https://player.4shares.live
+https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx8g8kryk/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/eadf101c744d5f54e8c51d2527449480.png", [LIVE] 22h00 - Ourense CF vs SD Beasain
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh79llgmd7/playlist.m3u8|Referer=https://player.4shares.live
@@ -339,6 +330,27 @@ https://179720687.global.cdnfastest.com/live/sd-n54qllhp6712qvy/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/6a0aead3d2dbefd2c1629fd0b3233d88.png", [LIVE] 22h00 - Wolfsberger AC vs WSG Swarovski Tirol
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-23xmvkhpj89oqg8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/41140c6f793b378e8cad7087ebce5066.png", [LIVE] 22h30 - IFK Mariehamn vs HJK Helsinki
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-4wyrn4hop1kxq86/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/3121/image", [LIVE] 22h30 - Lech Poznan vs Jagiellonia Bialystok
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-dj2ryohe20e9q1z/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/2eddedc5ec7a868fc63ef7491633c284.png", [LIVE] 22h30 - Miedz Legnica vs Gornik Zabrze
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-jw2r09h61v65rz8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/759f19ccaecadd33a5c09b535e543410.png", [LIVE] 22h45 - Coventry City vs Luton Town [Người Thỏ] #Full HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/759f19ccaecadd33a5c09b535e543410.png", [LIVE] 22h45 - Coventry City vs Luton Town [Người Thỏ] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/759f19ccaecadd33a5c09b535e543410.png", [LIVE] 22h45 - Coventry City vs Luton Town [Người Thỏ] #SD1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/759f19ccaecadd33a5c09b535e543410.png", [LIVE] 22h45 - Coventry City vs Luton Town [Người Thỏ] #SD2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 18:30 Scottish Premiership : Celtic vs Aberdeen - Arena Sport 2 Premium (CH-313335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium135/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -357,9 +369,6 @@ https://webudit.salamus1.lol/lb/premium105/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Bundesliga : Borussia Dortmund vs Mainz 05 - Sky Sport Bundesliga 3 (CH-3133)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium13/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Bundesliga : Borussia Dortmund vs Mainz 05 - Match TV Russia (CH-313237)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Bundesliga : Borussia Dortmund vs Mainz 05 - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium61/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -375,9 +384,6 @@ https://webudit.salamus1.lol/lb/premium15/index.m3u8|User-Agent=Mozilla/5.0+(Win
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Bundesliga : Köln vs Bayern München - Sky Sport Arena Italy (CH-343632)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium462/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Bundesliga : Borussia M'gladbach vs Augsburg - Sky Sport Bundesliga 7 (CH-3137)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium17/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Bundesliga : Eintracht Frankfurt vs Freiburg - Sky Sport Bundesliga 8 (CH-3138)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium18/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -408,9 +414,6 @@ https://webudit.salamus1.lol/lb/premium453/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:45 Italy Serie A : Internazionale vs Atalanta - BT Sport 2 UK (CH-3332)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium32/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:45 Italy Serie A : Internazionale vs Atalanta - Match TV Russia (CH-313237)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - Arena Sport 1 Premium (CH-313334)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium134/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -429,9 +432,6 @@ https://webudit.salamus1.lol/lb/premium61/index.m3u8|User-Agent=Mozilla/5.0+(Win
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Strasbourg vs PSG - Arena Sport 2 Premium (CH-313335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium135/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup : Colombia U20 vs Senegal U20 - Match TV Russia (CH-313237)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup : Colombia U20 vs Senegal U20 - beIN Sports MENA English 3 (CH-3436)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium46/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
