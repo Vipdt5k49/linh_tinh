@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="27/05/2023 17:51:55",27/05/2023 17:51:55
+#EXTINF:-1 group-title="27/05/2023 18:02:10",27/05/2023 18:02:10
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/11/1685075327609/dc6e0c1bdf26_640_360.png", 16:30 - Bóng Đá: Becamex Bình Dương vs CLB Hà Nội
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -21,9 +21,6 @@ https://179720687.global.cdnfastest.com/live/sd-k82rekh0enlprep/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/00bb429c0a2d148a1ad0957162a25cb7.png", [LIVE] 16h00 - Queensland Lions（w） vs Gold Coast city (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-k82rekh0k3enrep/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/008068851d82f62413011a3228c3c674.png", [LIVE] 16h00 - St George City FA vs Spirit FC
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-dj2ryohep4gdq1z/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/1fb0f48eaeeab5946deb0073f4163eac.png", [LIVE] 16h15 - Peninsula Power vs Surfers Paradise
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-318q66h63143qo9/playlist.m3u8|Referer=https://player.4shares.live
@@ -123,6 +120,39 @@ https://179720687.global.cdnfastest.com/live/sd-y39mp1h0lk6dmoj/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/973587913535293549ebd803137466be.png", [LIVE] 17h30 - Pomigliano (w) vs Sampdoria (W)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h6dvovrz8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png", [LIVE] 18h00 - Da Nang vs Hoang Anh Gia Lai [Giàng A Chuối] #HD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png", [LIVE] 18h00 - Da Nang vs Hoang Anh Gia Lai [Giàng A Chuối] #HD 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179665839.global.cdnfastest.com/live/cachuoihd2/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png", [LIVE] 18h00 - Da Nang vs Hoang Anh Gia Lai [Giàng A Chuối] #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png", [LIVE] 18h00 - Da Nang vs Hoang Anh Gia Lai [Giàng A Chuối] #SD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png", [LIVE] 18h00 - Da Nang vs Hoang Anh Gia Lai [Giàng A Chuối] #SD 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179665839.global.cdnfastest.com/live/cachuoisd2/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png", [LIVE] 18h00 - Da Nang vs Hoang Anh Gia Lai [Sao Kê] #HD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@sk4-0085/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png", [LIVE] 18h00 - Da Nang vs Hoang Anh Gia Lai [Sao Kê] #SD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@sk3-0085/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png", [LIVE] 18h00 - Da Nang vs Hoang Anh Gia Lai [Sao Kê] #SD 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://713291609.cloud.anycastapnic.com/pepmc/sk1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179220_small.png", [LIVE] 18h00 - Da Nang vs Hoang Anh Gia Lai [Sao Kê] #SD 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://saoke2.cdn.khmer-hd.com/sk1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1123220_small.png", [LIVE] 18h00 - Hong Linh Ha Tinh vs Ho Chi Minh City FC #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1123220_small.png", [LIVE] 18h00 - Hong Linh Ha Tinh vs Ho Chi Minh City FC #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x4/playlist.m3u8|Referer=https://vip10.saoketvs.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/83dd94c5ca68e8f9a3980f036afcb511.png", [LIVE] 18h00 - Hà Tĩnh vs TP Hồ Chí Minh [Bún Chả] #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8|Referer=https://player.4shares.live
@@ -138,6 +168,9 @@ https://obevcimanyd179314182.thapcam.link/live/chaSD/playlist.m3u8|Referer=https
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/83dd94c5ca68e8f9a3980f036afcb511.png", [LIVE] 18h00 - Hà Tĩnh vs TP Hồ Chí Minh [Bún Chả] #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8711_small.png", [LIVE] 18h00 - Khimki vs Ural #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/33121/image", [LIVE] 18h00 - Đà Nẵng vs Hoàng Anh Gia Lai #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
