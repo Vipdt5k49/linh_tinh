@@ -1,9 +1,6 @@
-#EXTINF:-1 group-title="28/05/2023 05:54:15",28/05/2023 05:54:15
+#EXTINF:-1 group-title="28/05/2023 06:04:29",28/05/2023 06:04:29
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png", ﻿[LIVE] 04h00 - Atletico Clube Goianiense vs Botafogo SP
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-3glrw7h3ekk5qdy/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png", [LIVE] 04h00 - CA Platense vs Belgrano
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png", ﻿[LIVE] 04h00 - CA Platense vs Belgrano
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h65vyxrz8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10089_small.png", [LIVE] 04h00 - Club Atletico Platense vs Belgrano #Nhà đài
@@ -93,6 +90,21 @@ https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx8vpkryk/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/77cd2ff96b025496867556458dda9c81.png", [LIVE] 05h10 - Deportivo Moron vs Temperley
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l5ergphl7541r8k/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d3be245c5465ff63fd26c25f52fc65a4.png", [LIVE] 06h00 - Charlotte Independence vs Chattanooga Red Wolves
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-n54qllhp0jn5qvy/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/e6e7908a2efe1a1688bfb86106e98c30.png", [LIVE] 06h00 - Delfin SC vs Gualaceo SC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-8yomo4hg68y4q0j/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/96f9d71dc6038477efe2b3ff71c1631e.png", [LIVE] 06h00 - Indy Eleven vs Louisville City FC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-3glrw7h3eo3oqdy/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/92f8175e025874e957d7b124a800c49b.png", [LIVE] 06h00 - Lexington vs Knoxville troops
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-ednm9wh2ngpgryo/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c0227cd11a87d193caf15848b4a09bcd.png", [LIVE] 06h00 - Miami FC vs Orange County Blues FC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5ox52r6o/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 18:30 Scottish Premiership : Celtic vs Aberdeen - Arena Sport 2 Premium (CH-313335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium135/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
