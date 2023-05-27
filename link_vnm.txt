@@ -1,9 +1,6 @@
-#EXTINF:-1 group-title="28/05/2023 05:44:00",28/05/2023 05:44:00
+#EXTINF:-1 group-title="28/05/2023 05:54:15",28/05/2023 05:54:15
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a8b4d7362b24cfc910c7e652d6b4c874.png", ﻿[LIVE] 03h00 - Real Madrid (w) vs Atletico de Madrid （w）
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho37g4q86/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png", [LIVE] 04h00 - Atletico Clube Goianiense vs Botafogo SP
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png", ﻿[LIVE] 04h00 - Atletico Clube Goianiense vs Botafogo SP
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h3ekk5qdy/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png", [LIVE] 04h00 - CA Platense vs Belgrano
@@ -87,6 +84,12 @@ https://179720687.global.cdnfastest.com/live/sd-3glrw7h38l50qdy/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/e7ecd300336964cbabb4ca9d07cfbf1f.png", [LIVE] 05h00 - Flower City Union vs LA Force
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-k82rekh0k85vrep/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/034aa8d5c235ad084486780eb8a6d914.png", [LIVE] 05h00 - Northern Colorado vs Central Valley Fuego
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-jw2r09h6zwyvrz8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c91c0b6681d733fe9b76c95b8996b1ab.png", [LIVE] 05h00 - Uniao Luziense vs Tupi Juiz de Fora MG
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx8vpkryk/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/77cd2ff96b025496867556458dda9c81.png", [LIVE] 05h10 - Deportivo Moron vs Temperley
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l5ergphl7541r8k/playlist.m3u8|Referer=https://player.4shares.live
