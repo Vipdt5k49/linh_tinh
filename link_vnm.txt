@@ -1,23 +1,8 @@
-#EXTINF:-1 group-title="28/05/2023 03:30:23",28/05/2023 03:30:23
+#EXTINF:-1 group-title="28/05/2023 03:40:37",28/05/2023 03:40:37
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/aecf6739c5b5c374a1574aaf89c2e017.png", ﻿[LIVE] 01h30 - Club Atletico Guemes vs San Telmo
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpgolzmoe/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/0c8992ef652d337521dbbdf03dd7a97b.png", [LIVE] 01h30 - Foggia vs Crotone
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-318q66h6e7zoqo9/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c3c48009a9a8f9c0795ac320cbe3d3a9.png", [LIVE] 01h30 - Lecco vs Pordenone Calcio SSD
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c3c48009a9a8f9c0795ac320cbe3d3a9.png", ﻿[LIVE] 01h30 - Lecco vs Pordenone Calcio SSD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-4jwq2ghz21l2m0v/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f8f2c4ac1dda30cb74c85cfaf537979a.png", [LIVE] 01h30 - Longford Town vs Waterford United
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-4wyrn4hoynzzq86/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/0d56685fdcaf6ffc533a4c9bcfb44e91.png", [LIVE] 01h30 - Pescara vs ACD Virtus Entella
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-x7lm7ph36p4xm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/f694143f9cde3001b1b7c612c1059fd2.png", [LIVE] 01h30 - Znicz Pruszkow vs Wisla Pulawy
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-jw2r09h6vd81rz8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png", [LIVE] 01h45 - Inter Milan vs Atalanta #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8|Referer=https://player.4shares.live
@@ -291,6 +276,27 @@ https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho37g4q86/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3a44e46e965a2a6d8ec5883bfde23ac6.png", [LIVE] 03h05 - Almirante Brown vs San Martin Tucuman
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-k82rekh0j8gjrep/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d790c903117459a4afb308ad63d353f9.png", [LIVE] 03h30 - Avai FC SC vs Vitoria BA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5ovvdr6o/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png", [LIVE] 03h30 - Cusco FC vs Sport Boys
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-23xmvkhp2xl1qg8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3410d5c64d25f8c4959dca9ebeba5b23.png", [LIVE] 03h30 - Orense SC vs Cumbaya FC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-l7oqdeh89xjer51/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4770/image", [LIVE] 04h00 - Japan U20 vs Israel U20 #Full HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4770/image", [LIVE] 04h00 - Japan U20 vs Israel U20 #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4770/image", [LIVE] 04h00 - Japan U20 vs Israel U20 #SD1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4770/image", [LIVE] 04h00 - Japan U20 vs Israel U20 #SD2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 18:30 Scottish Premiership : Celtic vs Aberdeen - Arena Sport 2 Premium (CH-313335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium135/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
