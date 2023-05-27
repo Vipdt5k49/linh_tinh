@@ -1,35 +1,26 @@
-#EXTINF:-1 group-title="27/05/2023 17:31:21",27/05/2023 17:31:21
+#EXTINF:-1 group-title="27/05/2023 17:41:39",27/05/2023 17:41:39
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/11/1685075327609/dc6e0c1bdf26_640_360.png", 16:30 - Bóng Đá: Becamex Bình Dương vs CLB Hà Nội
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://live-zlr1.tv360.vn/manifest/sukien/./playlist_1080p-5M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d4a819a35678fd3d1c1f3e45c16f00b5.png", ﻿[LIVE] 15h30 - Sydney Olympic vs Manly United
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/11/16850754348/c7f47bcd320c_640_360.png", 18:00 - Bóng Đá: Hồng Lĩnh Hà Tĩnh vs TP. Hồ Chí Minh
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8x201r51/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/335dad7f811f451658b42b2688eef5a9.png", [LIVE] 16h00 - Caboolture FC vs Brisbane Olympic United FC
+http://live-zlr1.tv360.vn/manifest/HTV_The_Thao_HD-50fps/./playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/11/1685075478767/060bcb2bf9bd_640_360.png", 18:00 - Bóng Đá: SHB Đà Nẵng vs Hoàng Anh Gia Lai
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/335dad7f811f451658b42b2688eef5a9.png", ﻿[LIVE] 16h00 - Caboolture FC vs Brisbane Olympic United FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6dox4q82/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/fe256bdeb28944bcb8cf3a434192f11c.png", [LIVE] 16h00 - Dianella White Eagles vs UWA-Nedlands FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h6z18wrz8/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/17b194a849657a791075bef72deca099.png", [LIVE] 16h00 - FK Aksu vs FC Zhetysu Taldykorgan
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-23xmvkhplj28qg8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/0bf5d216969bd70c3be602cb1b2d5328.png", [LIVE] 16h00 - Mt Druitt Town Rangers FC vs Sydney United
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-k82rekh0enlprep/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/00bb429c0a2d148a1ad0957162a25cb7.png", [LIVE] 16h00 - Queensland Lions（w） vs Gold Coast city (w)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-k82rekh0k3enrep/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/008068851d82f62413011a3228c3c674.png", [LIVE] 16h00 - St George City FA vs Spirit FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-dj2ryohep4gdq1z/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/1fb0f48eaeeab5946deb0073f4163eac.png", [LIVE] 16h15 - Peninsula Power vs Surfers Paradise
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-318q66h63143qo9/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/facba7afdd6132d59b674690c01067d1.png", [LIVE] 16h30 - Port Melbourne Sharks SC U21 vs North Geelong Warriors U21
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-3glrw7h3gg2kqdy/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/452e38576a757b341b8a3d3dc4f1c9a6.png", [LIVE] 16h30 - Seongnam FC vs FC Anyang
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx0g7nryk/playlist.m3u8|Referer=https://player.4shares.live
@@ -111,15 +102,15 @@ https://179720687.global.cdnfastest.com/live/sd-x7lm7ph369k5m2w/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/e86e55edb020614b621b0cf82cf64b5c.png", [LIVE] 17h00 - Olympic Kingsway SC vs Bayswater City
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-8yomo4hgjlwvq0j/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c009d759e6bbfbbf59f1fd87d06cfd4f.png", [LIVE] 17h00 - Penafiel vs Estrela da Amadora
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3ndo8m2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/76b6ebb169fc274b356bf2e0ffd9e220.png", [LIVE] 17h00 - TransINVEST Vilnius vs Vilniaus Baltijos Futbolo Akademija
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7dv55md7/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67381_small.png", [LIVE] 17h00 - Young Lions vs Geylang International FC #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/2de609652e29c1bc2072a42dc4858132.png", [LIVE] 17h30 - Darwin Olympics vs Darwin Hearts
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-y39mp1h0lk6dmoj/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/973587913535293549ebd803137466be.png", [LIVE] 17h30 - Pomigliano (w) vs Sampdoria (W)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-jw2r09h6dvovrz8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://static.wixstatic.com/media/10d717_1058460120ed47f3a753cd4a0d089514~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PREMIUM-TV-LOGO.png", 18:30 Scottish Premiership : Celtic vs Aberdeen - CBS Sports Network (CH-333038)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium308/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
