@@ -1,17 +1,8 @@
-#EXTINF:-1 group-title="28/05/2023 06:04:29",28/05/2023 06:04:29
+#EXTINF:-1 group-title="28/05/2023 06:14:44",28/05/2023 06:14:44
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png", ﻿[LIVE] 04h00 - CA Platense vs Belgrano
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-jw2r09h65vyxrz8/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10089_small.png", [LIVE] 04h00 - Club Atletico Platense vs Belgrano #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5873_small.png", [LIVE] 04h00 - Colombia U20 vs Senegal U20 #Nhà Đài
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5873_small.png", ﻿[LIVE] 04h00 - Colombia U20 vs Senegal U20 #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5873_small.png", [LIVE] 04h00 - Colombia U20 vs Senegal U20 #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4820/image", [LIVE] 04h00 - Colombia U20 vs Senegal U20 [Mỳ Tôm] #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8|Referer=https://player.4shares.live
@@ -27,36 +18,9 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/pl
 #EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4820/image", [LIVE] 04h00 - Colombia U20 vs Senegal U20 [Mỳ Tôm] #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6vp95q82/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4770/image", [LIVE] 04h00 - Japan U20 vs Israel U20 #Full HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4770/image", [LIVE] 04h00 - Japan U20 vs Israel U20 #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png", [LIVE] 04h00 - Japan U20 vs Israel U20 #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4770/image", [LIVE] 04h00 - Japan U20 vs Israel U20 #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4770/image", [LIVE] 04h00 - Japan U20 vs Israel U20 #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4770/image", [LIVE] 04h00 - Japan U20 vs Israel U20 #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-1l4rjnhjox09m7v/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://api.sofascore.app/api/v1/team/4770/image", [LIVE] 04h00 - Japan U20 vs Israel U20 [Người Thỏ] #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-1l4rjnhjox09m7v/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5875_small.png", [LIVE] 04h00 - Japan U20 vs Israel U20 [Sao Hỏa] #HD 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4-8883/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5875_small.png", [LIVE] 04h00 - Japan U20 vs Israel U20 [Sao Hỏa] #SD 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3-8883/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/043a70a1b54a7fcc970fbe3053996fa0.png", [LIVE] 04h00 - Real Cartagena vs Llaneros FC
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5184vr6o/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197815_small.png", [LIVE] 04h30 - Cuiaba vs Coritiba #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x4/playlist.m3u8|Referer=https://vip10.saoketvs.live
@@ -81,9 +45,6 @@ https://179720687.global.cdnfastest.com/live/sd-3glrw7h38l50qdy/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/e7ecd300336964cbabb4ca9d07cfbf1f.png", [LIVE] 05h00 - Flower City Union vs LA Force
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-k82rekh0k85vrep/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/034aa8d5c235ad084486780eb8a6d914.png", [LIVE] 05h00 - Northern Colorado vs Central Valley Fuego
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-jw2r09h6zwyvrz8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c91c0b6681d733fe9b76c95b8996b1ab.png", [LIVE] 05h00 - Uniao Luziense vs Tupi Juiz de Fora MG
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx8vpkryk/playlist.m3u8|Referer=https://player.4shares.live
@@ -105,6 +66,12 @@ https://179720687.global.cdnfastest.com/live/sd-ednm9wh2ngpgryo/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c0227cd11a87d193caf15848b4a09bcd.png", [LIVE] 06h00 - Miami FC vs Orange County Blues FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5ox52r6o/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/3190d6d022fe9b36c65d83cf98e16d15.png", [LIVE] 06h05 - Aguilas Doradas vs Deportivo Pasto
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-1l4rjnhj7x73m7v/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/034aa8d5c235ad084486780eb8a6d914.png", [LIVE] 06h05 - Northern Colorado vs Central Valley Fuego
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-jw2r09h6zwyvrz8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 18:30 Scottish Premiership : Celtic vs Aberdeen - Arena Sport 2 Premium (CH-313335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium135/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
