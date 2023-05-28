@@ -1,41 +1,11 @@
-#EXTINF:-1 group-title="28/05/2023 09:00:48",28/05/2023 09:00:48
+#EXTINF:-1 group-title="28/05/2023 09:21:15",28/05/2023 09:21:15
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10277_small.png", ﻿[LIVE] 07h00 - Sao Paulo vs Goias [Giàng A Cay] #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10277_small.png", [LIVE] 07h00 - Sao Paulo vs Goias [Giàng A Cay] #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10277_small.png", [LIVE] 07h00 - Sao Paulo vs Goias [Giàng A Cay] #SD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/857c97695da2c420fa75e1b063c924a0.png", [LIVE] 07h00 - Chicago Red Stars (w) vs Orlando Pride (w)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-dj2ryohe0k5lq1z/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/97f1608bfe5c72492cb5e201f93a6cda.png", [LIVE] 07h00 - Independiente Petrolero vs Real Tomayapo
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6d0edq82/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c2aa5eb71d7ff818c9a50d8af7c20e28.png", [LIVE] 07h00 - Omaha vs Forward Madison FC
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-jw2r09h6zwzvrz8/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/1d625fbe06a383f84fd8efec5fafdccc.png", [LIVE] 07h00 - Racing Louisville (W) vs North Carolina (w)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-2y8m4zhw93nvql0/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/722267_small.png", [LIVE] 07h00 - Rio Grande Valley FC vs Charleston Battery #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a4559812a17ca2360a83e8e56f6e14b8.png", [LIVE] 07h00 - Rio Grande Valley vs Charleston Battery
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/a4559812a17ca2360a83e8e56f6e14b8.png", ﻿[LIVE] 07h00 - Rio Grande Valley vs Charleston Battery
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhzd1z6qwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/7a9e5de95f737b31cb6dfe05b616e644.gif", [LIVE] 07h00 - San Luis Quillota vs Cobreloa
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/17e9ee0a347f67c16baa94333f4bd4e6.png", [LIVE] 07h15 - Quilmes vs Atletico Atlanta
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7p39gmd7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6358_small.png", [LIVE] 07h00 - San Luis vs Cobreloa #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="data:image/jpeg;base64,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", [LIVE] 07h00 - Union Omaha vs Forward Madison FC #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+https://179720687.global.cdnfastest.com/live/sd-y0or5jhzw07dqwz/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8259_small.png", [LIVE] 07h30 - Houston vs Austin FC #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m208nd/playlist.m3u8|Referer=https://live2.cakhia18.com
@@ -51,6 +21,9 @@ https://179720687.global.cdnfastest.com/live/sd-n54qllhpydpzqvy/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1427963_small.png", [LIVE] 07h30 - St. Louis City vs Vancouver #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png", [LIVE] 07h40 - Houston Dynamo vs Austin FC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-dn1m1ghp9yj1moe/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/256ff71a20fb72145a66dcef2f604a48.png", [LIVE] 07h40 - Minnesota United FC vs Real Salt Lake
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-318q66h68yejqo9/playlist.m3u8|Referer=https://player.4shares.live
@@ -66,6 +39,9 @@ https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png", [LIVE] 08h15 - Millonarios vs Boyaca Chico
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h6zjzdrz8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b3fd08f252ca7176508a6bc7fa492aae.png", [LIVE] 08h30 - Chongqing Benbiao Football Club vs Xiamen Lujiantiancheng Football Club
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh51911r6o/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8314_small.png", [LIVE] 08h30 - Colorado vs Cincinnati #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://live2.cakhia18.com
@@ -75,6 +51,15 @@ https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/playlist.m3u
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/2d874c6a14447ac110695b300849ca7c.png", [LIVE] 08h40 - Colorado Rapids vs FC Cincinnati
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-4wyrn4hoyp37q86/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1022953_small.png", [LIVE] 09h00 - Pacific FC vs HFX Wanderers FC #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/5c210283ed526ab7336351ba45aba812.png", [LIVE] 09h00 - Henan FC U21 vs Zhejiang Professional FC U21
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwo4x9ql0/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1130413_small.png", [LIVE] 09h00 - Oakland Roots SC vs San Diego Loyal SC #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://live2.cakhia18.com
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/0e877d710876c7518aed3d5b2c721aab.jpg", [LIVE] 09h00 - Oakland Roots vs San Diego loyalty
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-23xmvkhpzxppqg8/playlist.m3u8|Referer=https://player.4shares.live
@@ -105,9 +90,6 @@ https://webudit.salamus1.lol/lb/premium308/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Bundesliga : Simulcast - Sky Sport Bundesliga 1 (CH-353538)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium558/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Bundesliga : Simulcast - beIN SPORTS 1 France (CH-313136)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium116/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Bundesliga : Borussia Dortmund vs Mainz 05 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -123,9 +105,6 @@ https://webudit.salamus1.lol/lb/premium92/index.m3u8|User-Agent=Mozilla/5.0+(Win
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Bundesliga : Köln vs Bayern München - Sky Sport Arena Italy (CH-343632)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium462/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Bundesliga : Borussia M'gladbach vs Augsburg - Sky Sport Bundesliga 7 (CH-3137)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium17/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 22:45 England Championship : Coventry City vs Luton Town - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium61/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -135,9 +114,6 @@ https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:00 Italy Serie A : Fiorentina vs Roma - BT Sport 2 UK (CH-3332)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium32/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:00 Italy Serie A : Fiorentina vs Roma - beIN SPORTS 1 France (CH-313136)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium116/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:00 Spain La Liga : Sevilla vs Real Madrid - beIN Sports 2 France (CH-313137)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium117/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -153,9 +129,6 @@ https://webudit.salamus1.lol/lb/premium32/index.m3u8|User-Agent=Mozilla/5.0+(Win
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:45 Italy Serie A : Internazionale vs Atalanta - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:45 Italy Serie A : Internazionale vs Atalanta - beIN SPORTS 1 France (CH-313136)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium116/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - Amazon Prime (CH-313037)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium107/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -201,15 +174,9 @@ https://webudit.salamus1.lol/lb/premium134/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 19:30 England League Two : Carlisle United vs Stockport County - beIN Sports MENA 2 (CH-3932)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium92/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 19:30 Netherlands Eredivisie : AZ vs PSV - Sport Klub 3 Serbia (CH-313033)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium103/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:00 Italy Serie A : Bologna vs Napoli - BT Sport 2 UK (CH-3332)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium32/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:00 Italy Serie A : Bologna vs Napoli - beIN Sports 1 France (CH-313136)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium116/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:00 Italy Serie A : Bologna vs Napoli - Zona DAZN IT (CH-313037)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium107/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -228,9 +195,6 @@ https://webudit.salamus1.lol/lb/premium117/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Germany Bundesliga 2 : Simulcast - Sky Sport Bundesliga 1 (CH-353538)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium558/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 20:30 Germany Bundesliga 2 : Hansa Rostock vs Eintracht Braunschweig - Sky Sport Bundesliga 7 (CH-3137)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium17/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 22:30 England Premier League : Simulcast - Arena Sport 2 Premium (CH-313335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium135/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -246,15 +210,9 @@ https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 22:30 England Premier League : Crystal Palace vs Nottingham Forest - beIN Sports MENA English 2 (CH-3930)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium90/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 22:30 England Premier League : Everton vs AFC Bournemouth - USA Network (CH-333433)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium343/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 22:30 England Premier League : Everton vs AFC Bournemouth - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium61/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 22:30 England Premier League : Leeds United vs Tottenham Hotspur - Optus Sport (CH-39)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium9/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 22:30 England Premier League : Leeds United vs Tottenham Hotspur - BT Sport 1 UK (CH-3331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium31/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -264,15 +222,9 @@ https://webudit.salamus1.lol/lb/premium125/index.m3u8|User-Agent=Mozilla/5.0+(Wi
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 22:30 England Premier League : Manchester United vs Fulham - MULTISPORTS 2 (CH-313035)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium105/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 22:30 England Premier League : Manchester United vs Fulham - Astro Supersport 1 (CH-313233)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium123/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:00 Italy Serie A : Lazio vs Cremonese - BT Sport 4 UK (CH-3334)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium34/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:00 Italy Serie A : Lazio vs Cremonese - beIN Sports 1 France (CH-313136)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium116/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:00 Italy Serie A : Lazio vs Cremonese - CBS Sports Network (CH-333038)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium308/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -294,9 +246,6 @@ https://webudit.salamus1.lol/lb/premium31/index.m3u8|User-Agent=Mozilla/5.0+(Win
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:45 Italy Serie A : Juventus vs Milan - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:45 Italy Serie A : Juventus vs Milan - beIN Sports 1 France (CH-313136)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium116/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="RAW" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:45 Italy Serie A : Juventus vs Milan - Arena Sport 2 Premium (CH-313335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium135/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
