@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="28/05/2023 09:41:48",28/05/2023 09:41:48
+#EXTINF:-1 group-title="28/05/2023 09:52:05",28/05/2023 09:52:05
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8259_small.png", ﻿[LIVE] 07h30 - Houston vs Austin FC #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
@@ -21,9 +21,6 @@ https://179720687.global.cdnfastest.com/live/sd-y0or5jhzd1z6qwz/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162404_small.png", [LIVE] 08h00 - Tapatio vs Atlante #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png", [LIVE] 08h15 - Millonarios vs Boyaca Chico
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-jw2r09h6zjzdrz8/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b3fd08f252ca7176508a6bc7fa492aae.png", [LIVE] 08h30 - Chongqing Benbiao Football Club vs Xiamen Lujiantiancheng Football Club
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-vjxm8gh51911r6o/playlist.m3u8|Referer=https://player.4shares.live
@@ -51,9 +48,30 @@ https://179720687.global.cdnfastest.com/live/sd-23xmvkhpzxppqg8/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/b0ec985cd57cba37048de614c46660e5.png", [LIVE] 09h00 - Xelaju MC vs Antigua GFC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-8yomo4hgp5kxq0j/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6637_small.png", [LIVE] 09h30 - LA Galaxy vs Charlotte #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x4/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6637_small.png", [LIVE] 09h30 - LA Galaxy vs Charlotte FC #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6603_small.png", [LIVE] 09h30 - San Jose vs Dallas #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6603_small.png", [LIVE] 09h30 - San Jose vs Dallas #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x3/playlist.m3u8|Referer=https://vip10.saoketvs.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/130394_small.png", [LIVE] 09h30 - Seattle Sounders vs NY Red Bulls #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/130394_small.png", [LIVE] 09h30 - Seattle Sounders vs NY Red Bulls [Giàng A Cay] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/130394_small.png", [LIVE] 09h30 - Seattle Sounders vs NY Red Bulls [Giàng A Cay] #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live2.cakhia18.com
+#EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/130394_small.png", [LIVE] 09h30 - Seattle Sounders vs NY Red Bulls [Giàng A Cay] #SD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live2.cakhia18.com
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/7079d708b4e391c0c26b20da7b2fb32c.png", [LIVE] 09h40 - San Jose Earthquakes vs FC Dallas
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h65yz9rz8/playlist.m3u8|Referer=https://player.4shares.live
