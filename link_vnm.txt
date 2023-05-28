@@ -1,15 +1,6 @@
-#EXTINF:-1 group-title="28/05/2023 12:59:37",28/05/2023 12:59:37
+#EXTINF:-1 group-title="28/05/2023 13:09:55",28/05/2023 13:09:55
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8|User-Agent=okhttp/4.10.0+(Linux;Android+13)+ExoPlayerLib/2.15.1+Dalvik/2.1.0
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/8fca1fffae59337b22952101b1c22dd1.png", ﻿[LIVE] 11h00 - INAC (w) vs NTV Beleza (w)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-4wyrn4hopjexq86/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/09d6732e74cc8f4ece8cfac78a4ef777.png", [LIVE] 11h00 - Okinawa SV vs Minebea Mitsumi FC
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho1ykkq86/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/c6dc27ef482d8f04decd3ffd08d941c9.png", [LIVE] 11h00 - Run Mel Aomori vs Maruyasu Industries
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3dx7lm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/9d865e5443cd73b06cc8a092b6dbc29a.png", [LIVE] 11h30 - Canberra Olympic（w） vs Canberra FC (w)
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/9d865e5443cd73b06cc8a092b6dbc29a.png", ﻿[LIVE] 11h30 - Canberra Olympic（w） vs Canberra FC (w)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-k82rekh0kn27rep/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/4d775084e58b983ddde3215469fa53f6.png", [LIVE] 11h30 - Weston Workers FC vs Lambton Jarvis
@@ -36,10 +27,7 @@ https://179720687.global.cdnfastest.com/live/sd-1l4rjnhjg792m7v/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/194015_small.png", [LIVE] 12h00 - Blaublitz Akita vs Oita Trinita #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/0e8a5b04bcb76a376d0f0ddf9f54fbaa.png", [LIVE] 12h00 - Canberra FC vs OConnor Knights
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-8yomo4hg884dq0j/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/4fb5aa88cc8da7f423153dc206233c37.png", [LIVE] 12h00 - Central Coast Mariners (Youth) vs Bulls Academy
+#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/4fb5aa88cc8da7f423153dc206233c37.png", [LIVE] 12h00 - Central Coast Mariners (Youth) vs Northbridge Bulls
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y39mp1h0oo99moj/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/ab10ee503e539e55a9a11a9ff202405a.png", [LIVE] 12h00 - Cerezo Osaka vs Yokohama FC
@@ -57,12 +45,6 @@ https://179720687.global.cdnfastest.com/live/sd-8yomo4hgj7nwq0j/playlist.m3u8|Re
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/d522c68c7ac4d8d9f0b77ccd426010ad.png", [LIVE] 12h00 - Gangwon II vs Busan I'Park B
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7d0xxmd7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/7f90c5d19146742bc3f508cab0909c82.png", [LIVE] 12h00 - Gungahlin United vs Tuggeranong United
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-6ypq3nh788n2md7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/809e95942827f1fca7b6c5cffd4777cb.png", [LIVE] 12h00 - Roasso Kumamoto vs Montedio Yamagata
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-4jwq2ghzw2npm0v/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162196_small.png", [LIVE] 12h00 - Roasso Kumamoto vs Montedio Yamagata #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8|Referer=https://live2.cakhia18.com
@@ -93,9 +75,6 @@ https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m208nd/playlist.m3u8
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/32ee8592d60a9d9e6ee8d48577c7b106.png", [LIVE] 12h00 - Tokushima Vortis vs Machida Zelvia
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-k82rekh0ekggrep/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/2a8adb34e764602183a7bee8f51726e4.png", [LIVE] 12h00 - Tokyo Verdy vs Ban Di Tesi Iwaki
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpxjlxmoe/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/514eb329116806ef998ead8b3ccb5612.png", [LIVE] 12h00 - Vegalta Sendai vs JEF United Ichihara Chiba
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-318q66h61ex8qo9/playlist.m3u8|Referer=https://player.4shares.live
@@ -114,9 +93,6 @@ https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8
 #EXTINF:-1 group-title="CAST" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6581_small.png", [LIVE] 12h00 - Yokohoma FM vs Avispa Fukuoka [Giàng A Chuối] #SD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|Referer=https://live2.cakhia18.com
-#EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/4f0ff310b253f34bfd414c5b2502082c.png", [LIVE] 13h00 - Broadmeadow Magic vs Edgeworth Eagles FC
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpgz6omoe/playlist.m3u8|Referer=https://player.4shares.live
 #EXTINF:-1 group-title="CAST" tvg-logo="https://img.thesports.com/football/team/9ead844240532c4e12d3eb45d2087924.png", [LIVE] 13h00 - Mito Hollyhock vs Renofa Yamaguchi
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-4wyrn4how365q86/playlist.m3u8|Referer=https://player.4shares.live
