@@ -1,129 +1,138 @@
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/16/1685093435802/d3b62fd23203_640_360.png", 16:00 - Bóng Đá: CLB Bình Thuận vs CLB Bình Phước
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/16/1685093435802/d3b62fd23203_640_360.png", 16:00 - Bóng Đá: CLB Bình Thuận vs CLB Bình Phước
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://live-zlr1.tv360.vn/manifest/HTV_The_Thao_HD-50fps/./playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://cdn.bongdaplus.vn/Assets/Media/2023/04/07/37/Phu%20Tho%20vs%20Binh%20Phuoc%2003.jpg", ﻿[LIVE] 16h00 - Binh Thuan vs Binh Phuoc [Adam]
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://309557389.global.cdnfastest.com/live/blv1/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc [Người Thỏ] #Full HD
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", ﻿[LIVE] 16h00 - Binh Thuan vs Binh Phuoc #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc [Người Thỏ] #HD
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc [Người Thỏ] #Nhà đài
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live2.thapcam.net/truc-tiep/binh-thuan-vs-binh-phuoc-vDegpHQ|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc [Người Thỏ] #SD1
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc #SD1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc [Người Thỏ] #SD2
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc [Người Thỏ] #Sơ cua 1
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhzk5y7qwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVVPxGKv1uLzu6YCKrFgH32fQV5Z3JPy94SScYnEITuDSEnIAPzKoVWorUh27ifeOGHg&usqp=CAU", [LIVE] 16h00 - Bình Thuận vs Binh Phuoc [Daniel] #HD
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://cdn.bongdaplus.vn/Assets/Media/2023/04/07/37/Phu%20Tho%20vs%20Binh%20Phuoc%2003.jpg", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc [Adam]
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://309557389.global.cdnfastest.com/live/blv1/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://img.thesports.com/football/team/bf8036f21fa64b4c641cf441f3eb7f95.png", [LIVE] 16h00 - Binh Thuan vs Binh Phuoc [Người Thỏ] #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live2.thapcam.net/truc-tiep/binh-thuan-vs-binh-phuoc-vDegpHQ|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVVPxGKv1uLzu6YCKrFgH32fQV5Z3JPy94SScYnEITuDSEnIAPzKoVWorUh27ifeOGHg&usqp=CAU", [LIVE] 16h00 - Bình Thuận vs Binh Phuoc [Daniel] #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x11y4-0033/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVVPxGKv1uLzu6YCKrFgH32fQV5Z3JPy94SScYnEITuDSEnIAPzKoVWorUh27ifeOGHg&usqp=CAU", [LIVE] 16h00 - Bình Thuận vs Binh Phuoc [Daniel] #SD
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVVPxGKv1uLzu6YCKrFgH32fQV5Z3JPy94SScYnEITuDSEnIAPzKoVWorUh27ifeOGHg&usqp=CAU", [LIVE] 16h00 - Bình Thuận vs Binh Phuoc [Daniel] #SD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x11y3-0033/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://api.sofascore.app/api/v1/team/285637/image", [LIVE] 16h00 - Bình Thuận vs Binh Phuoc [Giàng A Phọt] #HD
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://api.sofascore.app/api/v1/team/285637/image", [LIVE] 16h00 - Bình Thuận vs Binh Phuoc [Giàng A Phọt] #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://api.sofascore.app/api/v1/team/285637/image", [LIVE] 16h00 - Bình Thuận vs Binh Phuoc [Giàng A Phọt] #Nhà Đài
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://api.sofascore.app/api/v1/team/285637/image", [LIVE] 16h00 - Bình Thuận vs Binh Phuoc [Giàng A Phọt] #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://api.sofascore.app/api/v1/team/285637/image", [LIVE] 16h00 - Bình Thuận vs Binh Phuoc [Giàng A Phọt] #SD
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://api.sofascore.app/api/v1/team/285637/image", [LIVE] 16h00 - Bình Thuận vs Binh Phuoc [Giàng A Phọt] #SD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@photsd1/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://img.thesports.com/football/team/784ff50eb43b872d8d0c624a3a228dd7.png", [LIVE] 16h00 - Ordabasy Reserves vs Ili-Saulet Iliyskiy
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://img.thesports.com/football/team/784ff50eb43b872d8d0c624a3a228dd7.png", [LIVE] 16h00 - Ordabasy Reserves vs Ili-Saulet Iliyskiy
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-vjxm8gh513l5r6o/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://img.thesports.com/football/team/d4f1464fe3016ab9bb978541fe425e76.png", [LIVE] 16h15 - Himalayan Sherpa Club vs Khumaltar Youth Club
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://khothietke.net/wp-content/uploads/2021/05/PNGKhothietke.net-03348.png", [LIVE] 16h00 - Tennis vs Roland Garros #Kênh 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-vjxm8gh51335r6o/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://img.thesports.com/football/team/a4e51ea3cbe8797ebf2872e5a5d60ae8.png", [LIVE] 17h00 - PVF Vietnam vs Da Nang II
+https://obevcimanyd179314182.thapcam.link/live/may91/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://khothietke.net/wp-content/uploads/2021/05/PNGKhothietke.net-03348.png", [LIVE] 16h00 - Tennis vs Roland Garros #Kênh 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-318q66h6egz8qo9/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 29/05/2023 17:44:29" tvg-logo="https://img.thesports.com/football/team/ce84103774d19174a097713a46b48702.png", [LIVE] 17h00 - Shakhter Karagandy Reserves vs FK Ulytau
+https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://khothietke.net/wp-content/uploads/2021/05/PNGKhothietke.net-03348.png", [LIVE] 16h00 - Tennis vs Roland Garros #Kênh 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://obevcimanyd179314182.thapcam.link/live/may101/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://img.thesports.com/football/team/609581a77722b98dc6e4152044d258ec.png", [LIVE] 17h00 - Khimki (R) vs Kvant Obninsk
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-8yomo4hgoy47q0j/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 29/05/2023 17:54:41" tvg-logo="https://img.thesports.com/football/team/ce84103774d19174a097713a46b48702.png", [LIVE] 17h00 - Shakhter Karagandy Reserves vs FK Ulytau
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6k44dq82/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - iFollow (CH-32)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - iFollow (CH-32)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium2/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Sky Sports Football (CH-3335)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Sky Sports Football (CH-3335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium35/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - beIN Sports MENA English 1 (CH-3631)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium61/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Sky Sports Main Event (CH-3338)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Sky Sports Main Event (CH-3338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium38/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - beIN Sports MENA Premium 2 (CH-3939)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - beIN Sports MENA Premium 2 (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Arena Sport 3 Premium (CH-313339)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium139/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Cosmote Sport 2 HD (CH-363233)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Cosmote Sport 2 HD (CH-363233)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium623/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Diema Sport 2 Bulgaria (CH-343636)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Diema Sport 2 Bulgaria (CH-343636)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium466/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Sport 1 Israel (CH-313430)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 21:00 England League One Final : Barnsley vs Sheffield Wednesday - Sport 1 Israel (CH-313430)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium140/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:30 NBA : Boston Celtics vs Miami Heat - NBA League Pass (CH-37)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:30 NBA : Boston Celtics vs Miami Heat - NBA League Pass (CH-37)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium7/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:30 NBA : Boston Celtics vs Miami Heat - TNT USA (CH-333338)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:30 NBA : Boston Celtics vs Miami Heat - TNT USA (CH-333338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium338/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:30 NBA : Boston Celtics vs Miami Heat - TSN4 (CH-313134)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:30 NBA : Boston Celtics vs Miami Heat - TSN4 (CH-313134)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium114/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:30 NBA : Boston Celtics vs Miami Heat - beIN Sports 1 France (CH-313136)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:30 NBA : Boston Celtics vs Miami Heat - beIN Sports 1 France (CH-313136)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium116/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:30 NBA : Boston Celtics vs Miami Heat - Sport TV2 Portugal (CH-3734)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:30 NBA : Boston Celtics vs Miami Heat - Sport TV2 Portugal (CH-3734)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium74/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:30 NBA : Boston Celtics vs Miami Heat - CANAL+ Sport Poland (CH-3438)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:30 NBA : Boston Celtics vs Miami Heat - CANAL+ Sport Poland (CH-3438)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium48/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Boston Celtics vs Miami Heat - beIN Sports MENA English 3 (CH-3436)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Boston Celtics vs Miami Heat - beIN Sports MENA English 3 (CH-3436)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium46/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:30 NBA : Boston Celtics vs Miami Heat - beIN Sports MENA Premium 2 (CH-3939)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:30 NBA : Boston Celtics vs Miami Heat - beIN Sports MENA Premium 2 (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Boston Celtics vs Miami Heat - Arena Sport 1 Premium (CH-313334)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Boston Celtics vs Miami Heat - Arena Sport 1 Premium (CH-313334)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium134/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Boston Celtics vs Miami Heat - Astro SuperSport 4 (CH-313236)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Boston Celtics vs Miami Heat - Astro SuperSport 4 (CH-313236)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium126/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:30 NBA : Boston Celtics vs Miami Heat - SporTV2 Brasil (CH-3739)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:30 NBA : Boston Celtics vs Miami Heat - SporTV2 Brasil (CH-3739)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium79/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - NHL Pass (CH-38)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - NHL Pass (CH-38)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium8/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - ESPN USA (CH-3434)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - ESPN USA (CH-3434)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium44/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - Sportsnet Ontario (CH-343036)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - Sportsnet Ontario (CH-343036)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium406/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - Sky Sport Mix DE (CH-353537)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - Sky Sport Mix DE (CH-353537)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium557/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - Sky Sport Top Event DE (CH-353536)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - Sky Sport Top Event DE (CH-353536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium556/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 29/05/2023 17:44:29", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - ESPN 2 NL (CH-333836)
+#EXTINF:-1 group-title="RAW 29/05/2023 17:54:41", 07:00 NHL : Dallas Stars vs Vegas Golden Knights - ESPN 2 NL (CH-333836)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium386/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
