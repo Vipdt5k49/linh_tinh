@@ -1,78 +1,72 @@
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/Polsat?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/14/1685084604273/abd307e3dc8f_640_360.jpg", 16:00 - Tennis: ROLAND GARROS 2023 -NGÀY 3
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/14/1685084604273/abd307e3dc8f_640_360.jpg", 16:00 - Tennis: ROLAND GARROS 2023 -NGÀY 3
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://tiemnhazunn.click/vieon/onsportsnews.php#.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614354_small.png", ﻿19h15 - Cong An Ha Noi vs Khanh Hoa FC [Giàng A Lử] #HD 1
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://img.thesports.com/football/team/563c40183d48640fcb72bb5a0eb0e727.png", ﻿19h30 - Hekimoglu Trabzon vs Iskenderun FK
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd111/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614354_small.png", 19h15 - Cong An Ha Noi vs Khanh Hoa FC [Giàng A Lử] #HD 2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179665839.global.cdnfastest.com/live/luhd222/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614354_small.png", 19h15 - Cong An Ha Noi vs Khanh Hoa FC [Giàng A Lử] #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614354_small.png", 19h15 - Cong An Ha Noi vs Khanh Hoa FC [Giàng A Lử] #SD 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd111/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614354_small.png", 19h15 - Cong An Ha Noi vs Khanh Hoa FC [Giàng A Lử] #SD 2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179665839.global.cdnfastest.com/live/lusd222/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://cdnimg.vietnamplus.vn/uploaded/mzdic/2019_07_13/ttxvn_sanna_khanh_hoa__ha_noi_22.jpg", 19h15 - Cong An Ha Noi vs Sanna Khanh Hoa [Coca]
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cdn.jwplayer.com/manifests/8L4m9FJB.m3u8#1615|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/193616/image", 19h15 - Công An Nhân Dân vs Khánh Hòa [Phở Bò] #FullHD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/193616/image", 19h15 - Công An Nhân Dân vs Khánh Hòa [Phở Bò] #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/193616/image", 19h15 - Công An Nhân Dân vs Khánh Hòa [Phở Bò] #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live2.thapcam.net/truc-tiep/cong-an-nhan-dan-vs-khanh-hoa-lPp9dpG|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/193616/image", 19h15 - Công An Nhân Dân vs Khánh Hòa [Phở Bò] #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/193616/image", 19h15 - Công An Nhân Dân vs Khánh Hòa [Phở Bò] #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5935_small.png", 20h00 - England U17 vs Switzerland U17 #Nhà Đài
+https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho3lvkq86/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5935_small.png", 20h00 - England U17 vs Switzerland U17 #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/4713/image", 20h00 - England U17 vs Switzerland U17 [Bún Chả] #FullHD
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://api.sofascore.app/api/v1/team/4713/image", 20h00 - England U17 vs Switzerland U17 [Bún Chả] #FullHD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/4713/image", 20h00 - England U17 vs Switzerland U17 [Bún Chả] #HD
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://api.sofascore.app/api/v1/team/4713/image", 20h00 - England U17 vs Switzerland U17 [Bún Chả] #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/4713/image", 20h00 - England U17 vs Switzerland U17 [Bún Chả] #SD1
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://api.sofascore.app/api/v1/team/4713/image", 20h00 - England U17 vs Switzerland U17 [Bún Chả] #SD1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/chaSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/4713/image", 20h00 - England U17 vs Switzerland U17 [Bún Chả] #SD2
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://api.sofascore.app/api/v1/team/4713/image", 20h00 - England U17 vs Switzerland U17 [Bún Chả] #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5935_small.png", 20h00 - England U17 vs Switzerland U17 [Daniel] #HD 
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://api.sofascore.app/api/v1/team/4713/image", 20h00 - England U17 vs Switzerland U17 [Bún Chả] #Sơ cua 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx43vzryk/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5935_small.png", 20h00 - England U17 vs Switzerland U17 [Daniel] #HD 
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x11y4-0036/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5935_small.png", 20h00 - England U17 vs Switzerland U17 [Daniel] #SD 
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5935_small.png", 20h00 - England U17 vs Switzerland U17 [Daniel] #SD 
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x11y3-0036/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://soikeotot1.com/wp-content/uploads/2022/05/soi-keo-nhan-dinh-krylya-sovetov-vs-dinamo-moscow-22h-ngay-6-5-2022-russian-premier-league.jpg", 21h00 - Ararat vs BKMA [PinkyMan]
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://img.thesports.com/football/team/c16e39e046bc899a69033820dbc29e07.png", 20h45 - Al-Naft vs Al Karkh
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwo42xql0/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://soikeotot1.com/wp-content/uploads/2022/05/soi-keo-nhan-dinh-krylya-sovetov-vs-dinamo-moscow-22h-ngay-6-5-2022-russian-premier-league.jpg", 21h00 - Ararat vs BKMA [PinkyMan]
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://309557389.global.cdnfastest.com/live/blv4/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 21h00 - Trực tiếp Tennis vs  Roland Garros 2023 #Nhà đài
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://img.thesports.com/football/team/9594e7abdcb42f6e8a178db6d4f37a94.png", 21h00 - Ararat Yerevan vs BKMA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-y39mp1h0z5eomoj/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 21h00 - Trực tiếp Tennis vs  Roland Garros 2023 #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/4703/image", 21h30 - Poland U17 vs Germany U17 [Người Nện] #FullHD
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/313968_small.png", 21h30 - Poland U17 vs Germany U17 [Giàng A Páo] #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/313968_small.png", 21h30 - Poland U17 vs Germany U17 [Giàng A Páo] #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m102nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/313968_small.png", 21h30 - Poland U17 vs Germany U17 [Giàng A Páo] #SD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://api.sofascore.app/api/v1/team/4703/image", 21h30 - Poland U17 vs Germany U17 [Người Nện] #FullHD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/4703/image", 21h30 - Poland U17 vs Germany U17 [Người Nện] #HD
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://api.sofascore.app/api/v1/team/4703/image", 21h30 - Poland U17 vs Germany U17 [Người Nện] #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/4703/image", 21h30 - Poland U17 vs Germany U17 [Người Nện] #SD1
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://api.sofascore.app/api/v1/team/4703/image", 21h30 - Poland U17 vs Germany U17 [Người Nện] #SD1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 21:22:01" tvg-logo="https://api.sofascore.app/api/v1/team/4703/image", 21h30 - Poland U17 vs Germany U17 [Người Nện] #SD2
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://api.sofascore.app/api/v1/team/4703/image", 21h30 - Poland U17 vs Germany U17 [Người Nện] #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/313968_small.png", 21h30 - Poland U17 vs Germany U17 [Thần Chổi] #HD 
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4-0500/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 30/05/2023 21:32:06" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/313968_small.png", 21h30 - Poland U17 vs Germany U17 [Thần Chổi] #SD 
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3-0500/playlist.m3u8|Referer=https://vip10.saoketvs.live
