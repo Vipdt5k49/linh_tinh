@@ -1,96 +1,105 @@
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/Polsat?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/14/1685084604273/abd307e3dc8f_640_360.jpg", 16:00 - Tennis: ROLAND GARROS 2023 -NGÀY 3
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/14/1685084604273/abd307e3dc8f_640_360.jpg", 16:00 - Tennis: ROLAND GARROS 2023 -NGÀY 3
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://tiemnhazunn.click/vieon/onsportsnews.php#.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://khothietke.net/wp-content/uploads/2021/05/PNGKhothietke.net-03348.png", ﻿16h00 - Tennis vs Roland Garros #Kênh 1
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://cdn.bongdaplus.vn/Assets/Media/2023/05/28/96/Randers-FC-AGF-Aarhus-nhan-dinh.jpg", ﻿00h00 - Randers FC vs Aarhus AGF [Adam]
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://309557389.global.cdnfastest.com/live/blv1/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://khothietke.net/wp-content/uploads/2021/05/PNGKhothietke.net-03348.png", 16h00 - Tennis vs Roland Garros #Kênh 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://khothietke.net/wp-content/uploads/2021/05/PNGKhothietke.net-03348.png", 16h00 - Tennis vs Roland Garros #Kênh 2
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://khothietke.net/wp-content/uploads/2021/05/PNGKhothietke.net-03348.png", 16h00 - Tennis vs Roland Garros #Kênh 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may91/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://i.imgur.com/LDybNeK.png", 16h00 - UK Open Pool vs Championships [Bánh Cuốn] #Bàn Số 1
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://i.imgur.com/LDybNeK.png", 16h00 - UK Open Pool vs Championships [Bánh Cuốn] #Bàn Số 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may111/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://i.imgur.com/LDybNeK.png", 16h00 - UK Open Pool vs Championships [Bánh Cuốn] #Full HD
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://i.imgur.com/LDybNeK.png", 16h00 - UK Open Pool vs Championships [Bánh Cuốn] #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/cuonFHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://i.imgur.com/LDybNeK.png", 16h00 - UK Open Pool vs Championships [Bánh Cuốn] #HD
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://i.imgur.com/LDybNeK.png", 16h00 - UK Open Pool vs Championships [Bánh Cuốn] #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://i.imgur.com/LDybNeK.png", 16h00 - UK Open Pool vs Championships [Bánh Cuốn] #SD1
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://i.imgur.com/LDybNeK.png", 16h00 - UK Open Pool vs Championships [Bánh Cuốn] #SD1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/cuonSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://i.imgur.com/LDybNeK.png", 16h00 - UK Open Pool vs Championships [Bánh Cuốn] #SD2
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://i.imgur.com/LDybNeK.png", 16h00 - UK Open Pool vs Championships [Bánh Cuốn] #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://api.sofascore.app/api/v1/team/6709/image", 21h00 - Italy vs Thailand #Full HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://api.sofascore.app/api/v1/team/6709/image", 21h00 - Italy vs Thailand #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://api.sofascore.app/api/v1/team/6709/image", 21h00 - Italy vs Thailand #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://api.sofascore.app/api/v1/team/6709/image", 21h00 - Italy vs Thailand #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/a6b6489756994cc7a514719e84c09042.png", 22h00 - FK Levski Krumovgrad vs PFK Montana
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-jw2r09h67ylprz8/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://api.sofascore.app/api/v1/team/389096/image", 22h00 - Krumovgrad vs Montana #Nhà Đài
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://api.sofascore.app/api/v1/team/389096/image", 22h00 - Krumovgrad vs Montana #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m103nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/8ee7f1663d574c265679291caa50394c.png", 22h00 - MC Alger vs USM Khenchela
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img.thesports.com/football/team/8ee7f1663d574c265679291caa50394c.png", 22h00 - MC Alger vs USM Khenchela
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l5ergphl6noxr8k/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://thumbs.dreamstime.com/z/fans-tribune-fires-police-daugavpils-latvia-october-match-high-league-latvia-bfc-daugavpils-skonto-63570190.jpg", 22h00 - Rigas vs BFC Daugavpils [Pep Si]
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://thumbs.dreamstime.com/z/fans-tribune-fires-police-daugavpils-latvia-october-match-high-league-latvia-bfc-daugavpils-skonto-63570190.jpg", 22h00 - Rigas vs BFC Daugavpils [Pep Si]
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://309557389.global.cdnfastest.com/live/blv8/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/f63c440c9d6eb54bc2ba7275843f227b.png", 22h00 - Victoria Maryina Gorka vs FK Lida
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-965mkyh2vo24r1g/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/248871_small.png", 22h15 - RFS vs BFC Daugavpils #Nhà Đài
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/248871_small.png", 22h15 - RFS vs BFC Daugavpils #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m104nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/83a9f5e1089098a8df85932d23f74191.png", 22h15 - Rigas Futbola skola vs BFC Daugavpils
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img.thesports.com/football/team/83a9f5e1089098a8df85932d23f74191.png", 22h15 - Rigas Futbola skola vs BFC Daugavpils
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3dnlpm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/7b66c521f45e1538cf40797b85950437.png", 22h30 - HJK Helsinki vs Honka Espoo
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-ednm9wh2nd4lryo/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9861_small.png", 22h30 - HJK vs Honka [Giàng A Chuối] #HD
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9861_small.png", 22h30 - HJK vs Honka [Giàng A Chuối] #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9861_small.png", 22h30 - HJK vs Honka [Giàng A Chuối] #Nhà Đài
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9861_small.png", 22h30 - HJK vs Honka [Giàng A Chuối] #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9861_small.png", 22h30 - HJK vs Honka [Giàng A Chuối] #SD
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9861_small.png", 22h30 - HJK vs Honka [Giàng A Chuối] #SD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/6b3204c56f6a315ca8a8ea8b80b96ea1.png", 22h30 - Lahti vs HIFK
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img.thesports.com/football/team/6b3204c56f6a315ca8a8ea8b80b96ea1.png", 22h30 - Lahti vs HIFK
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h6zpvlrz8/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png", 22h30 - Vaasa VPS vs OTP
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img.thesports.com/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png", 22h30 - Vaasa VPS vs OTP
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh794o1md7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/d0f4dae80c3d0277922f8371d5827292.jpg", 23h00 - Al-Hala vs Al-Ittifaq
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-x7lm7ph369pzm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/e6280d08fa83c34395d79386edd4f208.png", 23h00 - East Riffa vs A'ALI FC
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhzpg18qwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/e2e3b134ed642587c5919383cf984f49.png", 23h00 - FK Neptunas Klaipeda vs Suduva
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img.thesports.com/football/team/e2e3b134ed642587c5919383cf984f49.png", 23h00 - FK Neptunas Klaipeda vs Suduva
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-n54qllhp0xjeqvy/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png", 00h00 31/05 - Fenerbahce vs Antalyaspor #FullHD
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img.thesports.com/football/team/afbdd53d1cf6aaaded4b33a863f36ecb.png", 00h00 31/05 - Ankaragucu vs Galatasaray #FullHD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img.thesports.com/football/team/afbdd53d1cf6aaaded4b33a863f36ecb.png", 00h00 31/05 - Ankaragucu vs Galatasaray #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img.thesports.com/football/team/afbdd53d1cf6aaaded4b33a863f36ecb.png", 00h00 31/05 - Ankaragucu vs Galatasaray #SD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9742_small.png", 00h00 31/05 - Ankaragücü vs Galatasaray #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9742_small.png", 00h00 31/05 - Ankaragücü vs Galatasaray #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png", 00h00 31/05 - Fenerbahce vs Antalyaspor #FullHD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png", 00h00 31/05 - Fenerbahce vs Antalyaspor #HD
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png", 00h00 31/05 - Fenerbahce vs Antalyaspor #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 23:43:07" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png", 00h00 31/05 - Fenerbahce vs Antalyaspor #SD
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png", 00h00 31/05 - Fenerbahce vs Antalyaspor #SD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8695_small.png", 00h00 31/05 - Fenerbahçe vs Antalyaspor #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8695_small.png", 00h00 31/05 - Fenerbahçe vs Antalyaspor #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://api.sofascore.app/api/v1/team/6719/image", 00h00 31/05 - Poland vs Canada #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8410_small.png", 00h00 31/05 - Randers FC vs AGF Aarhus #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8410_small.png", 00h00 31/05 - Randers FC vs AGF Aarhus #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 30/05/2023 23:53:12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/80591_small.png", 00h00 31/05 - Zamalek SC vs El Geish #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
