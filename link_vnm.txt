@@ -1,75 +1,81 @@
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/Polsat?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/14/1685347142336/feaee9ef1bd8_640_360.jpg", 17:30 - Bóng Đá: CLB Quảng Nam vs CLB Bóng đá Huế
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/14/1685347142336/feaee9ef1bd8_640_360.jpg", 17:30 - Bóng Đá: CLB Quảng Nam vs CLB Bóng đá Huế
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://live-zlr1.tv360.vn/manifest/HTV_The_Thao_HD-50fps/./playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/16/1685351498337/d01eff77118f_640_360.jpg", 17:30 - Bóng Đá: Topenland Bình Định vs CLB Hải Phòng
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/16/1685351498337/d01eff77118f_640_360.jpg", 17:30 - Bóng Đá: Topenland Bình Định vs CLB Hải Phòng
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://live-zlr1.tv360.vn/manifest/sukien/./playlist_1080p-5M.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://img.thesports.com/football/team/997c0fee81e7a7889079c730e52e4692.png", ﻿[LIVE] 16h30 - Brisbane City (w) vs Souths United SC (w)
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img.thesports.com/football/team/945908a6546987110c60eaf9cfef05ca.png", ﻿[LIVE] 16h15 - Mohammedan Dhaka vs Abahani Limited
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6kwz5q82/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/gEQrwtVMoU4ckUnq1PWKzw_96x96.png", [LIVE] 17h00 - Quang Nam vs CLB Hue #Nhà đài
+https://179720687.global.cdnfastest.com/live/sd-6ypq3nh79nwwmd7/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/gEQrwtVMoU4ckUnq1PWKzw_96x96.png", [LIVE] 17h00 - Quang Nam vs CLB Hue #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://img.thesports.com/football/team/2b2b28e6c4df2ae30a8b8eb02570a7b6.png", [LIVE] 17h00 - Quang Nam vs Huda Hue
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img.thesports.com/football/team/2b2b28e6c4df2ae30a8b8eb02570a7b6.png", [LIVE] 17h00 - Quang Nam vs Huda Hue
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h3598wqdy/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://cdn.bongdaplus.vn/Assets/Media/2022/03/11/26/quangnam-vs-hue.jpg", [LIVE] 17h00 - Quang Nam vs Hue FC [Coca]
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://cdn.bongdaplus.vn/Assets/Media/2022/03/11/26/quangnam-vs-hue.jpg", [LIVE] 17h00 - Quang Nam vs Hue FC [Coca]
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://309557389.global.cdnfastest.com/live/blv10/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://www.scoreboard.com/res/image/data/rRUbQjFa-xlD1BHr9.png", [LIVE] 17h00 - Quang Nam vs Huế #Nhà Đài
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://www.scoreboard.com/res/image/data/rRUbQjFa-xlD1BHr9.png", [LIVE] 17h00 - Quang Nam vs Huế #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://api.sofascore.app/api/v1/team/6710/image", [LIVE] 17h40 - Japan vs Dominican Republic [Cáp Tần] #>>>>
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/kaka/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://api.sofascore.app/api/v1/team/6710/image", [LIVE] 17h40 - Japan vs Dominican Republic [Cáp Tần] #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live2.thapcam.net/truc-tiep/japan-vs-dominican-republic-Vr4q7HX|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://socolive.news/wp-content/uploads/2023/05/Binh-Dinh-vs-XM-Hai-Phong.jpg", [LIVE] 18h00 - Binh Dinh FC vs XM Hai Phong FC [Tiếp Bịp]
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://socolive.news/wp-content/uploads/2023/05/Binh-Dinh-vs-XM-Hai-Phong.jpg", [LIVE] 18h00 - Binh Dinh FC vs XM Hai Phong FC [Tiếp Bịp]
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://309557389.global.cdnfastest.com/live/blv6/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Giàng A Cay] #HD 1
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Giàng A Cay] #HD 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Giàng A Cay] #HD 2
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Giàng A Cay] #HD 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179665839.global.cdnfastest.com/live/cayhd2/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Giàng A Cay] #Nhà Đài
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Giàng A Cay] #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Giàng A Cay] #SD 1
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Giàng A Cay] #SD 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Giàng A Cay] #SD 2
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Giàng A Cay] #SD 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179665839.global.cdnfastest.com/live/caysd2/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Sao Kê] #HD 1
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Sao Kê] #HD 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@sk4-0089/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Sao Kê] #SD 1
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Sao Kê] #SD 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@sk3-0089/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Sao Kê] #SD 2
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Sao Kê] #SD 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://713291609.cloud.anycastapnic.com/pepmc/sk1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Sao Kê] #SD 3
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png", [LIVE] 18h00 - Binh Dinh vs Hai Phong [Sao Kê] #SD 3
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://saoke2.cdn.khmer-hd.com/sk1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Hải Phòng [Người Thỏ] #FullHD
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Hải Phòng [Người Thỏ] #FullHD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Hải Phòng [Người Thỏ] #HD
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Hải Phòng [Người Thỏ] #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Hải Phòng [Người Thỏ] #SD1
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Hải Phòng [Người Thỏ] #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live2.thapcam.net/truc-tiep/binh-dinh-vs-hai-phong-Dhyr5qh|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Hải Phòng [Người Thỏ] #SD1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Hải Phòng [Người Thỏ] #SD2
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Hải Phòng [Người Thỏ] #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 30/05/2023 18:20:18" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Hải Phòng [Người Thỏ] #Sơ cua 1
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img.thesports.com/football/team/a248831fa3a3440dcea40259aee63bcf.png", [LIVE] 18h00 - Bình Định vs Hải Phòng [Người Thỏ] #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-ednm9wh2pp9wryo/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img.thesports.com/football/team/c58ee97599eea13286530be4b9b28b25.png", [LIVE] 18h30 - Dordoi-Dynamo Naryn vs FC Talant
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-jw2r09h6z0pjrz8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img.thesports.com/football/team/689e2bc7378eb58fe06ae0af8c2bd64b.png", [LIVE] 18h30 - Shaoxing Shangyu Pterosaur vs Heilongjiang Lava Spring
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-8yomo4hgp2d8q0j/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 30/05/2023 18:30:24" tvg-logo="https://img.thesports.com/football/team/96331f0cb47011fd82fc1a7852b1c624.png", [LIVE] 18h30 - Yuxi Yukun Football Club vs Guangxi Pingguo Haliao
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx49zkryk/playlist.m3u8|Referer=https://player.4shares.live
