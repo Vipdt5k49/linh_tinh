@@ -1,93 +1,90 @@
-#EXTINF:-1 group-title="CAST 31/05/2023 07:55:24" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
+#EXTINF:-1 group-title="CAST 31/05/2023 08:15:50" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/Polsat?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 31/05/2023 07:55:24" tvg-logo="https://footballia.net/cache/matches/9e1eb6d22c3e3408681e3a34de62b203.png", ﻿06h05 - Llaneros vs Real Cartagena [Cr7]
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://309557389.global.cdnfastest.com/live/blv2/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 31/05/2023 07:55:24" tvg-logo="https://img.thesports.com/football/team/11405a5894d8e775c21704e907692dee.png", 06h30 - Club de Lyon FC vs ASC San Diego
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-x7lm7ph367pjm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 31/05/2023 07:55:24" tvg-logo="https://img.thesports.com/football/team/068e3eb5bbc7eacecf8b7b16c001c28d.png", 07h00 - Guayaquil SC vs Macara
+#EXTINF:-1 group-title="CAST 31/05/2023 08:15:50" tvg-logo="https://img.thesports.com/football/team/068e3eb5bbc7eacecf8b7b16c001c28d.png", ﻿07h00 - Guayaquil SC vs Macara
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5ooz1r6o/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 31/05/2023 07:55:24" tvg-logo="https://cdn.livesoccertv.com/images/teams/colombia/logos/deportes-quindio.png", 08h05 - Deportes Quindio vs Fortaleza FC #Nhà Đài
+#EXTINF:-1 group-title="CAST 31/05/2023 08:15:50" tvg-logo="https://cdn.livesoccertv.com/images/teams/colombia/logos/deportes-quindio.png", 08h05 - Deportes Quindio vs Fortaleza FC #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - BT Sport 1 UK (CH-3331)
+#EXTINF:-1 group-title="CAST 31/05/2023 08:15:50" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4407_small.png", 08h05 - Deportes Quindio vs Fortaleza FC #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - BT Sport 1 UK (CH-3331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium31/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - Movistar Liga de Campeones (CH-343335)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - Movistar Liga de Campeones (CH-343335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium435/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - RTL DE (CH-37)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - RTL DE (CH-37)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium7/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - Canal+ Foot (CH-343633)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - Canal+ Foot (CH-343633)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium463/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN 1 NL (CH-333739)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN 1 NL (CH-333739)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium379/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - Arena Sport 1 Premium (CH-313334)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - Arena Sport 1 Premium (CH-313334)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium134/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - Match TV Russia (CH-313237)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - CBS Sports Network (CH-333038)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - CBS Sports Network (CH-333038)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium308/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - TV6 Sweden (CH-38)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - TV6 Sweden (CH-38)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium8/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - beIN Sports MENA English 1 (CH-3631)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium61/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - beIN Sports MENA Premium 1 (CH-3938)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - beIN Sports MENA Premium 1 (CH-3938)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium98/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - SIC Portugal (CH-373232)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - SIC Portugal (CH-373232)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium722/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sky Sports Austria 1 (CH-353539)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sky Sports Austria 1 (CH-353539)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium559/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sport TV1 Portugal (CH-3439)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sport TV1 Portugal (CH-3439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium49/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - MATCH! Futbol 1 Russia (CH-313336)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - MATCH! Futbol 1 Russia (CH-313336)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium136/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - TV8 Turkey (CH-39)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - TV8 Turkey (CH-39)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium9/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - TUDN USA (CH-3636)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - TUDN USA (CH-3636)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium66/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - SuperSport Premier League (CH-343134)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - SuperSport Premier League (CH-343134)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium414/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sky Sport Uno IT (CH-343631)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sky Sport Uno IT (CH-343631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium461/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - Cosmote Sport 1 (CH-363232)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - Cosmote Sport 1 (CH-363232)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium622/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN BR (CH-3831)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN BR (CH-3831)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium81/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN SUR (CH-313439)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN SUR (CH-313439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium149/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - UniMás (CH-313333)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - UniMás (CH-313333)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium133/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - bTV Action (CH-343831)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - bTV Action (CH-343831)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium481/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - CBC Sport Azerbaijan (CH-3130)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - CBC Sport Azerbaijan (CH-3130)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium10/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 31/05/2023 07:55:24", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sport 1 Israel (CH-313430)
+#EXTINF:-1 group-title="RAW 31/05/2023 08:15:50", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sport 1 Israel (CH-313430)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium140/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
