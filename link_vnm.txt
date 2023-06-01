@@ -1,177 +1,216 @@
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES1?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES2?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/Polsat?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://static.bongda24h.vn/medias/original/2023/05/31/nhan-dinh-bong-da-soi-keo-u20-argentina-vs-u20-nigeria-world-cup-2023-hom-nay-3105060851.jpg", ﻿04h00 - Argentina(U20) vs Nigeria(U20) 
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://static.bongda24h.vn/medias/original/2023/05/31/nhan-dinh-bong-da-soi-keo-u20-argentina-vs-u20-nigeria-world-cup-2023-hom-nay-3105060851.jpg", ﻿04h00 - Argentina(U20) vs Nigeria(U20) 
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://309557389.global.cdnfastest.com/live/lk-blv1/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/773958_small.png", 06h00 - Atlanta United vs New England #Nhà đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/773958_small.png", 06h00 - Atlanta United vs New England #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png", 06h00 - Atlanta United vs New England Revolution
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5kd1or6o/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/98700b35a6a5542cc22ddc04f9e80273.png", 06h00 - Cruzeiro (MG) vs Gremio (RS)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3ylz8m2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9781_small.png", 06h00 - Cruzeiro vs Gremio #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/eef8932afd66a66daa76d47cf7503957.png", 06h00 - Forge FC vs York 9 FC
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/eef8932afd66a66daa76d47cf7503957.png", 06h00 - Forge FC vs York 9 FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h35xj0qdy/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/1cd42bcb186830f2cffdeef6df5fd2b0.png", 06h15 - Boyaca Chico vs Dep.Independiente Medellin
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/eefa0af6ac6db3b3246f200ae3b39a65.png", 06h00 - Macapa vs Trem-AP
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-k82rekh0p68orep/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/1cd42bcb186830f2cffdeef6df5fd2b0.png", 06h15 - Boyaca Chico vs Dep.Independiente Medellin
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-dj2ryoheogo6q1z/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6255_small.png", 06h15 - Chico FC vs Independiente Medellin #Nhà đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6255_small.png", 06h15 - Chico FC vs Independiente Medellin #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x3/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/b6d8f81e8454813b3e672b179e627d3a.png", 06h30 - Columbus Crew vs Colorado Rapids
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png", 06h25 - Atlanta United vs New England Revolution
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5kd1or6o/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/b6d8f81e8454813b3e672b179e627d3a.png", 06h30 - Columbus Crew vs Colorado Rapids
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhz9ypyqwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6001_small.png", 06h30 - Columbus vs Colorado #Nhà Đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6001_small.png", 06h30 - Columbus vs Colorado #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6001_small.png", 06h30 - Columbus vs Colorado #Nhà đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6001_small.png", 06h30 - Columbus vs Colorado #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke4x5/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6602_small.png", 06h30 - DC United vs Montreal #Nhà Đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6602_small.png", 06h30 - DC United vs Montreal #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6602_small.png", 06h30 - DC United vs Montreal #Nhà đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6602_small.png", 06h30 - DC United vs Montreal #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke4x6/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/2d846f3eea3e2d5067b26de498f83d94.png", 06h30 - DC United vs Montreal Impact
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/2d846f3eea3e2d5067b26de498f83d94.png", 06h30 - DC United vs Montreal Impact
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-pxwrxlhxl84nryk/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png", 06h30 - Inter Miami CF vs NY Red Bulls #Nhà Đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png", 06h30 - Inter Miami CF vs NY Red Bulls #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png", 06h30 - Inter Miami CF vs NY Red Bulls #Nhà đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png", 06h30 - Inter Miami CF vs NY Red Bulls #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke4x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/f5bbc8573e1b019164b11b13c49598bd.png", 06h30 - New York City Football Club vs FC Cincinnati
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/f5bbc8573e1b019164b11b13c49598bd.png", 06h30 - New York City Football Club vs FC Cincinnati
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7ky9kmd7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/546238_small.png", 06h30 - NYCFC vs Cincinnati #Nhà Đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/546238_small.png", 06h30 - NYCFC vs Cincinnati #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/546238_small.png", 06h30 - NYCFC vs Cincinnati #Nhà đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/546238_small.png", 06h30 - NYCFC vs Cincinnati #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke4x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/574f1ee560e8835e605176cac36a87db.png", 06h30 - Philadelphia Union vs Charlotte FC
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/574f1ee560e8835e605176cac36a87db.png", 06h30 - Philadelphia Union vs Charlotte FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-8yomo4hgylp1q0j/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png", 06h30 - Philadelphia vs Charlotte FC #Nhà Đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png", 06h30 - Philadelphia vs Charlotte FC #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png", 06h30 - Philadelphia vs Charlotte FC #Nhà đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png", 06h30 - Philadelphia vs Charlotte FC #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke4x3/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/a6f6290d4b7699729dc19349484841bf.png", 06h30 - Toronto FC vs Chicago Fire
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/a6f6290d4b7699729dc19349484841bf.png", 06h30 - Toronto FC vs Chicago Fire
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3xy6em2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/56453_small.png", 06h30 - Toronto vs Chicago #Nhà đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/56453_small.png", 06h30 - Toronto vs Chicago #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke4x4/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/215f986a8d6da00e35a2b1011922ca0d.png", 07h00 - FBC Melgar vs Univ.Cesar Vallejo #Full HD
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/491618b9b2bfeeac6697d6aa9df04ed6.png", 07h00 - Chicago City SC (w) vs Chicago Dutch Lions (W)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-x7lm7ph36748m2w/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/857c97695da2c420fa75e1b063c924a0.png", 07h00 - Chicago Red Stars (w) vs Racing Louisville (W)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-3glrw7h32kvgqdy/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/215f986a8d6da00e35a2b1011922ca0d.png", 07h00 - FBC Melgar vs Univ.Cesar Vallejo #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/215f986a8d6da00e35a2b1011922ca0d.png", 07h00 - FBC Melgar vs Univ.Cesar Vallejo #HD
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/215f986a8d6da00e35a2b1011922ca0d.png", 07h00 - FBC Melgar vs Univ.Cesar Vallejo #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/215f986a8d6da00e35a2b1011922ca0d.png", 07h00 - FBC Melgar vs Univ.Cesar Vallejo #SD
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/215f986a8d6da00e35a2b1011922ca0d.png", 07h00 - FBC Melgar vs Univ.Cesar Vallejo #SD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/215f986a8d6da00e35a2b1011922ca0d.png", 07h00 - FBC Melgar vs Univ.Cesar Vallejo #Sơ cua 1
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/215f986a8d6da00e35a2b1011922ca0d.png", 07h00 - FBC Melgar vs Univ.Cesar Vallejo #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3vpj3m2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://img.thesports.com/football/team/215f986a8d6da00e35a2b1011922ca0d.png", 07h00 - FBC Melgar vs Univ.Cesar Vallejo #Sơ cua 1
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/215f986a8d6da00e35a2b1011922ca0d.png", 07h00 - FBC Melgar vs Univ.Cesar Vallejo #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3vpj3m2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 01/06/2023 07:24:52" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4417_small.png", 07h00 - FBC Melgar vs Universidad Cesar Vallejo #Nhà Đài
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4417_small.png", 07h00 - FBC Melgar vs Universidad Cesar Vallejo #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m206nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - BT Sport 1 UK (CH-3331)
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1218886_small.png", 07h30 - Austin FC vs Minnesota #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1218886_small.png", 07h30 - Austin FC vs Minnesota #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x4/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://img.thesports.com/football/team/5d83c47462e5afb6f1add0ad508c300b.png", 07h30 - Botafogo RJ vs Atletico Paranaense
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx865xryk/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8517_small.png", 07h30 - Botafogo vs Athletico Paranaense #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8517_small.png", 07h30 - Botafogo vs Athletico Paranaense #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x6/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9808_small.png", 07h30 - Corinthians vs Atletico MG #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x5/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9808_small.png", 07h30 - Corinthians vs Atletico MG #HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9808_small.png", 07h30 - Corinthians vs Atletico MG #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9808_small.png", 07h30 - Corinthians vs Atletico MG #SD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8702_small.png", 07h30 - Internacional vs America MG #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m305nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6604_small.png", 07h30 - Sporting KC vs Dallas #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 01/06/2023 07:35:05" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6604_small.png", 07h30 - Sporting KC vs Dallas #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x3/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - BT Sport 1 UK (CH-3331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium31/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - Movistar Liga de Campeones (CH-343335)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - Movistar Liga de Campeones (CH-343335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium435/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - RTL DE (CH-37)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - RTL DE (CH-37)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium7/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - Canal+ Foot (CH-343633)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - Canal+ Foot (CH-343633)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium463/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN 1 NL (CH-333739)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN 1 NL (CH-333739)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium379/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - Arena Sport 1 Premium (CH-313334)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - Arena Sport 1 Premium (CH-313334)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium134/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - Match TV Russia (CH-313237)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - CBS Sports Network (CH-333038)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - CBS Sports Network (CH-333038)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium308/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - TV6 Sweden (CH-38)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - TV6 Sweden (CH-38)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium8/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - beIN Sports MENA English 1 (CH-3631)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium61/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - beIN Sports MENA Premium 1 (CH-3938)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - beIN Sports MENA Premium 1 (CH-3938)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium98/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - SIC Portugal (CH-373232)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - SIC Portugal (CH-373232)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium722/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sky Sports Austria 1 (CH-353539)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sky Sports Austria 1 (CH-353539)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium559/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sport TV1 Portugal (CH-3439)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sport TV1 Portugal (CH-3439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium49/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - MATCH! Futbol 1 Russia (CH-313336)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - MATCH! Futbol 1 Russia (CH-313336)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium136/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - TV8 Turkey (CH-39)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - TV8 Turkey (CH-39)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium9/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - TUDN USA (CH-3636)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - TUDN USA (CH-3636)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium66/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - SuperSport Premier League (CH-343134)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - SuperSport Premier League (CH-343134)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium414/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sky Sport Uno IT (CH-343631)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sky Sport Uno IT (CH-343631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium461/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - Cosmote Sport 1 (CH-363232)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 UEFA Europa League Final : Sevilla vs Roma - Cosmote Sport 1 (CH-363232)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium622/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN BR (CH-3831)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN BR (CH-3831)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium81/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN SUR (CH-313439)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - ESPN SUR (CH-313439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium149/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - UniMás (CH-313333)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - UniMás (CH-313333)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium133/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - bTV Action (CH-343831)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - bTV Action (CH-343831)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium481/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - CBC Sport Azerbaijan (CH-3130)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - CBC Sport Azerbaijan (CH-3130)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium10/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 01/06/2023 07:24:52", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sport 1 Israel (CH-313430)
+#EXTINF:-1 group-title="RAW 01/06/2023 07:35:05", 02:00 UEFA Europa League Final : Sevilla vs Roma - Sport 1 Israel (CH-313430)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium140/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
