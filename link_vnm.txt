@@ -1,141 +1,141 @@
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES1?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES2?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 1
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/Polsat?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 2
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/PolsatE?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/31/10/1685502227372/e2ee76af510b_640_360.jpg", 16:00 - Tennis: ROLAND GARROS 2023-NGÀY 6-FEED ISS EXTRA
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/31/10/1685502227372/e2ee76af510b_640_360.jpg", 16:00 - Tennis: ROLAND GARROS 2023-NGÀY 6-FEED ISS EXTRA
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://tiemnhazunn.click/vieon/onsports.php#.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6591_small.png", ﻿01h00 - Germany U17 vs France U17 #Nhà Đài
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6591_small.png", ﻿01h00 - Germany U17 vs France U17 #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png", 01h30 - Sassuolo vs Fiorentina #Nhà Đài
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png", 01h30 - Sassuolo vs Fiorentina #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9976_small.png", 01h30 - Bari vs Sudtirol #Nhà Đài
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9976_small.png", 01h30 - Bari vs Sudtirol #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png", 01h45 - Le Havre vs Dijon #Nhà Đài
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png", 01h45 - Le Havre vs Dijon #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png", 01h45 - Metz vs SC Bastia #Nhà Đài
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png", 01h45 - Metz vs SC Bastia #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6355_small.png", 01h45 - Pau vs Caen #Nhà Đài
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6355_small.png", 01h45 - Pau vs Caen #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8196_small.png", 01h45 - Wehen Wiesbaden vs Arminia Bielefeld #Nhà Đài
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8196_small.png", 01h45 - Wehen Wiesbaden vs Arminia Bielefeld #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="", 03h30 - Cesar Vallejo W vs Carlos Mannucci W
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-n54qllhp08j9qvy/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://img.thesports.com/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png", 05h00 - Botafogo SP vs Tombense
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://img.thesports.com/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png", 05h00 - Botafogo SP vs Tombense
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y39mp1h08v31moj/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://img.thesports.com/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png", 05h00 - Estudiantes La Plata vs Barracas Central #HD
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://img.thesports.com/football/team/af8774ff48aa426f5516ba6d507c5381.png", 05h00 - Ceara vs Chapecoense SC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-k82rekh0dzv1rep/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://img.thesports.com/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png", 05h00 - Estudiantes La Plata vs Barracas Central #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://img.thesports.com/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png", 05h00 - Estudiantes La Plata vs Barracas Central #Sơ cua 1
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://img.thesports.com/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png", 05h00 - Estudiantes La Plata vs Barracas Central #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-965mkyh28xdvr1g/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://img.thesports.com/football/team/cb9797fa8614b9664231a4861ed71875.png", 05h00 - Independiente Jose Teran vs Sociedad Deportiva Aucas
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://img.thesports.com/football/team/cb9797fa8614b9664231a4861ed71875.png", 05h00 - Independiente Jose Teran vs Sociedad Deportiva Aucas
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-vjxm8gh570kkr6o/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 03/06/2023 05:31:00" tvg-logo="https://api.sofascore.app/api/v1/team/4724/image", 05h00 - USA (w) U20 vs Costa Rica (w) U20
+#EXTINF:-1 group-title="CAST 03/06/2023 05:41:09" tvg-logo="https://api.sofascore.app/api/v1/team/4724/image", 05h00 - USA (w) U20 vs Costa Rica (w) U20
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx4xe0ryk/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - Canal 11 Portugal (CH-353430)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - Canal 11 Portugal (CH-353430)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium540/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - M4 Sport Hungary (CH-35)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - M4 Sport Hungary (CH-35)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium5/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - TVP Sport Poland (CH-313238)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - TVP Sport Poland (CH-313238)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium128/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - BNT 3 Bulgaria (CH-343738)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - BNT 3 Bulgaria (CH-343738)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium478/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - Rai Sport+ Italy HD (CH-3130)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - Rai Sport+ Italy HD (CH-3130)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium10/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - RTP 2 Portugal (CH-373230)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - RTP 2 Portugal (CH-373230)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium720/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - Teledeporte Spain (CH-353239)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - Teledeporte Spain (CH-353239)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium529/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - Sport Klub 1 Serbia (CH-313031)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:00 UEFA U17 European Championship : Final Germany U17 vs France U17 - Sport Klub 1 Serbia (CH-313031)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium101/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:30 Italy Serie A : Sassuolo vs Fiorentina - BT Sport 1 UK (CH-3331)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:30 Italy Serie A : Sassuolo vs Fiorentina - BT Sport 1 UK (CH-3331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium31/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:30 Italy Serie A : Sassuolo vs Fiorentina - Match!! Football 1 Russia (CH-313336)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:30 Italy Serie A : Sassuolo vs Fiorentina - Match!! Football 1 Russia (CH-313336)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium136/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:30 Italy Serie A : Sassuolo vs Fiorentina - Eleven Sports 1 Poland (CH-3731)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:30 Italy Serie A : Sassuolo vs Fiorentina - Eleven Sports 1 Poland (CH-3731)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium71/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:30 Italy Serie A : Sassuolo vs Fiorentina - SuperSport Football (CH-3536)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:30 Italy Serie A : Sassuolo vs Fiorentina - SuperSport Football (CH-3536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium56/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:30 Italy Serie A : Sassuolo vs Fiorentina - Sport TV1 Portugal (CH-3439)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:30 Italy Serie A : Sassuolo vs Fiorentina - Sport TV1 Portugal (CH-3439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium49/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:30 Italy Serie A : Sassuolo vs Fiorentina - Arena Sport 1 Premium (CH-313334)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:30 Italy Serie A : Sassuolo vs Fiorentina - Arena Sport 1 Premium (CH-313334)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium134/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:30 Italy Serie A : Sassuolo vs Fiorentina - C More Fotball Sweden (CH-373437)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:30 Italy Serie A : Sassuolo vs Fiorentina - C More Fotball Sweden (CH-373437)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium747/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:30 Italy Serie A : Sassuolo vs Fiorentina - beIN Sports MAX 6 France (CH-343936)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:30 Italy Serie A : Sassuolo vs Fiorentina - beIN Sports MAX 6 France (CH-343936)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium496/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:30 Italy Serie A : Sassuolo vs Fiorentina -  ESPN2 SUR (CH-313530)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:30 Italy Serie A : Sassuolo vs Fiorentina -  ESPN2 SUR (CH-313530)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium150/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 01:30 Italy Serie A : Sassuolo vs Fiorentina - Digi Sport 4 Romania (CH-343033)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 01:30 Italy Serie A : Sassuolo vs Fiorentina - Digi Sport 4 Romania (CH-343033)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium403/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 19:30 One Friday Fights 19 - Astro SuperSport 2 (CH-313234)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 19:30 One Friday Fights 19 - Astro SuperSport 2 (CH-313234)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium124/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 19:30 One Friday Fights 19 - Match TV Russia (CH-313237)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 19:30 One Friday Fights 19 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 19:30 One Friday Fights 19 - beIN Sports MENA Premium 3 (CH-313030)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 19:30 One Friday Fights 19 - beIN Sports MENA Premium 3 (CH-313030)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium100/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 22:00 ACA 158. Mikhail Mokhnatkin vs. Oleg Olenichev - МАТЧ! БОЕЦ Russia (CH-333935)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 22:00 ACA 158. Mikhail Mokhnatkin vs. Oleg Olenichev - МАТЧ! БОЕЦ Russia (CH-333935)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium395/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 22:00 ACA 158. Mikhail Mokhnatkin vs. Oleg Olenichev - Match TV Russia (CH-313237)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 22:00 ACA 158. Mikhail Mokhnatkin vs. Oleg Olenichev - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - UFC Fight Pass (CH-3539)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - UFC Fight Pass (CH-3539)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium59/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - RMC Sport 2 France (CH-313230)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - RMC Sport 2 France (CH-313230)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium120/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - Polsat Sport Poland (CH-3437)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - Polsat Sport Poland (CH-3437)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium47/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - Astro SuperSport 5 (CH-3433)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - Astro SuperSport 5 (CH-3433)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium43/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - MAX Sport 2 Bulgaria (CH-343733)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - MAX Sport 2 Bulgaria (CH-343733)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium473/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 03/06/2023 05:31:00", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - Sport Klub 2 Serbia (CH-313032)
+#EXTINF:-1 group-title="RAW 03/06/2023 05:41:09", 09:00 Cage Warriors : James Lynch vs Kyle Driscoll - Sport Klub 2 Serbia (CH-313032)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium102/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
