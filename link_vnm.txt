@@ -1,195 +1,189 @@
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES1?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES2?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Bóng chuyền nữ VNL 2023
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/Polsat?token=live|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png", ﻿04h00 - Ecuador U20 vs South Korea U20 #Nhà Đài
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png", ﻿04h00 - Ecuador U20 vs South Korea U20 #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/9682cc83216f6c36638a6fa6d01fae06.png", 05h00 - Bragantino (w) vs Palmeiras SP (w)
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwopedql0/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/31f5171de0e1404fdebcef19cd7cd409.png", 05h30 - Sao Paulo vs Sport Club do Recife
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.thesports.com/football/team/31f5171de0e1404fdebcef19cd7cd409.png", 05h30 - Sao Paulo vs Sport Club do Recife
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h32x77qdy/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/195e7497abf32d7fd1b174ef869df14c.png", 05h30 - Uberlandia MG vs Tupynambas
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhzy1llqwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9770_small.png", 06h00 - Flamengo vs Fluminense #Nhà đài
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9770_small.png", 06h00 - Flamengo vs Fluminense #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://api.sofascore.app/api/v1/team/5981/image", 06h00 - Flamengo vs Fluminense RJ
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://api.sofascore.app/api/v1/team/5981/image", 06h00 - Flamengo vs Fluminense RJ
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-vjxm8gh5dnler6o/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="", 06h00 - Independente AP vs Oratorio RC
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="", 06h00 - Independente AP vs Oratorio RC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-318q66h6y27jqo9/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/4fcb895805006edbc8faea6b88d1b93b.png", 06h00 - Sarmiento Junin vs Newells Old Boys #Full HD
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.thesports.com/football/team/4fcb895805006edbc8faea6b88d1b93b.png", 06h00 - Sarmiento Junin vs Newells Old Boys #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/4fcb895805006edbc8faea6b88d1b93b.png", 06h00 - Sarmiento Junin vs Newells Old Boys #HD
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.thesports.com/football/team/4fcb895805006edbc8faea6b88d1b93b.png", 06h00 - Sarmiento Junin vs Newells Old Boys #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/4fcb895805006edbc8faea6b88d1b93b.png", 06h00 - Sarmiento Junin vs Newells Old Boys #SD
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.thesports.com/football/team/4fcb895805006edbc8faea6b88d1b93b.png", 06h00 - Sarmiento Junin vs Newells Old Boys #SD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/4fcb895805006edbc8faea6b88d1b93b.png", 06h00 - Sarmiento Junin vs Newells Old Boys #Sơ cua 1
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.thesports.com/football/team/4fcb895805006edbc8faea6b88d1b93b.png", 06h00 - Sarmiento Junin vs Newells Old Boys #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-4jwq2ghzgjyjm0v/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/202757_small.png", 06h00 - Sarmiento vs Newell's Old Boys #Nhà đài
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/202757_small.png", 06h00 - Sarmiento vs Newell's Old Boys #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="", 06h05 - Deportivo Pasto vs Alianza Petrolera 
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="", 06h05 - Deportivo Pasto vs Alianza Petrolera 
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://309557389.global.cdnfastest.com/live/blv2/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4405_small.png", 06h15 - Deportivo Pasto vs Alianza Petrolera #Nhà đài
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4405_small.png", 06h15 - Deportivo Pasto vs Alianza Petrolera #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x3/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/3679dc2a79876fe397c5a7e96c844e0e.png", 07h00 - Manta FC vs SC Imbabura
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.thesports.com/football/team/3679dc2a79876fe397c5a7e96c844e0e.png", 07h00 - Manta FC vs SC Imbabura
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhzdd2vqwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/049a6388ee495cc97b595678605d17ec.png", 07h00 - San Marcos de Arica vs Barnechea
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.thesports.com/football/team/049a6388ee495cc97b595678605d17ec.png", 07h00 - San Marcos de Arica vs Barnechea
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-23xmvkhpl852qg8/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/0d06a8e07875ff6d7308bc38c4d28de0.png", 07h30 - Arsenal de Sarandi vs Boca Juniors #Full HD
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.thesports.com/football/team/0d06a8e07875ff6d7308bc38c4d28de0.png", 07h30 - Arsenal de Sarandi vs Boca Juniors #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/0d06a8e07875ff6d7308bc38c4d28de0.png", 07h30 - Arsenal de Sarandi vs Boca Juniors #HD
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.thesports.com/football/team/0d06a8e07875ff6d7308bc38c4d28de0.png", 07h30 - Arsenal de Sarandi vs Boca Juniors #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 02/06/2023 07:02:37" tvg-logo="https://img.thesports.com/football/team/0d06a8e07875ff6d7308bc38c4d28de0.png", 07h30 - Arsenal de Sarandi vs Boca Juniors #SD
+#EXTINF:-1 group-title="CAST 02/06/2023 07:12:42" tvg-logo="https://img.thesports.com/football/team/0d06a8e07875ff6d7308bc38c4d28de0.png", 07h30 - Arsenal de Sarandi vs Boca Juniors #SD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - Fox Soccer Plus (CH-373536)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - Fox Soccer Plus (CH-373536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium756/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - SporTV Brazil (CH-3738)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - SporTV Brazil (CH-3738)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium78/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - GOL PLAY Spain (CH-353330)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - GOL PLAY Spain (CH-353330)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium530/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - TSN5 (CH-313135)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - TSN5 (CH-313135)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium115/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - Match TV Russia (CH-313237)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - SuperSport Football (CH-3536)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - SuperSport Football (CH-3536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium56/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - beIN Sports MENA Premium 2 (CH-3939)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - beIN Sports MENA Premium 2 (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - Sport 2 Israel (CH-313431)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 00:30 FIFA U-20 World Cup : Gambia U20 vs Uruguay U20 - Sport 2 Israel (CH-313431)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium141/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sky Sport Bundesliga 1 (CH-353538)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sky Sport Bundesliga 1 (CH-353538)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium558/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sky Sport Top Event DE (CH-353536)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sky Sport Top Event DE (CH-353536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium556/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 01:45 Bundesliga : Stuttgart vs Hamburger SV - MATCH! Futbol 3 Russia (CH-313338)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 01:45 Bundesliga : Stuttgart vs Hamburger SV - MATCH! Futbol 3 Russia (CH-313338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium138/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Eleven Sports 1 Portugal (CH-343535)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Eleven Sports 1 Portugal (CH-343535)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium455/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Movistar Liga de Campeones (CH-343335)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Movistar Liga de Campeones (CH-343335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium435/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sky Sport Football Italy (CH-343630)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sky Sport Football Italy (CH-343630)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium460/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sky Sports Mix UK (CH-343439)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sky Sports Mix UK (CH-343439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium449/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 01:45 Bundesliga : Stuttgart vs Hamburger SV - beIN Sports MENA 3 (CH-3933)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 01:45 Bundesliga : Stuttgart vs Hamburger SV - beIN Sports MENA 3 (CH-3933)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium93/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sportsnet World (CH-343130)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sportsnet World (CH-343130)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium410/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sport 1 Israel (CH-313430)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 01:45 Bundesliga : Stuttgart vs Hamburger SV - Sport 1 Israel (CH-313430)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium140/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - Fox Soccer Plus (CH-373536)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - Fox Soccer Plus (CH-373536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium756/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - TyC Sports Argentina (CH-373436)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - TyC Sports Argentina (CH-373436)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium746/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - GOL PLAY Spain (CH-353330)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - GOL PLAY Spain (CH-353330)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium530/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - TSN5 (CH-313135)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - TSN5 (CH-313135)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium115/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - MATCH! Futbol 3 Russia (CH-313338)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - MATCH! Futbol 3 Russia (CH-313338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium138/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - SuperSport Football (CH-3536)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - SuperSport Football (CH-3536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium56/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - Match TV Russia (CH-313237)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium127/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - beIN Sports MENA English 1 (CH-3631)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium61/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - beIN Sports MENA Premium 2 (CH-3939)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - beIN Sports MENA Premium 2 (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium99/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - Sport 2 Israel (CH-313431)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 04:00 FIFA U-20 World Cup : Ecuador U20 vs Korea Republic U20 - Sport 2 Israel (CH-313431)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium141/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 07:30 NBA : Denver Nuggets vs Miami Heat - NBA League Pass (CH-36)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 07:30 NBA : Denver Nuggets vs Miami Heat - NBA League Pass (CH-36)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium6/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 07:30 NBA : Denver Nuggets vs Miami Heat - ABC USA (CH-3531)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 07:30 NBA : Denver Nuggets vs Miami Heat - ABC USA (CH-3531)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium51/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 07:30 NBA : Denver Nuggets vs Miami Heat - TSN4 (CH-313134)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 07:30 NBA : Denver Nuggets vs Miami Heat - TSN4 (CH-313134)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium114/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 07:30 NBA : Denver Nuggets vs Miami Heat - ESPN 1 NL (CH-333739)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 07:30 NBA : Denver Nuggets vs Miami Heat - ESPN 1 NL (CH-333739)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium379/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Denver Nuggets vs Miami Heat - beIN SPORTS 1 France (CH-313136)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Denver Nuggets vs Miami Heat - beIN SPORTS 1 France (CH-313136)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium116/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Denver Nuggets vs Miami Heat - beIN SPORTS English 3 (CH-3436)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Denver Nuggets vs Miami Heat - beIN SPORTS English 3 (CH-3436)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium46/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Denver Nuggets vs Miami Heat - beIN SPORTS Premium 3 (CH-313030)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Denver Nuggets vs Miami Heat - beIN SPORTS Premium 3 (CH-313030)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium100/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 07:30 NBA : Denver Nuggets vs Miami Heat - Sport TV1 Portugal (CH-3439)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 07:30 NBA : Denver Nuggets vs Miami Heat - Sport TV1 Portugal (CH-3439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium49/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 07:30 NBA : Denver Nuggets vs Miami Heat - Arena Sport 1 Premium (CH-313334)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 07:30 NBA : Denver Nuggets vs Miami Heat - Arena Sport 1 Premium (CH-313334)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium134/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 07:30 NBA : Denver Nuggets vs Miami Heat - Movistar Deportes Spain (CH-343336)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 07:30 NBA : Denver Nuggets vs Miami Heat - Movistar Deportes Spain (CH-343336)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium436/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Denver Nuggets vs Miami Heat - beIN Sports MENA Premium 3 (CH-313030)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:30 NBA : Denver Nuggets vs Miami Heat - beIN Sports MENA Premium 3 (CH-313030)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium100/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 07:30 NBA : Denver Nuggets vs Miami Heat - Sky Sport Uno Italy (CH-343631)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 07:30 NBA : Denver Nuggets vs Miami Heat - Sky Sport Uno Italy (CH-343631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium461/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 07:30 NBA : Denver Nuggets vs Miami Heat - ESPN BR (CH-3831)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 07:30 NBA : Denver Nuggets vs Miami Heat - ESPN BR (CH-3831)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium81/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 07:30 NBA : Denver Nuggets vs Miami Heat - ESPN2 SUR (CH-313530)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 07:30 NBA : Denver Nuggets vs Miami Heat - ESPN2 SUR (CH-313530)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium150/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 02/06/2023 07:02:37", 07:30 NBA : Denver Nuggets vs Miami Heat - Sport 5 Israel (CH-313434)
+#EXTINF:-1 group-title="RAW 02/06/2023 07:12:42", 07:30 NBA : Denver Nuggets vs Miami Heat - Sport 5 Israel (CH-313434)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium144/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
