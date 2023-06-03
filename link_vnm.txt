@@ -1,540 +1,567 @@
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES1?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES2?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 1
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/Polsat?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 2
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/PolsatE?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5873_small.png", ﻿04h00 - Colombia U20 vs Italy U20 #Nhà Đài
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5873_small.png", ﻿04h00 - Colombia U20 vs Italy U20 #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1757_small.png", 04h30 - America MG vs Corinthians #Nhà đài
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1757_small.png", 04h30 - America MG vs Corinthians #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x3/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/24403efa393f55163b5593c435bbe4a7.png", 04h30 - America MG vs Corinthians Paulista (SP)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/24403efa393f55163b5593c435bbe4a7.png", 04h30 - America MG vs Corinthians Paulista (SP)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-8yomo4hg6wonq0j/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10273_small.png", 04h30 - Athletico Paranaense vs Botafogo #Nhà đài
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10273_small.png", 04h30 - Athletico Paranaense vs Botafogo #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/1b54e9fdbe9c936023c55299da4165b7.png", 04h30 - Atletico Paranaense vs Botafogo RJ
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/1b54e9fdbe9c936023c55299da4165b7.png", 04h30 - Atletico Paranaense vs Botafogo RJ
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7p2y6md7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/db576a7d2453575f29eab4bac787b919.gif", 04h30 - Cobreloa vs Rangers Talca
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/db576a7d2453575f29eab4bac787b919.gif", 04h30 - Cobreloa vs Rangers Talca
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-vjxm8gh57l15r6o/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/98700b35a6a5542cc22ddc04f9e80273.png", 04h30 - Cruzeiro (MG) vs Atletico Mineiro #Full HD
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/98700b35a6a5542cc22ddc04f9e80273.png", 04h30 - Cruzeiro (MG) vs Atletico Mineiro #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/98700b35a6a5542cc22ddc04f9e80273.png", 04h30 - Cruzeiro (MG) vs Atletico Mineiro #HD
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/98700b35a6a5542cc22ddc04f9e80273.png", 04h30 - Cruzeiro (MG) vs Atletico Mineiro #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/98700b35a6a5542cc22ddc04f9e80273.png", 04h30 - Cruzeiro (MG) vs Atletico Mineiro #SD1
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/98700b35a6a5542cc22ddc04f9e80273.png", 04h30 - Cruzeiro (MG) vs Atletico Mineiro #SD1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/98700b35a6a5542cc22ddc04f9e80273.png", 04h30 - Cruzeiro (MG) vs Atletico Mineiro #SD2
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/98700b35a6a5542cc22ddc04f9e80273.png", 04h30 - Cruzeiro (MG) vs Atletico Mineiro #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/98700b35a6a5542cc22ddc04f9e80273.png", 04h30 - Cruzeiro (MG) vs Atletico Mineiro #Sơ cua 1
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/98700b35a6a5542cc22ddc04f9e80273.png", 04h30 - Cruzeiro (MG) vs Atletico Mineiro #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx068gryk/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9781_small.png", 04h30 - Cruzeiro vs Atletico MG #Nhà đài
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9781_small.png", 04h30 - Cruzeiro vs Atletico MG #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/59f629ae813b50a82a9720636f9b02b6.png", 04h30 - Real Tomayapo vs Bolivar
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-dj2ryohe950nq1z/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/3a7343f9fc119f063e7dfbbb56f7fa65.png", 05h00 - Atletico Pantoja vs Jarabacoa FC
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/3a7343f9fc119f063e7dfbbb56f7fa65.png", 05h00 - Atletico Pantoja vs Jarabacoa FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwowk8ql0/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/213596_small.png", 05h00 - Central Cordoba de Santiago vs Huracan #Nhà đài
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/213596_small.png", 05h00 - Central Cordoba de Santiago vs Huracan #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x5/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/73eb62698518ab54028aee31105931ae.png", 05h00 - Central Cordoba SDE vs CA Huracan
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/73eb62698518ab54028aee31105931ae.png", 05h00 - Central Cordoba SDE vs CA Huracan
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-dn1m1ghp9zjvmoe/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/925e9365900b159acf4493eb401fdc18.png", 05h00 - Rosario Central vs Instituto
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/925e9365900b159acf4493eb401fdc18.png", 05h00 - Rosario Central vs Instituto
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y39mp1h0dng2moj/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10084_small.png", 05h00 - Rosario Central vs Instituto #Nhà đài
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10084_small.png", 05h00 - Rosario Central vs Instituto #Nhà đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x4/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/053969e26d843de456e0265abd3f008a.png", 05h00 - Vila Nova vs Sampaio Correa
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/053969e26d843de456e0265abd3f008a.png", 05h00 - Vila Nova vs Sampaio Correa
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8zynor51/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png", 05h10 - Independiente Rivadavia vs Deportivo Maipu
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png", 05h10 - Independiente Rivadavia vs Deportivo Maipu
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y39mp1h0epv3moj/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/c050aaae65b61e563cdc5d50c5af6212.png", 06h00 - Atletico Ottawa vs HFX Wanderers FC
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/c050aaae65b61e563cdc5d50c5af6212.png", 06h00 - Atletico Ottawa vs HFX Wanderers FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhzkvezqwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png", 06h00 - Barcelona SC(ECU) vs Club Sport Emelec
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png", 06h00 - Barcelona SC(ECU) vs Club Sport Emelec
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h3g94nqdy/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/1ecee55633d7df4a1ccd326c1f6a41ed.png", 06h00 - EM Deportivo Binacional vs Carlos Mannucci
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/1ecee55633d7df4a1ccd326c1f6a41ed.png", 06h00 - EM Deportivo Binacional vs Carlos Mannucci
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l5ergphldpjpr8k/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/5dbc9a62431184ca78d587065674c4a2.png", 06h00 - Greenville Triumph vs Tormenta FC
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/5dbc9a62431184ca78d587065674c4a2.png", 06h00 - Greenville Triumph vs Tormenta FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h386zkqdy/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/78febf9c2b8c7c5bff95797b00c90459.png", 06h00 - Hartford Athletic vs Louisville City FC
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/78febf9c2b8c7c5bff95797b00c90459.png", 06h00 - Hartford Athletic vs Louisville City FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-965mkyh29z20r1g/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/034aa8d5c235ad084486780eb8a6d914.png", 06h00 - Lexington vs Northern Colorado
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/034aa8d5c235ad084486780eb8a6d914.png", 06h00 - Lexington vs Northern Colorado
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-ednm9wh2nxe5ryo/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/8bb0a27ba10a02c5fa4aa9a7085b6e74.png", 06h00 - Maryland Bobcats FC vs Chattanooga
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/8bb0a27ba10a02c5fa4aa9a7085b6e74.png", 06h00 - Maryland Bobcats FC vs Chattanooga
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7934pmd7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/520c75116f960c69091fc5dfd19c1dbe.png", 06h00 - Michigan Stars vs Savannah Clovers
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/520c75116f960c69091fc5dfd19c1dbe.png", 06h00 - Michigan Stars vs Savannah Clovers
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8poeor51/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/602255b6d0275cd1008b99c59cd10c87.png", 06h00 - Pittsburgh Riverhounds vs Phoenix Rising FC
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/602255b6d0275cd1008b99c59cd10c87.png", 06h00 - Pittsburgh Riverhounds vs Phoenix Rising FC
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-y39mp1h08908moj/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://img.thesports.com/football/team/9481fdb686a097b03b454ffd6a396304.png", 06h00 - Richmond Kickers vs Chattanooga Red Wolves
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png", 06h20 - Dep.Independiente Medellin vs Boyaca Chico
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-dj2ryoheo45vq1z/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - ITV 1 UK (CH-333530)
+https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwo8ooql0/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/b6d8f81e8454813b3e672b179e627d3a.png", 06h30 - Columbus Crew vs Charlotte FC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-318q66h68y5jqo9/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/b6d8f81e8454813b3e672b179e627d3a.png", 06h30 - Columbus Crew vs Charlotte FC #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-318q66h68y5jqo9/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png", 06h30 - FC Cincinnati vs Chicago Fire
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-dn1m1ghp9yw1moe/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png", 06h30 - FC Cincinnati vs Chicago Fire #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-dn1m1ghp9yw1moe/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/40ef65b274b0ff7eaf14bddd0c65fffc.png", 06h30 - Inter Miami CF vs DC United
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-4wyrn4hoypk7q86/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/40ef65b274b0ff7eaf14bddd0c65fffc.png", 06h30 - Inter Miami CF vs DC United #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-4wyrn4hoypk7q86/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/92f8175e025874e957d7b124a800c49b.png", 06h30 - Knoxville troops vs North Carolina
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh51384r6o/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/574f1ee560e8835e605176cac36a87db.png", 06h30 - Philadelphia Union vs Montreal Impact
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-y39mp1h0dg2jmoj/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/574f1ee560e8835e605176cac36a87db.png", 06h30 - Philadelphia Union vs Montreal Impact #Sơ cua 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/hd-en-y39mp1h0dg2jmoj/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://img.thesports.com/football/team/5ff0038a6de9a7e34fcb7c202843ea1c.png", 06h30 - Tampa Bay Rowdies vs Sacramento Republic FC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-k82rekh0d104rep/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - ITV 1 UK (CH-333530)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=350#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - BBC One UK (CH-333536)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - BBC One UK (CH-333536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=356#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - DAZN1 DE (CH-343236)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - DAZN1 DE (CH-343236)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=426#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - beIN Sports 1 France (CH-313136)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - beIN Sports 1 France (CH-313136)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=116#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - beIN Sports MENA English 1 (CH-3631)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=61#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Sport TV1 Portugal (CH-3439)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Sport TV1 Portugal (CH-3439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=49#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - SuperSport Premier League (CH-343134)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - SuperSport Premier League (CH-343134)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=414#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - beIN Sports MENA Premium 1 (CH-3938)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - beIN Sports MENA Premium 1 (CH-3938)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=98#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - V Sport Premium Sweden (CH-31)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - V Sport Premium Sweden (CH-31)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=1#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Astro Supersport 4 (CH-313236)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Astro Supersport 4 (CH-313236)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=126#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Eleven Sports 1 Poland (CH-3731)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Eleven Sports 1 Poland (CH-3731)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=71#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - DAZN 2 ES (CH-343436)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - DAZN 2 ES (CH-343436)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=446#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - ESPN SUR (CH-313439)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - ESPN SUR (CH-313439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=149#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - 6’Eren Denmark (CH-383030)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - 6’Eren Denmark (CH-383030)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=800#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - ESPN BR (CH-3831)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - ESPN BR (CH-3831)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=81#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Sport Klub 1 Serbia (CH-313031)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Sport Klub 1 Serbia (CH-313031)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=101#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Diema Sport 2 Bulgaria (CH-343636)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Diema Sport 2 Bulgaria (CH-343636)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=466#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Sport 1 Israel (CH-313430)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 England FA Cup : Manchester City vs Manchester United - Sport 1 Israel (CH-313430)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=140#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - TVE La 1 Spain (CH-353333)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - TVE La 1 Spain (CH-353333)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=533#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - ZDF DE (CH-32)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - ZDF DE (CH-32)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=2#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - DAZN 1 ES (CH-343435)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - DAZN 1 ES (CH-343435)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=445#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - DAZN2 DE (CH-343237)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - DAZN2 DE (CH-343237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=427#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - SVT 1 Sweden (CH-33)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - SVT 1 Sweden (CH-33)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=3#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - CBS Sports Network (CH-333038)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - CBS Sports Network (CH-333038)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=308#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - TVP Sport Poland (CH-313238)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - TVP Sport Poland (CH-313238)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=128#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - BeIN Sports HD Qatar (CH-353738)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 21:00 UEFA Women's Champions League : Barcelona vs Wolfsburg - BeIN Sports HD Qatar (CH-353738)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=578#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - BT Sport 1 UK (CH-3331)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - BT Sport 1 UK (CH-3331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=31#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - SuperSport Football (CH-3536)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - SuperSport Football (CH-3536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=56#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Match!! Football 1 Russia (CH-313336)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Match!! Football 1 Russia (CH-313336)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=136#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Sport TV2 Portugal (CH-3734)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Sport TV2 Portugal (CH-3734)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=74#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - beIN Sports 1 France (CH-313136)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - beIN Sports 1 France (CH-313136)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=116#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Eleven Sports 2 Poland (CH-3732)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Eleven Sports 2 Poland (CH-3732)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=72#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Movistar Liga de Campeones 2 (CH-3235)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Movistar Liga de Campeones 2 (CH-3235)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=25#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - C More Fotball Sweden (CH-373437)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - C More Fotball Sweden (CH-373437)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=747#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Arena Sport 1 Premium (CH-313334)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Arena Sport 1 Premium (CH-313334)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=134#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Digi Sport 2 Romania (CH-343031)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Digi Sport 2 Romania (CH-343031)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=401#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Zona DAZN IT (CH-3737)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - Zona DAZN IT (CH-3737)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=77#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - MAX Sport 3 Bulgaria (CH-343734)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Italy Serie A : Torino vs Internazionale - MAX Sport 3 Bulgaria (CH-343734)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=474#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Scottish Cup : Celtic vs Inverness CT - BBC scotland (CH-3236)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Scottish Cup : Celtic vs Inverness CT - BBC scotland (CH-3236)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=26#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Scottish Cup : Celtic vs Inverness CT - Viaplay Sports 1 UK (CH-343531)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Scottish Cup : Celtic vs Inverness CT - Viaplay Sports 1 UK (CH-343531)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=451#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Scottish Cup : Celtic vs Inverness CT - Sport TV1 Portugal (CH-3439)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Scottish Cup : Celtic vs Inverness CT - Sport TV1 Portugal (CH-3439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=49#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Scottish Cup : Celtic vs Inverness CT - Astro SuperSport 2 (CH-313234)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Scottish Cup : Celtic vs Inverness CT - Astro SuperSport 2 (CH-313234)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=124#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Scottish Cup : Celtic vs Inverness CT - V Sport Football (CH-3237)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Scottish Cup : Celtic vs Inverness CT - V Sport Football (CH-3237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=27#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - LaLiga SmartBank TV (CH-353339)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - LaLiga SmartBank TV (CH-353339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=539#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - #Vamos Spain (CH-353231)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - #Vamos Spain (CH-353231)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=521#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - SuperSport Laliga (CH-343135)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - SuperSport Laliga (CH-343135)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=415#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - Eleven Sports 3 Poland (CH-343238)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - Eleven Sports 3 Poland (CH-343238)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=428#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - beIN Sports MENA 1 (CH-3931)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - beIN Sports MENA 1 (CH-3931)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=91#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - C More Mix Sweden (CH-3238)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - C More Mix Sweden (CH-3238)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=28#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - MAX Sport 4 Bulgaria (CH-343735)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - MAX Sport 4 Bulgaria (CH-343735)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=475#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - beIN Sports MAX 8 France (CH-343938)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - beIN Sports MAX 8 France (CH-343938)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=498#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - Digi Sport 4 Romania (CH-343033)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 23:30 Spain Segunda Division : Eibar vs Deportivo Alavés - Digi Sport 4 Romania (CH-343033)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=403#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - TSN2 (CH-313132)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - TSN2 (CH-313132)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=112#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - beIN Sports MENA English 2 (CH-3930)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - beIN Sports MENA English 2 (CH-3930)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=90#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - MATCH! Futbol 3 Russia (CH-313338)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - MATCH! Futbol 3 Russia (CH-313338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=138#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - Match TV Russia (CH-313237)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=127#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - Sportv Brasil (Ch-3738)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - Sportv Brasil (Ch-3738)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=78#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - GOL PLAY Spain (Ch-353330)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - GOL PLAY Spain (Ch-353330)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=530#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - Telemundo USA (Ch-313331)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 00:30 FIFA U-20 World Cup Quarter Final 1 : Israel U-20 vs Brazil U-20 - Telemundo USA (Ch-313331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=131#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - ZDF DE (CH-32)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - ZDF DE (CH-32)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=2#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Sky Sport Mix DE (CH-353537)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Sky Sport Mix DE (CH-353537)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=557#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Sky Sport Top Event DE (CH-353536)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Sky Sport Top Event DE (CH-353536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=556#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - ESPNU USA (CH-333136)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - ESPNU USA (CH-333136)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=316#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Viaplay Xtra UK (CH-353937)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Viaplay Xtra UK (CH-353937)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=597#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - L'Equipe France (CH-363435)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - L'Equipe France (CH-363435)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=645#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - V Sport Premium Sweden (CH-31)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - V Sport Premium Sweden (CH-31)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=1#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Movistar Liga de Campeones (CH-343335)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Movistar Liga de Campeones (CH-343335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=435#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Eleven Sports 1 Portugal (CH-343535)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Eleven Sports 1 Portugal (CH-343535)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=455#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Arena Sport 2 Premium (CH-313335)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Arena Sport 2 Premium (CH-313335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=135#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Eleven Sports 1 Poland (CH-3731)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Eleven Sports 1 Poland (CH-3731)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=71#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Astro Supersport 4 (CH-313236)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Astro Supersport 4 (CH-313236)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=126#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - ESPN2 SUR (CH-313530)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - ESPN2 SUR (CH-313530)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=150#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - ESPN4 BR (CH-3835)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - ESPN4 BR (CH-3835)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=85#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Diema Sport 3 Bulgaria (CH-343637)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Diema Sport 3 Bulgaria (CH-343637)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=467#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - ESPN Deportes (CH-333735)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - ESPN Deportes (CH-333735)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=375#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Sport 1 Israel (CH-313430)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:00 DFB Pokal : RB Leipzig vs Eintracht Frankfurt - Sport 1 Israel (CH-313430)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=140#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:30 Italy Serie B : Parma vs Cagliari - Sky Sport Uno Italy (CH-343631)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:30 Italy Serie B : Parma vs Cagliari - Sky Sport Uno Italy (CH-343631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=461#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:30 Italy Serie B : Parma vs Cagliari - Sky Sport Calcio IT (CH-3836)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:30 Italy Serie B : Parma vs Cagliari - Sky Sport Calcio IT (CH-3836)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=86#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:30 Italy Serie B : Parma vs Cagliari - Sport Klub 2 Serbia (CH-313032)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 01:30 Italy Serie B : Parma vs Cagliari - Sport Klub 2 Serbia (CH-313032)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=102#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - Amazon Prime (CH-313831)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - Amazon Prime (CH-313831)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=181#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - Arena Sport 1 Premium (CH-313334)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - Arena Sport 1 Premium (CH-313334)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=134#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - BT Sport 5 UK (CH-3330)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - BT Sport 5 UK (CH-3330)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=30#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - CANAL+ SPORT Poland (CH-3438)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - CANAL+ SPORT Poland (CH-3438)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=48#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - Digi Sport 2 Romania (CH-343031)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Simulcast - Digi Sport 2 Romania (CH-343031)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=401#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Ajaccio vs Olympique Marseille - Amazon Prime (CH-313832)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Ajaccio vs Olympique Marseille - Amazon Prime (CH-313832)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=182#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Ajaccio vs Olympique Marseille - Eleven Sports 4 Portugal (CH-343538)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Ajaccio vs Olympique Marseille - Eleven Sports 4 Portugal (CH-343538)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=458#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Ajaccio vs Olympique Marseille - beIN Sports MENA 1 (CH-3931)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Ajaccio vs Olympique Marseille - beIN Sports MENA 1 (CH-3931)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=91#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Auxerre vs Lens - Amazon Prime (CH-313833)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Auxerre vs Lens - Amazon Prime (CH-313833)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=183#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Auxerre vs Lens - BT Sport 2 UK (CH-3332)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Auxerre vs Lens - BT Sport 2 UK (CH-3332)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=32#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Auxerre vs Lens - Eleven Sports 5 Portugal (CH-343539)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Auxerre vs Lens - Eleven Sports 5 Portugal (CH-343539)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=459#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Auxerre vs Lens - beIN Sports MENA 3 (CH-3933)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Auxerre vs Lens - beIN Sports MENA 3 (CH-3933)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=93#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Monaco vs Toulouse - Amazon Prime (CH-313834)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Monaco vs Toulouse - Amazon Prime (CH-313834)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=184#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Monaco vs Toulouse - beIN Sports MENA Xtra 1 (CH-313035)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Monaco vs Toulouse - beIN Sports MENA Xtra 1 (CH-313035)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=105#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Lorient vs Strasbourg - Amazon Prime (CH-313835)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Lorient vs Strasbourg - Amazon Prime (CH-313835)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=185#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Lorient vs Strasbourg - beIN Sports MENA Xtra 2 (CH-313036)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Lorient vs Strasbourg - beIN Sports MENA Xtra 2 (CH-313036)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=106#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Nantes vs Angers SCO - Amazon Prime (CH-313836)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Nantes vs Angers SCO - Amazon Prime (CH-313836)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=186#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Nantes vs Angers SCO - BT Sport 3 UK (CH-3333)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Nantes vs Angers SCO - BT Sport 3 UK (CH-3333)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=33#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Nantes vs Angers SCO - beIN Sports MENA 6 (CH-3936)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Nantes vs Angers SCO - beIN Sports MENA 6 (CH-3936)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=96#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Nice vs Olympique Lyonnais - Amazon Prime (CH-313837)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Nice vs Olympique Lyonnais - Amazon Prime (CH-313837)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=187#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Nice vs Olympique Lyonnais - beIN Sports MENA Premium 2 (CH-3939)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Nice vs Olympique Lyonnais - beIN Sports MENA Premium 2 (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=99#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - BT Sport 6 UK (CH-3239)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - BT Sport 6 UK (CH-3239)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=29#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Canal+ Sport360 (CH-343634)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Canal+ Sport360 (CH-343634)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=464#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - beIN Sports MENA English 1 (CH-3631)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=61#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - beIN SPORTS USA (CH-343235)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - beIN SPORTS USA (CH-343235)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=425#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - DAZN1 DE (CH-343236)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - DAZN1 DE (CH-343236)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=426#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - beIN SPORTS en Español (CH-333732)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - beIN SPORTS en Español (CH-333732)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=372#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Arena Sport 3 Premium (CH-313339)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=139#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - beIN Sports MENA 2 (CH-3932)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - beIN Sports MENA 2 (CH-3932)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=92#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - beIN Sports MENA Premium 1 (CH-3938)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - beIN Sports MENA Premium 1 (CH-3938)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=98#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Eleven Sports 3 Portugal (CH-343537)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Eleven Sports 3 Portugal (CH-343537)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=457#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Eurosport 2 ES (CH-353235)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Eurosport 2 ES (CH-353235)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=525#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Sky Sport Football Italy (CH-343630)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Sky Sport Football Italy (CH-343630)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=460#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Sport 5 Israel (CH-313434)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Sport 5 Israel (CH-313434)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=144#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - ESPN SUR (CH-313439)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - ESPN SUR (CH-313439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=149#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Sport 5 Live Israel (CH-313436)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : PSG vs Clermont - Sport 5 Live Israel (CH-313436)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=146#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Brest vs Rennes - Canal+ Foot (CH-343633)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Brest vs Rennes - Canal+ Foot (CH-343633)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=463#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Brest vs Rennes - beIN Sports MENA 7 (CH-3937)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Brest vs Rennes - beIN Sports MENA 7 (CH-3937)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=97#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Reims vs Montpellier - Amazon Prime (CH-313838)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Reims vs Montpellier - Amazon Prime (CH-313838)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=188#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Troyes vs Lille - Amazon Prime (CH-313839)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Troyes vs Lille - Amazon Prime (CH-313839)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=189#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Troyes vs Lille - beIN Sports MENA Premium 3 (CH-313030)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 France Ligue 1 : Troyes vs Lille - beIN Sports MENA Premium 3 (CH-313030)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=100#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - BT Sport 7 UK (CH-33)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - BT Sport 7 UK (CH-33)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=3#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - Sport TV3 Portugal (CH-343534)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - Sport TV3 Portugal (CH-343534)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=454#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - Eleven Sports 3 Poland (CH-343238)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - Eleven Sports 3 Poland (CH-343238)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=428#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - SuperSport PSL (CH-343133)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - SuperSport PSL (CH-343133)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=413#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - DAZN IT (CH-313037)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - DAZN IT (CH-313037)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=107#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - Sport 4 Israel (CH-313433)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Cremonese vs Salernitana - Sport 4 Israel (CH-313433)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=143#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - BT Sport 1 UK (CH-3331)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - BT Sport 1 UK (CH-3331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=31#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - Match!! Football 1 Russia (CH-313336)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - Match!! Football 1 Russia (CH-313336)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=136#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - DAZN2 DE (CH-343237)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - DAZN2 DE (CH-343237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=427#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - SuperSport Football (CH-3536)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - SuperSport Football (CH-3536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=56#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - Sport TV2 Portugal (CH-3734)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - Sport TV2 Portugal (CH-3734)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=74#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - beIN Sports 1 France (CH-313136)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - beIN Sports 1 France (CH-313136)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=116#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - C More Fotball Sweden (CH-373437)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - C More Fotball Sweden (CH-373437)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=747#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - DAZN IT (CH-313038)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - DAZN IT (CH-313038)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=108#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - Eleven Sports 2 Poland (CH-3732)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - Eleven Sports 2 Poland (CH-3732)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=72#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - MAX Sport 3 Bulgaria (CH-343734)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - MAX Sport 3 Bulgaria (CH-343734)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=474#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - Digi Sport 4 Romania (CH-343033)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 02:00 Italy Serie A : Empoli vs Lazio - Digi Sport 4 Romania (CH-343033)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=403#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - TSN2 (CH-313132)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - TSN2 (CH-313132)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=112#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - beIN Sports MENA English 2 (CH-3930)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - beIN Sports MENA English 2 (CH-3930)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=90#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - beIN Sports MENA Premium 2 (CH-3939)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - beIN Sports MENA Premium 2 (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=99#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - MATCH! Futbol 3 Russia (CH-313338)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - MATCH! Futbol 3 Russia (CH-313338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=138#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - Match TV Russia (CH-313237)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=127#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - TVP Sport Poland (CH-313238)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - TVP Sport Poland (CH-313238)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=128#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - Sportv Brasil (Ch-3738)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - Sportv Brasil (Ch-3738)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=78#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - Telemundo USA (Ch-313331)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - Telemundo USA (Ch-313331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=131#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="CAST 04/06/2023 06:18:58" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - Sport 4 Israel (CH-313433)
+#EXTINF:-1 group-title="CAST 04/06/2023 06:29:00" tvg-logo="https://raw.githubusercontent.com/nguyenducmanh609/kodi.github.io/main/thethao/allsport.jpg", 04:00 FIFA U-20 World Cup Quarter Final 2 : Colombia U-20 v Italy U-20 - Sport 4 Israel (CH-313433)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=143#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
