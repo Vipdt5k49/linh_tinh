@@ -1,501 +1,507 @@
-#EXTINF:-1 group-title="CAST 05/06/2023 12:51:56" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
+#EXTINF:-1 group-title="CAST 05/06/2023 13:02:47" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES1?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 05/06/2023 12:51:56" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
+#EXTINF:-1 group-title="CAST 05/06/2023 13:02:47" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES2?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 05/06/2023 12:51:56" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 1
+#EXTINF:-1 group-title="CAST 05/06/2023 13:02:47" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/Polsat?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 05/06/2023 12:51:56" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 2
+#EXTINF:-1 group-title="CAST 05/06/2023 13:02:47" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/PolsatE?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:00 Super Lig : Galatasaray vs Fenerbahçe - beIN Sports 1 Turkey (CH-3632)
+#EXTINF:-1 group-title="CAST 05/06/2023 13:02:47" tvg-logo="https://img.thesports.com/football/team/7543134c669d639c3ff036bc215a3b62.png", ﻿13h00 - Guangxi Hengchen Football Club vs Nanjing Tehu Football Club
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx8xwyryk/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 05/06/2023 13:02:47" tvg-logo="https://img.thesports.com/football/team/21cfe3140d957f76ae0bd41027cf66d8.png", 13h00 - Jiangsu South Landlord Sheng vs Chongqing Runqi Football Club
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-dj2ryohe6e34q1z/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:00 Super Lig : Galatasaray vs Fenerbahçe - beIN Sports 1 Turkey (CH-3632)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=62#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:00 Super Lig : Galatasaray vs Fenerbahçe - beIN SPORTS USA (CH-343235)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:00 Super Lig : Galatasaray vs Fenerbahçe - beIN SPORTS USA (CH-343235)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=425#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:00 Super Lig : Galatasaray vs Fenerbahçe - beIN SPORTS en Español (CH-333732)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:00 Super Lig : Galatasaray vs Fenerbahçe - beIN SPORTS en Español (CH-333732)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=372#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:00 Super Lig : Galatasaray vs Fenerbahçe - Sport TV4 Portugal (CH-323839)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:00 Super Lig : Galatasaray vs Fenerbahçe - Sport TV4 Portugal (CH-323839)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=289#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:00 Super Lig : Galatasaray vs Fenerbahçe - beIN Sports MAX 4 France (CH-343934)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:00 Super Lig : Galatasaray vs Fenerbahçe - beIN Sports MAX 4 France (CH-343934)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=494#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:00 Super Lig : Galatasaray vs Fenerbahçe - Sport Klub 2 Serbia (CH-313032)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:00 Super Lig : Galatasaray vs Fenerbahçe - Sport Klub 2 Serbia (CH-313032)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=102#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:00 Super Lig : Galatasaray vs Fenerbahçe - Sport 1 Israel (CH-313430)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:00 Super Lig : Galatasaray vs Fenerbahçe - Sport 1 Israel (CH-313430)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=140#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 23:30 Italy Serie A : Napoli vs Sampdoria - BT Sport 2 UK (CH-3332)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 23:30 Italy Serie A : Napoli vs Sampdoria - BT Sport 2 UK (CH-3332)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=32#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Italy Serie A : Napoli vs Sampdoria - DAZN2 DE (CH-343237)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Italy Serie A : Napoli vs Sampdoria - DAZN2 DE (CH-343237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=427#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Italy Serie A : Napoli vs Sampdoria - Movistar Liga de Campeones (CH-343335)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Italy Serie A : Napoli vs Sampdoria - Movistar Liga de Campeones (CH-343335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=435#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Italy Serie A : Napoli vs Sampdoria - Sport TV2 Portugal (CH-3734)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Italy Serie A : Napoli vs Sampdoria - Sport TV2 Portugal (CH-3734)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=74#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Italy Serie A : Napoli vs Sampdoria - Arena Sport 1 Premium (CH-313334)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Italy Serie A : Napoli vs Sampdoria - Arena Sport 1 Premium (CH-313334)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=134#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 23:30 Italy Serie A : Napoli vs Sampdoria - beIN Sports 3 France (CH-313138)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 23:30 Italy Serie A : Napoli vs Sampdoria - beIN Sports 3 France (CH-313138)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=118#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Italy Serie A : Napoli vs Sampdoria - Eleven Sports 2 Poland (CH-3732)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Italy Serie A : Napoli vs Sampdoria - Eleven Sports 2 Poland (CH-3732)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=72#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Italy Serie A : Napoli vs Sampdoria - Zona DAZN IT (CH-3539)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Italy Serie A : Napoli vs Sampdoria - Zona DAZN IT (CH-3539)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=59#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Italy Serie A : Napoli vs Sampdoria - MATCH! Futbol 1 Russia (CH-313336)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Italy Serie A : Napoli vs Sampdoria - MATCH! Futbol 1 Russia (CH-313336)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=136#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Italy Serie A : Napoli vs Sampdoria - ESPN2 SUR (Ch-313530)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Italy Serie A : Napoli vs Sampdoria - ESPN2 SUR (Ch-313530)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=150#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 23:30 Italy Serie A : Napoli vs Sampdoria - Match TV Russia (CH-313237)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 23:30 Italy Serie A : Napoli vs Sampdoria - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=127#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Italy Serie A : Napoli vs Sampdoria - Sky Sport 7 NZ (CH-353934)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Italy Serie A : Napoli vs Sampdoria - Sky Sport 7 NZ (CH-353934)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=594#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Italy Serie A : Napoli vs Sampdoria - SuperSport Football (CH-3536)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Italy Serie A : Napoli vs Sampdoria - SuperSport Football (CH-3536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=56#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Italy Serie A : Napoli vs Sampdoria - MAX Sport 3 Bulgaria (CH-343734)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Italy Serie A : Napoli vs Sampdoria - MAX Sport 3 Bulgaria (CH-343734)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=474#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Simulcast - Movistar Laliga (CH-3834)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Simulcast - Movistar Laliga (CH-3834)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=84#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Simulcast - MAX Sport 4 Bulgaria (CH-343735)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Simulcast - MAX Sport 4 Bulgaria (CH-343735)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=475#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Mallorca vs Rayo Vallecano - LaLigaTV (CH-32)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Mallorca vs Rayo Vallecano - LaLigaTV (CH-32)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=2#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 23:30 Spain La Liga : Mallorca vs Rayo Vallecano - beIN Sports MENA Premium 3 (CH-313030)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 23:30 Spain La Liga : Mallorca vs Rayo Vallecano - beIN Sports MENA Premium 3 (CH-313030)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=100#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Mallorca vs Rayo Vallecano - CANAL+ Now Poland (CH-33)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Mallorca vs Rayo Vallecano - CANAL+ Now Poland (CH-33)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=3#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Sociedad vs Sevilla - DAZN LaLiga 2 (CH-34)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Sociedad vs Sevilla - DAZN LaLiga 2 (CH-34)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=4#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Sociedad vs Sevilla - SuperSport Variety 3 (CH-343138)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Sociedad vs Sevilla - SuperSport Variety 3 (CH-343138)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=418#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Sociedad vs Sevilla - Eleven Sports 4 Poland (CH-35)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Sociedad vs Sevilla - Eleven Sports 4 Poland (CH-35)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=5#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Sociedad vs Sevilla - Eleven Sports 5 Portugal (CH-343539)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Sociedad vs Sevilla - Eleven Sports 5 Portugal (CH-343539)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=459#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 23:30 Spain La Liga : Real Sociedad vs Sevilla - Arena Sport 3 Premium (CH-313339)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 23:30 Spain La Liga : Real Sociedad vs Sevilla - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=139#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Sociedad vs Sevilla - beIN Sports MENA 2 (CH-3932)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Sociedad vs Sevilla - beIN Sports MENA 2 (CH-3932)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=92#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - LaLigaTV (CH-36)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - LaLigaTV (CH-36)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=6#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - TSN1 (CH-313131)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - TSN1 (CH-313131)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=111#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - DAZN1 DE (CH-343236)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - DAZN1 DE (CH-343236)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=426#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - SuperSport Laliga (CH-343135)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - SuperSport Laliga (CH-343135)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=415#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - beIN Sports MENA Premium 1 (CH-3938)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - beIN Sports MENA Premium 1 (CH-3938)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=98#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - Arena Sport 2 Premium (CH-313335)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - Arena Sport 2 Premium (CH-313335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=135#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - Eleven Sports 3 Portugal (CH-343537)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - Eleven Sports 3 Portugal (CH-343537)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=457#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - Canal+ Sport Poland (CH-3438)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - Canal+ Sport Poland (CH-3438)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=48#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - beIN Sports MENA 1 (CH-3931)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - beIN Sports MENA 1 (CH-3931)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=91#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - beIN Sports MENA English 1 (CH-3631)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=61#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - ESPN BR (CH-3831)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - ESPN BR (CH-3831)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=81#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - C More Fotball Sweden (CH-373437)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - C More Fotball Sweden (CH-373437)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=747#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Real Madrid vs Athletic Club - Digi Sport 3 Romania (CH-343032)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Real Madrid vs Athletic Club - Digi Sport 3 Romania (CH-343032)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=402#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - LaLigaTV (CH-37)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - LaLigaTV (CH-37)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=7#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - Eleven Sports 4 Portugal (CH-343538)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - Eleven Sports 4 Portugal (CH-343538)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=458#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - SuperSport Premier League (CH-343134)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - SuperSport Premier League (CH-343134)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=414#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - beIN Sports MENA 3 (CH-3933)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - beIN Sports MENA 3 (CH-3933)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=93#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - Eleven Sports 3 Poland (CH-343238)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - Eleven Sports 3 Poland (CH-343238)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=428#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - ESPN SUR (Ch-313439)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - ESPN SUR (Ch-313439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=149#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - Digi Sport 4 Romania (CH-343033)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Villarreal vs Atlético Madrid - Digi Sport 4 Romania (CH-343033)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=403#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Osasuna vs Girona - LaLigaTV (CH-38)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Osasuna vs Girona - LaLigaTV (CH-38)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=8#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Osasuna vs Girona - SuperSport Variety 1 (CH-343136)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Osasuna vs Girona - SuperSport Variety 1 (CH-343136)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=416#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Osasuna vs Girona - Canal+ Sport 2 Poland (CH-3733)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Osasuna vs Girona - Canal+ Sport 2 Poland (CH-3733)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=73#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 23:30 Spain La Liga : Osasuna vs Girona - beIN Sports MENA 7 (CH-3937)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 23:30 Spain La Liga : Osasuna vs Girona - beIN Sports MENA 7 (CH-3937)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=97#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - ČT Sport Czech Republic (CH-3131)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - ČT Sport Czech Republic (CH-3131)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=11#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - Sportv Brasil (Ch-3738)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - Sportv Brasil (Ch-3738)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=78#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - Match! Football 3 Russia (CH-313338)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - Match! Football 3 Russia (CH-313338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=138#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - GOL PLAY Spain (CH-353330)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - GOL PLAY Spain (CH-353330)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=530#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - beIN Sports MENA Premium 2 (CH-3939)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - beIN Sports MENA Premium 2 (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=99#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - Telemundo (CH-313331)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 00:30 FIFA U-20 World Cup Quarter Final 3 : Korea Republic U20 vs Nigeria U20 - Telemundo (CH-313331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=131#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Atalanta vs Monza - BT Sport 6 UK (CH-3239)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Atalanta vs Monza - BT Sport 6 UK (CH-3239)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=29#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Atalanta vs Monza - Sport TV6 Portugal (CH-323931)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Atalanta vs Monza - Sport TV6 Portugal (CH-323931)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=291#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Atalanta vs Monza - DAZN IT (CH-3836)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Atalanta vs Monza - DAZN IT (CH-3836)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=86#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Italy Serie A : Roma vs Spezia - BT Sport 2 UK (CH-3332)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Italy Serie A : Roma vs Spezia - BT Sport 2 UK (CH-3332)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=32#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Roma vs Spezia - Sport TV3 Portugal (CH-343534)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Roma vs Spezia - Sport TV3 Portugal (CH-343534)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=454#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Roma vs Spezia - DAZN2 DE (CH-343237)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Roma vs Spezia - DAZN2 DE (CH-343237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=427#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Roma vs Spezia - Eleven Sports 3 Poland (CH-343238)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Roma vs Spezia - Eleven Sports 3 Poland (CH-343238)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=428#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Italy Serie A : Roma vs Spezia - Match TV Russia (CH-313237)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Italy Serie A : Roma vs Spezia - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=127#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Italy Serie A : Roma vs Spezia - beIN Sports 2 France (CH-313137)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Italy Serie A : Roma vs Spezia - beIN Sports 2 France (CH-313137)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=117#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Roma vs Spezia - Movistar Liga de Campeones 2 (CH-313035)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Roma vs Spezia - Movistar Liga de Campeones 2 (CH-313035)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=105#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Roma vs Spezia - Zona DAZN 3 (CH-313036)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Roma vs Spezia - Zona DAZN 3 (CH-313036)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=106#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Roma vs Spezia - ESPN BR (CH-3831)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Roma vs Spezia - ESPN BR (CH-3831)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=81#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Roma vs Spezia - Digi Sport 3 Romania (CH-343032)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Roma vs Spezia - Digi Sport 3 Romania (CH-343032)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=402#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Lecce vs Bologna - BT Sport 7 UK (CH-3238)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Lecce vs Bologna - BT Sport 7 UK (CH-3238)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=28#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Lecce vs Bologna - DAZN IT (CH-313037)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Lecce vs Bologna - DAZN IT (CH-313037)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=107#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Italy Serie A : Milan vs Hellas Verona - BT Sport 1 UK (CH-3331)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Italy Serie A : Milan vs Hellas Verona - BT Sport 1 UK (CH-3331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=31#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Milan vs Hellas Verona - Movistar Liga de Campeones (CH-343335)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Milan vs Hellas Verona - Movistar Liga de Campeones (CH-343335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=435#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Milan vs Hellas Verona - Sport TV2 Portugal (CH-3734)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Milan vs Hellas Verona - Sport TV2 Portugal (CH-3734)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=74#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Milan vs Hellas Verona - Eleven Sports 2 Poland (CH-3732)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Milan vs Hellas Verona - Eleven Sports 2 Poland (CH-3732)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=72#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Italy Serie A : Milan vs Hellas Verona - beIN Sports 3 France (CH-313138)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Italy Serie A : Milan vs Hellas Verona - beIN Sports 3 France (CH-313138)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=118#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Milan vs Hellas Verona - MATCH! Futbol 1 Russia (CH-313336)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Milan vs Hellas Verona - MATCH! Futbol 1 Russia (CH-313336)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=136#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Milan vs Hellas Verona - Zona DAZN 2 (CH-313038)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Milan vs Hellas Verona - Zona DAZN 2 (CH-313038)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=108#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Milan vs Hellas Verona - SuperSport Football (CH-3536)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Milan vs Hellas Verona - SuperSport Football (CH-3536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=56#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Milan vs Hellas Verona - MAX Sport 3 Bulgaria (CH-343734)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Milan vs Hellas Verona - MAX Sport 3 Bulgaria (CH-343734)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=474#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Milan vs Hellas Verona - Digi Sport 4 Romania (CH-343033)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Milan vs Hellas Verona - Digi Sport 4 Romania (CH-343033)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=403#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Udinese vs Juventus - BT Sport 5 UK (CH-3330)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Udinese vs Juventus - BT Sport 5 UK (CH-3330)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=30#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Udinese vs Juventus - Sky Sport Uno IT (CH-343631)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Udinese vs Juventus - Sky Sport Uno IT (CH-343631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=461#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Udinese vs Juventus - SuperSport Variety 4 (CH-343139)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Udinese vs Juventus - SuperSport Variety 4 (CH-343139)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=419#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Udinese vs Juventus - Sport TV1 Portugal (CH-3439)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Udinese vs Juventus - Sport TV1 Portugal (CH-3439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=49#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Udinese vs Juventus - Eleven Sports 4 Poland (CH-35)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Udinese vs Juventus - Eleven Sports 4 Poland (CH-35)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=5#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Udinese vs Juventus - Sky Sport 7 NZ (CH-353934)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Udinese vs Juventus - Sky Sport 7 NZ (CH-353934)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=594#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Udinese vs Juventus - Movistar Liga de Campeones 3 (CH-313532)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Udinese vs Juventus - Movistar Liga de Campeones 3 (CH-313532)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=152#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Udinese vs Juventus - MAX Sport 2 Bulgaria (CH-343733)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Udinese vs Juventus - MAX Sport 2 Bulgaria (CH-343733)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=473#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Udinese vs Juventus - ESPN2 SUR (Ch-313530)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Udinese vs Juventus - ESPN2 SUR (Ch-313530)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=150#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Italy Serie A : Udinese vs Juventus - Sport 1 Israel (CH-313430)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Italy Serie A : Udinese vs Juventus - Sport 1 Israel (CH-313430)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=140#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Spain La Liga : Real Betis vs Valencia - LaLigaTV (CH-31)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Spain La Liga : Real Betis vs Valencia - LaLigaTV (CH-31)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=1#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Spain La Liga : Real Betis vs Valencia - Arena Sport 3 Premium (CH-313339)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 02:00 Spain La Liga : Real Betis vs Valencia - Arena Sport 3 Premium (CH-313339)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=139#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Real Betis vs Valencia - beIN Sports MENA 2 (CH-3932)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Real Betis vs Valencia - beIN Sports MENA 2 (CH-3932)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=92#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Real Betis vs Valencia - SuperSport Premier League (CH-343134)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Real Betis vs Valencia - SuperSport Premier League (CH-343134)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=414#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Real Betis vs Valencia - Canal+ Sport Poland (CH-3438)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Real Betis vs Valencia - Canal+ Sport Poland (CH-3438)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=48#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Real Betis vs Valencia - C More Fotball Sweden (CH-373437)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Real Betis vs Valencia - C More Fotball Sweden (CH-373437)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=747#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - LaLigaTV (CH-32)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - LaLigaTV (CH-32)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=2#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - DAZN LaLiga (CH-353338)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - DAZN LaLiga (CH-353338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=538#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - DAZN1 DE (CH-343236)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - DAZN1 DE (CH-343236)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=426#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - Arena Sport 2 Premium (CH-313335)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - Arena Sport 2 Premium (CH-313335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=135#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - Eleven Sports 2 Portugal (CH-343536)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - Eleven Sports 2 Portugal (CH-343536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=456#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - beIN Sports MENA 1 (CH-3931)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - beIN Sports MENA 1 (CH-3931)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=91#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - Eleven Sports 1 Poland (CH-3731)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - Eleven Sports 1 Poland (CH-3731)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=71#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - beIN Sports MENA English 1 (CH-3631)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - beIN Sports MENA English 1 (CH-3631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=61#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - beIN Sports MENA Premium 1 (CH-3938)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - beIN Sports MENA Premium 1 (CH-3938)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=98#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - SuperSport Laliga (CH-343135)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - SuperSport Laliga (CH-343135)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=415#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - ESPN SUR (Ch-313439)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - ESPN SUR (Ch-313439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=149#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - Ziggo Sport Docu (CH-333833)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Celta de Vigo vs Barcelona - Ziggo Sport Docu (CH-333833)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=383#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Real Valladolid vs Getafe - LaLigaTV (CH-33)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Real Valladolid vs Getafe - LaLigaTV (CH-33)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=3#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Real Valladolid vs Getafe - GOL PLAY Spain (CH-353330)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Real Valladolid vs Getafe - GOL PLAY Spain (CH-353330)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=530#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Real Valladolid vs Getafe - SuperSport Variety 3 (CH-343138)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Real Valladolid vs Getafe - SuperSport Variety 3 (CH-343138)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=418#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Real Valladolid vs Getafe - beIN Sports MENA 3 (CH-3933)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Real Valladolid vs Getafe - beIN Sports MENA 3 (CH-3933)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=93#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Real Valladolid vs Getafe - Ziggo Sport Voetbal (CH-333938)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Real Valladolid vs Getafe - Ziggo Sport Voetbal (CH-333938)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=398#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Real Valladolid vs Getafe - Canal+ Sport 2 Poland (CH-3733)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Real Valladolid vs Getafe - Canal+ Sport 2 Poland (CH-3733)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=73#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Espanyol vs Almería - LaLigaTV (CH-36)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Espanyol vs Almería - LaLigaTV (CH-36)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=6#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 02:00 Spain La Liga : Espanyol vs Almería - beIN Sports MENA 7 (CH-3937)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 02:00 Spain La Liga : Espanyol vs Almería - beIN Sports MENA 7 (CH-3937)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=97#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - Fox Sports 2 USA (CH-373538)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - Fox Sports 2 USA (CH-373538)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=758#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - beIN Sports MENA English 2 (CH-3930)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - beIN Sports MENA English 2 (CH-3930)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=90#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - Match! Football 3 Russia (CH-313338)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - Match! Football 3 Russia (CH-313338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=138#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - Sportv2 Brasil (Ch-3739)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - Sportv2 Brasil (Ch-3739)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=79#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - ČT Sport Czech Republic (CH-3131)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - ČT Sport Czech Republic (CH-3131)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=11#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - Match TV Russia (CH-313237)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - Match TV Russia (CH-313237)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=127#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - GOL PLAY Spain (CH-353330)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - GOL PLAY Spain (CH-353330)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=530#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - beIN Sports MENA Premium 2 (CH-3939)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - beIN Sports MENA Premium 2 (CH-3939)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=99#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - Telemundo (CH-313331)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 04:00 FIFA U-20 World Cup Quarter Final 4 : United States U20 vs Uruguay U20 - Telemundo (CH-313331)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=131#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sport Bundesliga 1 (CH-353538)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sport Bundesliga 1 (CH-353538)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=558#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Movistar Liga de Campeones (CH-343335)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Movistar Liga de Campeones (CH-343335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=435#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Eleven Sports 1 Portugal (CH-343535)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Eleven Sports 1 Portugal (CH-343535)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=455#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:45 Bundesliga : Hamburger SV vs Stuttgart - beIN Sports 2 France (CH-313137)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:45 Bundesliga : Hamburger SV vs Stuttgart - beIN Sports 2 France (CH-313137)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=117#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sports Football (CH-3335)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sports Football (CH-3335)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=35#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sportsnet World (CH-343130)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sportsnet World (CH-343130)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=410#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - beIN Sports MENA 3 (CH-3933)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - beIN Sports MENA 3 (CH-3933)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=93#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Astro SuperSport 5 (CH-3433)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Astro SuperSport 5 (CH-3433)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=43#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - MATCH! Futbol 3 Russia (CH-313338)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - MATCH! Futbol 3 Russia (CH-313338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=138#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sport Football Italy (CH-343630)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sport Football Italy (CH-343630)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=460#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sport Uno Italy (CH-343631)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sport Uno Italy (CH-343631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=461#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - V Sport Premium Sweden (CH-36)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - V Sport Premium Sweden (CH-36)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=6#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - beIN Sports 4 Turkey (CH-3637)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - beIN Sports 4 Turkey (CH-3637)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=67#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sports Main Event (CH-3338)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sports Main Event (CH-3338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=38#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Nova Sport Bulgaria (CH-343638)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Nova Sport Bulgaria (CH-343638)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=468#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sport 7 NZ (CH-353934)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sky Sport 7 NZ (CH-353934)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=594#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sport Klub 1 Serbia (CH-313031)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sport Klub 1 Serbia (CH-313031)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=101#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sport 2 Israel (CH-313431)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 01:45 Bundesliga : Hamburger SV vs Stuttgart - Sport 2 Israel (CH-313431)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=141#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - TNT USA (CH-333338)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - TNT USA (CH-333338)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=338#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - TBS USA (CH-333336)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/istockphoto-932401756-612x612.jpg", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - TBS USA (CH-333336)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=336#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - TruTV USA (CH-333431)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - TruTV USA (CH-333431)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=341#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sportsnet Ontario (CH-343036)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sportsnet Ontario (CH-343036)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=406#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Viaplay Sports 1 UK(CH-343531)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Viaplay Sports 1 UK(CH-343531)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=451#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sport TV1 Portugal(CH-3439)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sport TV1 Portugal(CH-3439)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=49#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - ESPN 1 NL(CH-333739)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - ESPN 1 NL(CH-333739)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=379#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sky Sport Mix DE(CH-353537)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sky Sport Mix DE(CH-353537)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=557#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sky Sport Top Event DE (CH-353536)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sky Sport Top Event DE (CH-353536)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=556#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sky Sport Uno Italy (CH-343631)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sky Sport Uno Italy (CH-343631)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=461#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sky Sport Arena Italy (CH-343632)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sky Sport Arena Italy (CH-343632)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=462#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sport Klub 1 Serbia (CH-313031)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sport Klub 1 Serbia (CH-313031)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=101#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="RAW 05/06/2023 12:51:56", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sport 5 Israel (CH-313434)
+#EXTINF:-1 group-title="RAW 05/06/2023 13:02:47", 07:00 NHL : Vegas Golden Knights vs Florida Panthers - Sport 5 Israel (CH-313434)
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://mi3s.top/daddy.php?d=144#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
