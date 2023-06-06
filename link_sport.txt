@@ -1,21 +1,2 @@
-#EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 06-07-2015 ---[/B][/I][/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow]--- Generalistes ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1, TF1
-http://streaming-hub.com/tv/i/tf1_1@97468/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, France 2
-http://streaming-hub.com/tv/i/france2_1@97347/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, France 3
-http://streaming-hub.com/tv/i/france3_1@97329/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, France 4 
-http://178.250.208.141/14/play.m3u8 
-
-#EXTINF:-1, France 5
-http://streaming-hub.com/tv/i/france5_1@97351/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="NAMED 03/06/2023 20:25:03",[COLOR yellow]1 Rai Sport 31 Italy[/COLOR]
+https://webudit.cdnhks.lol/lb/premium1/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
