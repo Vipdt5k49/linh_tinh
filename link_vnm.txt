@@ -1,153 +1,99 @@
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES1?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://img.freepik.com/premium-vector/tennis-sport-silhouette-logo-designs-template_304830-481.jpg", Kênh quần vợt 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/ES2?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 1
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/Polsat?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 2
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://cdnmedia.webthethao.vn/uploads/2022-12-21/vnl%202023.jpg", Kênh Bóng chuyền 2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://stream.cvmtv.site/PolsatE?token=live|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/14/1685084604273/abd307e3dc8f_640_360.jpg", 16:00 - Tennis: ROLAND GARROS 2023-NGÀY 10-FEED ISS PRIME
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/26/14/1685084604273/abd307e3dc8f_640_360.jpg", 16:00 - Tennis: ROLAND GARROS 2023-NGÀY 10-FEED ISS PRIME
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://tiemnhazunn.click/vieon/onsportsnews.php#.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/05/10/1685934384562/f7056b408097_640_360.png", 16:30 - Bóng Đá: CLB Khánh Hòa vs CLB Viettel
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-http://live-zlr1.tv360.vn/manifest/sukien/./playlist_1080p-5M.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/05/10/1685934343175/8e401082fd29_640_360.png", 18:00 - Bóng Đá: Sông Lam Nghệ An vs TP. Hồ Chí Minh
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/05/10/1685934343175/8e401082fd29_640_360.png", 18:00 - Bóng Đá: Sông Lam Nghệ An vs TP. Hồ Chí Minh
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/4755/image", ﻿16h00 - China (w) U20 vs Chinese Taiwan U20
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/05/10/1685934278550/bc58d7c9353f_640_360.jpg", 19:00 - Bóng Đá: AUSTRALIA VS VIỆT NAM
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7971nmd7/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/a7d1947a92cfc71bb21fc28ec2ac1951.jpg", 16h00 - FK Ulytau vs SD Family
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhzp8ykqwz/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/3cf38c223c21cd5faaf450c20e16f2df.png", 16h00 - Pohang Steelers vs Jeju United
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3v3llm2w/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109373_small.png", 16h00 - Pohang Steelers vs Jeju United #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109373_small.png", 16h00 - Pohang Steelers vs Jeju United #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://khothietke.net/wp-content/uploads/2021/05/PNGKhothietke.net-03348.png", 16h00 - Tennis vs Roland Garros #Nhà đài 1
+https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8|User-Agent=Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/21.0+Chrome/110.0.5481.154+Mobile+Safari/537.36
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://khothietke.net/wp-content/uploads/2021/05/PNGKhothietke.net-03348.png", ﻿16h00 - Tennis vs Roland Garros #Nhà đài 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/may91/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/6fcaab610a987b2cabcbbc43d70a795f.png", 16h15 - Dagon FC vs Shan United
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-ednm9wh2pj7eryo/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/d1879fc0e84ef52892269280ba95550a.png", 16h15 - Three Star vs Church Boys United
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-965mkyh2vkd7r1g/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/0bf5d216969bd70c3be602cb1b2d5328.png", 16h18 - Mt Druitt Town Rangers FC vs Northbridge Bulls
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-8yomo4hgpgw0q0j/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/68994e7b7f24cbd0b321b6147ad00b55.png", 16h30 - Goulburn Valley Suns vs Hume City
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-l5ergphl1lg0r8k/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/5cae62255ca170949672a7ce8999b094.png", 16h30 - Heidelberg United vs St Albans Saints
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8p8v6r51/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179225_small.png", 17h00 - Khanh Hoa FC vs Viettel #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179225_small.png", 17h00 - Khanh Hoa FC vs Viettel #HD 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x11y4-0050/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179225_small.png", 17h00 - Khanh Hoa FC vs Viettel #SD 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x11y3-0050/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179225_small.png", 17h00 - Khanh Hoa FC vs Viettel #SD 2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://saoke2.cdn.khmer-hd.com/x11y1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33126/image", 17h00 - Khánh Hòa vs Viettel #Full HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33126/image", 17h00 - Khánh Hòa vs Viettel #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33126/image", 17h00 - Khánh Hòa vs Viettel #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live2.thapcam.net/truc-tiep/khanh-hoa-vs-viettel-7fc0hCk|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33126/image", 17h00 - Khánh Hòa vs Viettel #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33126/image", 17h00 - Khánh Hòa vs Viettel #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33126/image", 17h00 - Khánh Hòa vs Viettel #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-8yomo4hg6627q0j/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 17h00 - Trực tiếp Tennis vs  Roland Garros 2023 #Nhà đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4688_small.png", 17h30 - Vissel Kobe vs Barcelona #Nhà Đài
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4688_small.png", 17h30 - Vissel Kobe vs Barcelona #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/d85cce27ab583e5b3cead155f02b098a.png", 17h30 - Vissel Kobe vs Barcelona #Full HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/d85cce27ab583e5b3cead155f02b098a.png", 17h30 - Vissel Kobe vs Barcelona #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/d85cce27ab583e5b3cead155f02b098a.png", 17h30 - Vissel Kobe vs Barcelona #Nhà Đài
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live2.thapcam.net/truc-tiep/vissel-kobe-vs-barcelona-Zz5XD1i|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/d85cce27ab583e5b3cead155f02b098a.png", 17h30 - Vissel Kobe vs Barcelona #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/d85cce27ab583e5b3cead155f02b098a.png", 17h30 - Vissel Kobe vs Barcelona #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/d85cce27ab583e5b3cead155f02b098a.png", 17h30 - Vissel Kobe vs Barcelona #Sơ cua 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx86jgryk/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4688_small.png", 17h30 - Vissel Kobe vs Barcelona #HD 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4-0515/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4688_small.png", 17h30 - Vissel Kobe vs Barcelona #SD 1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3-0515/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4688_small.png", 17h30 - Vissel Kobe vs Barcelona #SD 2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://saoke2.cdn.khmer-hd.com/x3y1/playlist.m3u8|Referer=https://vip10.saoketvs.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/6825/image", 17h40 - Nhật Bản vs Iran #Full HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/6825/image", 17h40 - Nhật Bản vs Iran #HD
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/6825/image", 17h40 - Nhật Bản vs Iran #SD1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/6825/image", 17h40 - Nhật Bản vs Iran #SD2
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://img.thesports.com/football/team/335dad7f811f451658b42b2688eef5a9.png", 17h45 - Caboolture FC vs Logan Lightning
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://179720687.global.cdnfastest.com/live/sd-318q66h63z24qo9/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png", 18h00 - Song Lam Nghe An vs Ho Chi Minh City FC #Nhà Đài
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png", 18h00 - Song Lam Nghe An vs Ho Chi Minh City FC #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #Full HD
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png", 18h00 - Song Lam Nghe An vs Ho Chi Minh City FC #
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png", 18h00 - Song Lam Nghe An vs Ho Chi Minh City FC #HD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@sk4-0093/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png", 18h00 - Song Lam Nghe An vs Ho Chi Minh City FC #SD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@sk3-0093/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png", 18h00 - Song Lam Nghe An vs Ho Chi Minh City FC #SD 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://713291609.cloud.anycastapnic.com/pepmc/sk1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/179221_small.png", 18h00 - Song Lam Nghe An vs Ho Chi Minh City FC #SD 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://saoke2.cdn.khmer-hd.com/sk1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #Full HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #HD
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #HD
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #Nhà Đài
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #Nhà Đài
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://live2.thapcam.net/truc-tiep/song-lam-nghe-an-vs-tp-ho-chi-minh-XmLXvX8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #SD1
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #SD1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #SD2
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #SD2
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8|Referer=https://player.4shares.live
-#EXTINF:-1 group-title="CAST 06/06/2023 18:06:57" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #Sơ cua 1
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://api.sofascore.app/api/v1/team/33129/image", 18h00 - Sông Lam Nghệ An vs TP Hồ Chí Minh #Sơ cua 1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7ppz5md7/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185751_small.png", 18h30 - Bali United FC vs PSM Makassar #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67377_small.png", 18h45 - Albirex Niigata FC vs Geylang International FC #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x2/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://img.thesports.com/football/team/1bc138bc13d186569590f57f9d9127cd.png", 18h45 - Albirex Niigata FC vs Geylang United FC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-dj2ryohe9p5jq1z/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/67381_small.png", 18h45 - Young Lions vs Tanjong Pagar United FC #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x3/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://img.thesports.com/football/team/784ff50eb43b872d8d0c624a3a228dd7.png", 19h00 - FC Jetisay vs Ordabasy Reserves
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-23xmvkhp5615qg8/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://api.sofascore.app/api/v1/team/23484/image", 19h00 - Myanmar (w) U20 vs Nepal (w) U20
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-y39mp1h0l017moj/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/256074_small.png", 19h00 - Qatar U21 vs Australia U21 #Nhà Đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://tructiep2.cakhia27.tv
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/256074_small.png", 19h00 - Qatar U21 vs Australia U21 #HD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x11y4-0050/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/256074_small.png", 19h00 - Qatar U21 vs Australia U21 #SD 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x11y3-0050/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://api.sofascore.app/api/v1/team/4792/image", 19h00 - Qatar U23 vs Australia U23
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-318q66h6e6zeqo9/playlist.m3u8|Referer=https://player.4shares.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png", 19h00 - Trực tiếp Tennis vs  Roland Garros 2023 #Nhà đài
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x1/playlist.m3u8|Referer=https://vip10.saoketvs.live
+#EXTINF:-1 group-title="CAST 06/06/2023 19:41:26" tvg-logo="https://img.thesports.com/football/team/013ca211c6c1c7f8c5b9d424fd6bbf57.png", 19h15 - Satdobato Youth Club vs Jawalakhel Youth Club
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://179720687.global.cdnfastest.com/live/sd-3glrw7h384k8qdy/playlist.m3u8|Referer=https://player.4shares.live
