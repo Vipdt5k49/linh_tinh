@@ -1,35 +1,14 @@
+import pandas as pd
 import re
-import time
-from concurrent.futures import ThreadPoolExecutor
-from multiprocessing import Process
-
-def find(string):
-	x=re.search(r'\d+',string).group()
-	return x
-
-def run1(list):
-	for i in list:
-		print(find(i))
-
-def mt(lst):
-	process =[]
-	for i in lst:
-		process.append(Process(target=run1,args=(i,)))
-	for p in process:
-		p.start()
-	for p in process:
-		p.join()
-
-s='abc'*1000000
-list= [f'{s}{x}{s}' for x in range(1,101)]
-list1= [f'{s}{x}{s}' for x in range(1,21)]
-list2= [f'{s}{x}{s}' for x in range(21,41)]
-list3= [f'{s}{x}{s}' for x in range(41,61)]
-list4= [f'{s}{x}{s}' for x in range(61,81)]
-list5= [f'{s}{x}{s}' for x in range(81,101)]	
-
-if __name__ == '__main__':
-    start=time.time()
-    mt([list1,list2,list3,list4,list5])
-    #for i in list:print(find(i))
-    print(time.time()-start)
+xls= pd.ExcelFile(rf'/storage/emulated/0/Download/DCDS_BC_Thang_052023.xlsx')
+#df=pd.read_excel(xls,sheet_name='BCDanhMucDauTu_06029')
+df=xls.sheet_names
+k=[i for i in df if i.startswith('BCDanhMuc')][0]
+df=pd.read_excel(xls,sheet_name=k,usecols='a,b,d',names=['id','stock','quanity'])
+index_start=df[df.id.find('II')].index[0]
+index_end=df[df.id=='III'].index[1]
+df=df.iloc[index_start:index_end]
+print(df)
+print(index_start)
+#for i in df['id']:print(i)
+#print(df[df.id=='II'].index[0])
