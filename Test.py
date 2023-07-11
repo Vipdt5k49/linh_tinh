@@ -141,9 +141,44 @@ def dfFinal(dfData):
     dfFinal['change']=(dfFinal['currentPrice']-dfFinal['referencePrice'])/dfFinal['referencePrice']*100
     return dfFinal
 
-while True:    
-    dfAll=pd.concat([getDataToFrame('HOSE'),getDataToFrame('HNX'),getDataToFrame('UPCOM')],ignore_index=True)
+
+def get_price(san):
+    data = {
+        'type': san,
+        'typeTab': 'M',
+        'sort': 'SortName-up',
+        'stockStr': '',
+    }
+    response = requests.post('https://prs.tvsi.com.vn/get-detail-stock-by', data=data)
+    return response.json()['arrDetailStock']
+
+while True:
+    lst = []
+    for i in ['HSX','HNX','UPCOM']:
+        lst.extend(get_price(i))
+
+
+    dfAll = pd.DataFrame(columns=['symbol','referencePrice','currentPrice'])
+
+    for i in lst:
+        temp = re.search('.{5}last_price\*([^\*]*)',i).group()
+        if temp[0] != '|':continue
+        temp=temp[1:]
+        lst = temp.split('_last_price*')
+        s = lst[0]
+        if lst[1] == '':
+            temp = re.search('ref_price\*([^\*]*)',i).group()
+            p1 = p2 = temp.split('*')[1]
+        else:
+            temp = re.search('ref_price\*([^\*]*)',i).group()
+            p1 = temp.split('*')[1]
+            p2 = lst[1]
+        dfAll.loc[len(dfAll.index)] = [s, float(p1), float(p2)]
+
+
+
     dfDCDSFinal=dfFinal(dfDCDS)
+
     ref_tong=dfDCDSFinal['referenceSum'].sum()
     cur_tong=dfDCDSFinal['currentSum'].sum()
     change=(cur_tong-ref_tong)/ref_tong*100
