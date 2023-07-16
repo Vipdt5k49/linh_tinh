@@ -1,25 +1,62 @@
-lst1 =[1,2,3,5,7]
-lst2=[7,2,8,9,0,45,653]
-lst3=[1,3,7,986,111,44,22]
+import pandas as pd
 
-lst=lst1+lst2+lst3
-lst=list(dict.fromkeys(lst))
-#print(lst)
-dt={}
-for i in lst:dt[i]=''
-lst_dict={'lst1':lst1,'lst2':lst2,'lst3':lst3}
-#print(lst_dict)
-for i in lst:
-	for key, value in lst_dict.items():
-		if i in value:
-			dt[i]+=f',{key}'
+def tach(all,out):
+    return list(set(all).difference(out))
 
-names = set(dt.values())
-d = {}
-for n in names:
-    d[n] = [k for k in dt.keys() if dt[k] == n]
-for x,y in d.items():
-	x=x[1:]
-	print(x,y)
+ALL = ['DR5','TQ3','DX7','ASIA5','IR5','IR7','TQ7']
+data = {}
+df = pd.read_excel(r'C:\Users\Admin\Desktop\goi_cuoc.xlsx')
+for index, row in df.iterrows():    
+    data[row['Mang']]=row['Goi'].split(',')
+all_cc=[]
+for i,j in data.items():
+    all_cc = all_cc+j
+all_cc = list(data.fromkeys(all_cc))
 
-			
+out = {}
+for i,j in data.items():
+    
+    out[i]={}
+    temp = dict(data)
+    del temp[i]
+    p=[]
+    for m,n in temp.items():
+        p = p+n
+    p=tach(p,j)
+    t={}
+    for m in p:
+        t[m]=''
+        for n,h in temp.items():
+            if m in h:
+                if t[m]=='':t[m]+=f'{n}'
+                else:t[m]+=f',{n}'
+        
+    o = {}
+    for m,n in t.items():
+        try:
+            o[n]=o[n]+f',{m}'
+        except:
+            o[n]=''
+            o[n]=o[n]+f'{m}'
+
+    out[i]=o
+t={}
+for m in all_cc:
+    t[m]=''
+    for n,h in data.items():
+            if m in h:
+                if t[m]=='':t[m]+=f'{n}'
+                else:t[m]+=f',{n}'
+o = {}
+for m,n in t.items():
+    try:
+        o[n]=o[n]+f',{m}'
+    except:
+        o[n]=''
+        o[n]=o[n]+f'{m}'
+out['All']=o
+
+
+
+
+
