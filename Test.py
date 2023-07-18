@@ -3,15 +3,16 @@ import pandas as pd
 def tach(all,out):
     return list(set(all).difference(out))
 
+
+
 ALL = []
 
-df1 = pd.read_excel(r'/storage/emulated/0/Download/python/goi_cuoc.xlsx')
+df1 = pd.read_excel(r'C:\Users\Admin\Desktop\PYTHON\wsms\goi_cuoc.xlsx')
 a =list(df1['Goi'])
 for i in a:
 	b=i.split(',')
 	ALL+=b
 ALL=list(dict.fromkeys(ALL))
-#print(len(ALL))
 
 dt = {}
 lst_cc = list(dict.fromkeys(list(df1['Nuoc'])))
@@ -19,8 +20,7 @@ for i in lst_cc:
     df2 = df1[df1['Nuoc']==i]
     df2 = df2.drop(columns=['Nuoc'])
     dt[i] = df2
-#print(dt)
-#print(ALL)
+
 
 
 def run(df):
@@ -31,7 +31,7 @@ def run(df):
     for i,j in data.items():
         all_cc = all_cc+j
     all_cc = list(data.fromkeys(all_cc))
-    #print(all_cc)
+
 
     out = {}
     for i,j in data.items():
@@ -60,7 +60,7 @@ def run(df):
                 o[n]=o[n]+f'{m}'
 
         out[i]=o
-    #print(out)
+
     t={}
     for m in all_cc:
         t[m]=''
@@ -79,23 +79,43 @@ def run(df):
     return out
 
 out_data = {}
-#ALL=[]
+
 for i,j in dt.items():
 	out_data[i]=run(j)
-	#ALL=ALL.extend(j)
-	#print(i)
-df=pd.DataFrame(columns=['Nuoc','Mang','Goi','Noi dung','Goi cau hinh'])
-#print(ALL)
-	
-for i,j in out_data.items():
-	for m,n in j.items():
-		for a,b in n.items():
-			c=b.split(',')
-			d=tach(ALL,c)
-			e=','.join(d)
 
-			df.loc[len(df)]=[i,m,b,a,e]
-df.to_csv('out.csv')
+df1 = pd.read_excel(r'C:\Users\Admin\Desktop\PYTHON\wsms\nhom_goi.xlsx')
+dt = {}
+lst_cc = list(dict.fromkeys(list(df1['Nhom'])))
+for i in lst_cc:
+    df2 = df1[df1['Nhom']==i]
+    df2 = df2.drop(columns=['Nhom'])
+    dt[i] = list(df2['Goi'])
 
 
+for a,b in out_data.items():
+    for c,d in b.items():
+        for e,f in d.items():
+            d1={}
+            d1[e]={}
+            g=f.split(',')
+            for h in g:
+                for i,j in dt.items():
+                    if h in j:
+                        #print(a,c,e,h,i)
+                        try:d1[e][i]+=f',{h}'
+                        except:d1[e][i]=h
+                        continue
+            d.update(d1)
 
+df=pd.DataFrame(columns=['Nuoc','Mang','Goi','ND nhom goi','ND mang can vao','Goi cau hinh'])
+
+for a,b in out_data.items():
+    for c,d in b.items():
+        for e,f in d.items():
+            for g,h in f.items():
+                i = h.split(',')
+                j = tach(ALL,i)
+                p = ','.join(j)
+                df.loc[len(df)]=[a,c,h,g,e,p]
+
+df.to_csv(r'C:\Users\Admin\Desktop\PYTHON\wsms\out.csv')
