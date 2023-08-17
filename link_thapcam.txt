@@ -1,8 +1,0 @@
-#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/4730/image",2000 1708 Thailand U23 vs Myanmar U23 SD1
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/4730/image",2000 1708 Thailand U23 vs Myanmar U23 SD2
-https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/4730/image",2000 1708 Thailand U23 vs Myanmar U23 HD
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/4730/image",2000 1708 Thailand U23 vs Myanmar U23 Full HD
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
