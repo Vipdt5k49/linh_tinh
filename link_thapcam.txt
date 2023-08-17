@@ -1,0 +1,28 @@
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/64d52e08cc03e6090bc1ef30b73ccb85.gif",2045 1708 Sur Club vs Al Rustaq Backup 1
+https://179720687.global.cdnfastest.com/live/sd-l7oqdehoy938r51/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/6702/image",2100 1708 Phần Lan vs Slovakia HD
+https://obevcimanyd179314182.thapcam.link/live/may101/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",2100 1708 FK Taraz vs Khan Tengri FC Backup 1
+https://179720687.global.cdnfastest.com/live/sd-ednm9wh24olgryo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vebotv.app/files/tennis1.png",2200 1708 ATP 1000 vs Cincinnati Open Kênh 1
+https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/57163/image",2200 1708 Alexander Zverev vs Daniil Medvedev SD1
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/57163/image",2200 1708 Alexander Zverev vs Daniil Medvedev SD2
+https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/57163/image",2200 1708 Alexander Zverev vs Daniil Medvedev HD
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/57163/image",2200 1708 Alexander Zverev vs Daniil Medvedev Full HD
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/57163/image",2200 1708 Alexander Zverev vs Daniil Medvedev Nhà Đài
+https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/481eef20fa62baa6658231a1721f2ec8.png",2200 1708 Dhamk vs Al-Riyadh Backup 1
+https://179720687.global.cdnfastest.com/live/sd-zp5rzgh685zwq82/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/4479/image",2300 1708 Bosnia-Herzegovina vs Bulgaria SD1
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/4479/image",2300 1708 Bosnia-Herzegovina vs Bulgaria SD2
+https://obevcimanyd179314182.thapcam.link/live/chaSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/4479/image",2300 1708 Bosnia-Herzegovina vs Bulgaria HD
+https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/team/4479/image",2300 1708 Bosnia-Herzegovina vs Bulgaria Full HD
+https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8
