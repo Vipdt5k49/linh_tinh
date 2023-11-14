@@ -1,0 +1,10 @@
+#EXTINF:-1 group-title="LIVE 0610 1511" tvg-logo="https://api.sofascore.app/api/v1/team/14882/image" ,0300 15/11 Novak Djokovic vs Jannik Sinner #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0610 1511" tvg-logo="https://api.sofascore.app/api/v1/team/14882/image" ,0300 15/11 Novak Djokovic vs Jannik Sinner #SD2
+https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0610 1511" tvg-logo="https://api.sofascore.app/api/v1/team/14882/image" ,0300 15/11 Novak Djokovic vs Jannik Sinner #HD
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0610 1511" tvg-logo="https://api.sofascore.app/api/v1/team/14882/image" ,0300 15/11 Novak Djokovic vs Jannik Sinner #FullHD
+https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0610 1511" tvg-logo="https://api.sofascore.app/api/v1/team/14882/image" ,0300 15/11 Novak Djokovic vs Jannik Sinner #Nhà đài
+https://obevcimanyd179314182.thapcam.link/live/may6/playlist.m3u8
