@@ -1,0 +1,22 @@
+#EXTINF:-1 group-title="LIVE 0237 1511" tvg-logo="https://img.thesports.com/volleyball/team/8165ef1acf0cc0a9738e96b076a2d057.png" ,0100 15/11 Potsdam W vs Fenerbahce W #HD
+https://obevcimanyd179314182.thapcam.link/live/may7/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0237 1511" tvg-logo="https://img.thesports.com/volleyball/team/c2dfc66ff089946e147550d943ef9392.png" ,0230 15/11 Belchatow vs Gdansk #HD
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0237 1511" tvg-logo="https://img.thesports.com/volleyball/team/06fb4233ad879db37cf16280b27b6930.png" ,0300 15/11 Mulhouse W vs Vero Volley W #HD
+https://obevcimanyd179314182.thapcam.link/live/may7/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0237 1511" tvg-logo="https://img.thesports.com/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png" ,0300 15/11 Barcelona (w) vs Benfica (w) #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0237 1511" tvg-logo="https://img.thesports.com/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png" ,0300 15/11 Barcelona (w) vs Benfica (w) #SD2
+https://obevcimanyd179314182.thapcam.link/live/Z1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0237 1511" tvg-logo="https://img.thesports.com/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png" ,0300 15/11 Barcelona (w) vs Benfica (w) #HD
+https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0237 1511" tvg-logo="https://img.thesports.com/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png" ,0300 15/11 Barcelona (w) vs Benfica (w) #FullHD
+https://obevcimanyd179314182.thapcam.link/live/Z1FHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0237 1511" tvg-logo="https://img.thesports.com/football/team/149eea75b2796dd6113adc145635fea3.png" ,0300 15/11 Slavia Praha (w) vs Lyon (w) #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0237 1511" tvg-logo="https://img.thesports.com/football/team/149eea75b2796dd6113adc145635fea3.png" ,0300 15/11 Slavia Praha (w) vs Lyon (w) #SD2
+https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0237 1511" tvg-logo="https://img.thesports.com/football/team/149eea75b2796dd6113adc145635fea3.png" ,0300 15/11 Slavia Praha (w) vs Lyon (w) #HD
+https://1123139281.cdn.khmer-hd.com/may21HD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0237 1511" tvg-logo="https://img.thesports.com/football/team/149eea75b2796dd6113adc145635fea3.png" ,0300 15/11 Slavia Praha (w) vs Lyon (w) #FullHD
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
