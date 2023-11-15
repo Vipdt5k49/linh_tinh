@@ -1,0 +1,26 @@
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://static.vebotv.app/leagues/badminton.png" ,0700 15/11 Kumamoto Master vs Japan 2023 #HD
+https://obevcimanyd179314182.thapcam.link/live/may61/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://api.sofascore.app/api/v1/team/275923/image" ,2030 15/11 Carlos Alcaraz vs Andrey Rublev #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://api.sofascore.app/api/v1/team/275923/image" ,2030 15/11 Carlos Alcaraz vs Andrey Rublev #SD2
+https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://api.sofascore.app/api/v1/team/275923/image" ,2030 15/11 Carlos Alcaraz vs Andrey Rublev #HD
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://api.sofascore.app/api/v1/team/275923/image" ,2030 15/11 Carlos Alcaraz vs Andrey Rublev #FullHD
+https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://api.sofascore.app/api/v1/team/275923/image" ,2030 15/11 Carlos Alcaraz vs Andrey Rublev #Nhà Đài
+https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://img.thesports.com/volleyball/team/faa46ea1d338402036b2e573b72f9b43.png" ,2130 15/11 Fenerbahce vs Ziraat Bankasi #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://img.thesports.com/volleyball/team/faa46ea1d338402036b2e573b72f9b43.png" ,2130 15/11 Fenerbahce vs Ziraat Bankasi #SD2
+https://obevcimanyd179314182.thapcam.link/live/chaSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://img.thesports.com/volleyball/team/faa46ea1d338402036b2e573b72f9b43.png" ,2130 15/11 Fenerbahce vs Ziraat Bankasi #HD
+https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://img.thesports.com/volleyball/team/faa46ea1d338402036b2e573b72f9b43.png" ,2130 15/11 Fenerbahce vs Ziraat Bankasi #FullHD
+https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://img.thesports.com/volleyball/team/8226cffab31c33f786881dad8428c2f6.png" ,2200 15/11 Stal Nysa vs Rzeszow #HD
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://img.thesports.com/volleyball/team/2692d3e467f2b036a1e2b1914b829803.png" ,0030 16/11 Olsztyn vs Norwid Czestochowa #HD
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2206 1511" tvg-logo="https://img.thesports.com/volleyball/team/8e89b7e84901d3ee2e76406801bec95e.png" ,0300 16/11 Projekt Warszawa vs Lublin #HD
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
