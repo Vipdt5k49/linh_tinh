@@ -1,0 +1,38 @@
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://static.vebotv.app/leagues/badminton.png" ,0700 15/11 Kumamoto Master vs Japan 2023 #HD
+https://obevcimanyd179314182.thapcam.link/live/may61/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/4481/image" ,1900 15/11 France U17 vs Korea Republic U17 #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/4481/image" ,1900 15/11 France U17 vs Korea Republic U17 #SD2
+https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/4481/image" ,1900 15/11 France U17 vs Korea Republic U17 #HD
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/4481/image" ,1900 15/11 France U17 vs Korea Republic U17 #FullHD
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/4481/image" ,1900 15/11 France U17 vs Korea Republic U17 #Backup 1
+https://apisportvb90xltcbk.nsnd.live/live/sd-n54qllh7x3j2qvy/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/187755/image" ,1900 15/11 New Zealand U17 vs Germany U17 #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/187755/image" ,1900 15/11 New Zealand U17 vs Germany U17 #SD2
+https://obevcimanyd179314182.thapcam.link/live/Z1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/187755/image" ,1900 15/11 New Zealand U17 vs Germany U17 #HD
+https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/187755/image" ,1900 15/11 New Zealand U17 vs Germany U17 #FullHD
+https://obevcimanyd179314182.thapcam.link/live/Z1FHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/187755/image" ,1900 15/11 New Zealand U17 vs Germany U17 #Backup 1
+https://apisportvb90xltcbk.nsnd.live/live/sd-965mkyhy3wngr1g/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://img.thesports.com/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png" ,2000 15/11 PSV Eindhoven vs Schalke 04 #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z2SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://img.thesports.com/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png" ,2000 15/11 PSV Eindhoven vs Schalke 04 #SD2
+https://obevcimanyd179314182.thapcam.link/live/Z2SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://img.thesports.com/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png" ,2000 15/11 PSV Eindhoven vs Schalke 04 #HD
+https://1123139281.cdn.khmer-hd.com/Z2HD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://img.thesports.com/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png" ,2000 15/11 PSV Eindhoven vs Schalke 04 #FullHD
+https://obevcimanyd179314182.thapcam.link/live/Z2FHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/275923/image" ,2030 15/11 Carlos Alcaraz vs Andrey Rublev #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/275923/image" ,2030 15/11 Carlos Alcaraz vs Andrey Rublev #SD2
+https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/275923/image" ,2030 15/11 Carlos Alcaraz vs Andrey Rublev #HD
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 2001 1511" tvg-logo="https://api.sofascore.app/api/v1/team/275923/image" ,2030 15/11 Carlos Alcaraz vs Andrey Rublev #FullHD
+https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
