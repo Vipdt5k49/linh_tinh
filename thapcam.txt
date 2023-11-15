@@ -1,0 +1,60 @@
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/volleyball/team/34f2b0353d85f1a29a3780f6f21ce2ba.png" ,0000 16/11 Taranto vs Perugia #HD
+https://obevcimanyd179314182.thapcam.link/live/may61/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/volleyball/team/2692d3e467f2b036a1e2b1914b829803.png" ,0030 16/11 Olsztyn vs Norwid Czestochowa #HD
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/football/team/57ec3afbec462319117d3d7f90f746db.png" ,0045 16/11 Bayern Munchen (w) vs Res Roma (w) #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/football/team/57ec3afbec462319117d3d7f90f746db.png" ,0045 16/11 Bayern Munchen (w) vs Res Roma (w) #SD2
+https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/football/team/57ec3afbec462319117d3d7f90f746db.png" ,0045 16/11 Bayern Munchen (w) vs Res Roma (w) #HD
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/football/team/57ec3afbec462319117d3d7f90f746db.png" ,0045 16/11 Bayern Munchen (w) vs Res Roma (w) #FullHD
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/football/team/57ec3afbec462319117d3d7f90f746db.png" ,0045 16/11 Bayern Munchen (w) vs Res Roma (w) #Backup 1
+https://apisportvb90xltcbk.nsnd.live/live/sd-k82rekhwyk93rep/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/volleyball/team/ae4529772b1760ad1739d867b66c6dd0.png" ,0100 16/11 Jedinstvo S.P. W vs Vakifbank W #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/volleyball/team/ae4529772b1760ad1739d867b66c6dd0.png" ,0100 16/11 Jedinstvo S.P. W vs Vakifbank W #SD2
+https://obevcimanyd179314182.thapcam.link/live/chaSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/volleyball/team/ae4529772b1760ad1739d867b66c6dd0.png" ,0100 16/11 Jedinstvo S.P. W vs Vakifbank W #HD
+https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/volleyball/team/ae4529772b1760ad1739d867b66c6dd0.png" ,0100 16/11 Jedinstvo S.P. W vs Vakifbank W #FullHD
+https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/volleyball/team/dbf70798356cd6f2a608bb9f8149c43c.png" ,0100 16/11 Stuttgart W vs Conegliano W #HD
+https://obevcimanyd179314182.thapcam.link/live/may6/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/4480/image" ,0245 16/11 Israel vs Switzerland #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/4480/image" ,0245 16/11 Israel vs Switzerland #SD2
+https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/4480/image" ,0245 16/11 Israel vs Switzerland #HD
+https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/4480/image" ,0245 16/11 Israel vs Switzerland #FullHD
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/4717/image" ,0245 16/11 Belgium vs Serbia #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@chaSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/4717/image" ,0245 16/11 Belgium vs Serbia #SD2
+https://obevcimanyd179314182.thapcam.link/live/chaSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/4717/image" ,0245 16/11 Belgium vs Serbia #HD
+https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/4717/image" ,0245 16/11 Belgium vs Serbia #FullHD
+https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/163504/image" ,0300 16/11 Daniil Medvedev vs Alexander Zverev #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/163504/image" ,0300 16/11 Daniil Medvedev vs Alexander Zverev #SD2
+https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/163504/image" ,0300 16/11 Daniil Medvedev vs Alexander Zverev #HD
+https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/163504/image" ,0300 16/11 Daniil Medvedev vs Alexander Zverev #FullHD
+https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://api.sofascore.app/api/v1/team/163504/image" ,0300 16/11 Daniil Medvedev vs Alexander Zverev #Nhà Đài
+https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/football/team/a8b4d7362b24cfc910c7e652d6b4c874.png" ,0300 16/11 Real Madrid (w) vs Chelsea FC (w) #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/football/team/a8b4d7362b24cfc910c7e652d6b4c874.png" ,0300 16/11 Real Madrid (w) vs Chelsea FC (w) #SD2
+https://obevcimanyd179314182.thapcam.link/live/Z1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/football/team/a8b4d7362b24cfc910c7e652d6b4c874.png" ,0300 16/11 Real Madrid (w) vs Chelsea FC (w) #HD
+https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/football/team/a8b4d7362b24cfc910c7e652d6b4c874.png" ,0300 16/11 Real Madrid (w) vs Chelsea FC (w) #FullHD
+https://obevcimanyd179314182.thapcam.link/live/Z1FHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0218 1611" tvg-logo="https://img.thesports.com/volleyball/team/8e89b7e84901d3ee2e76406801bec95e.png" ,0300 16/11 Projekt Warszawa vs Lublin #HD
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
