@@ -1,0 +1,12 @@
+#EXTINF:-1 group-title="LIVE 0527 1611" tvg-logo="https://api.sofascore.app/api/v1/team/163504/image" ,0300 16/11 Daniil Medvedev vs Alexander Zverev #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0527 1611" tvg-logo="https://api.sofascore.app/api/v1/team/163504/image" ,0300 16/11 Daniil Medvedev vs Alexander Zverev #SD2
+https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0527 1611" tvg-logo="https://api.sofascore.app/api/v1/team/163504/image" ,0300 16/11 Daniil Medvedev vs Alexander Zverev #HD
+https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0527 1611" tvg-logo="https://api.sofascore.app/api/v1/team/163504/image" ,0300 16/11 Daniil Medvedev vs Alexander Zverev #FullHD
+https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0527 1611" tvg-logo="https://api.sofascore.app/api/v1/team/163504/image" ,0300 16/11 Daniil Medvedev vs Alexander Zverev #Nhà Đài
+https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0527 1611" tvg-logo="https://img.thesports.com/volleyball/team/8e89b7e84901d3ee2e76406801bec95e.png" ,0300 16/11 Projekt Warszawa vs Lublin #HD
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
