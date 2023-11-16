@@ -1,0 +1,52 @@
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/ac18ecfecac3af349477383866cf8ef5.png" ,0700 16/11 Washington Wizards vs Dallas Mavericks #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@caySD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/ac18ecfecac3af349477383866cf8ef5.png" ,0700 16/11 Washington Wizards vs Dallas Mavericks #SD2
+https://179796602skbndctsetsaf.thapcam.link/live/caySD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/ac18ecfecac3af349477383866cf8ef5.png" ,0700 16/11 Washington Wizards vs Dallas Mavericks #HD
+https://1123139281.cdn.khmer-hd.com/cayHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/ac18ecfecac3af349477383866cf8ef5.png" ,0700 16/11 Washington Wizards vs Dallas Mavericks #Full HD
+https://179796602skbndctsetsaf.thapcam.link/live/cayFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://static.vebotv.app/leagues/badminton.png" ,0700 16/11 Kumamoto Master vs Japan 2023 #Sân 1
+https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://static.vebotv.app/leagues/badminton.png" ,0700 16/11 Kumamoto Master vs Japan 2023 #Sân 2
+https://obevcimanyd179314182.thapcam.link/live/may91/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://static.vebotv.app/leagues/badminton.png" ,0700 16/11 Kumamoto Master vs Japan 2023 #Sân 3
+https://obevcimanyd179314182.thapcam.link/live/may6/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://static.vebotv.app/leagues/badminton.png" ,0700 16/11 Kumamoto Master vs Japan 2023 #Sân 4
+https://obevcimanyd179314182.thapcam.link/live/may61/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png" ,0730 16/11 Philadelphia 76ers vs Boston Celtics #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png" ,0730 16/11 Philadelphia 76ers vs Boston Celtics #SD2
+https://179796602skbndctsetsaf.thapcam.link/live/Z1SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png" ,0730 16/11 Philadelphia 76ers vs Boston Celtics #HD
+https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png" ,0730 16/11 Philadelphia 76ers vs Boston Celtics #Full HD
+https://179796602skbndctsetsaf.thapcam.link/live/Z1FHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png" ,0730 16/11 Toronto Raptors vs Milwaukee Bucks #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png" ,0730 16/11 Toronto Raptors vs Milwaukee Bucks #SD2
+https://179796602skbndctsetsaf.thapcam.link/live/oldSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png" ,0730 16/11 Toronto Raptors vs Milwaukee Bucks #HD
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png" ,0730 16/11 Toronto Raptors vs Milwaukee Bucks #Full HD
+https://179796602skbndctsetsaf.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png" ,0730 16/11 Atlanta Hawks vs New York Knicks #HD
+https://179796602skbndctsetsaf.thapcam.link/live/may7/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png" ,0800 16/11 Chicago Bulls vs Orlando Magic #HD
+https://179796602skbndctsetsaf.thapcam.link/live/may71/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png" ,0900 16/11 Phoenix Suns vs Minnesota Timberwolves #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@hoiSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png" ,0900 16/11 Phoenix Suns vs Minnesota Timberwolves #SD2
+https://179796602skbndctsetsaf.thapcam.link/live/hoiSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png" ,0900 16/11 Phoenix Suns vs Minnesota Timberwolves #HD
+https://1123139281.cdn.khmer-hd.com/hoiHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png" ,0900 16/11 Phoenix Suns vs Minnesota Timberwolves #Full HD
+https://179796602skbndctsetsaf.thapcam.link/live/hoiFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/5fe07aebfab949b0b3d46aa3bb2be82a.png" ,0900 16/11 North Florida Women vs Gonzaga Bulldogs #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z3SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/5fe07aebfab949b0b3d46aa3bb2be82a.png" ,0900 16/11 North Florida Women vs Gonzaga Bulldogs #SD2
+https://179796602skbndctsetsaf.thapcam.link/live/Z3SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/5fe07aebfab949b0b3d46aa3bb2be82a.png" ,0900 16/11 North Florida Women vs Gonzaga Bulldogs #HD
+https://1123139281.cdn.khmer-hd.com/Z3HD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0908 1611" tvg-logo="https://img.thesports.com/basketball/team/5fe07aebfab949b0b3d46aa3bb2be82a.png" ,0900 16/11 North Florida Women vs Gonzaga Bulldogs #Full HD
+https://179796602skbndctsetsaf.thapcam.link/live/Z3FHD/playlist.m3u8
