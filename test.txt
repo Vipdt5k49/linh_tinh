@@ -1,4 +1,3 @@
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
 #EXTINF:-1 group-title="LIVE 2202 2105" tvg-logo="https://static.vebotv.app/files/tennis1.png" ,1600 21/05 ATP250 Lyon Open #HD
 https://apisportvb90xltcbk.nsnd.live/live/sd-6MsFeucSH5Z5iKz8fD/playlist.m3u8
