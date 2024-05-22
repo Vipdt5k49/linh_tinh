@@ -1,0 +1,62 @@
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/cuba.png" ,0700 22/05 Cuba vs Brazil #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/cuba.png" ,0700 22/05 Cuba vs Brazil #SD2
+https://live-kh-1123139281.thapcam.link/oldSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/cuba.png" ,0700 22/05 Cuba vs Brazil #HD
+https://live-eu-ay5eg6kw5uliv.thapcam.link/live/oldHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/cuba.png" ,0700 22/05 Cuba vs Brazil #FHD
+https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png" ,0700 22/05 NXT #HD
+https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/r%E1%BB%95/Celtics.png" ,0700 22/05 Celtics vs Pacers #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@caoSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/r%E1%BB%95/Celtics.png" ,0700 22/05 Celtics vs Pacers #SD2
+https://live-kh-1123139281.thapcam.link/caoSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/r%E1%BB%95/Celtics.png" ,0700 22/05 Celtics vs Pacers #HD
+https://live-eu-ay5eg6kw5uliv.thapcam.link/live/caoHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/r%E1%BB%95/Celtics.png" ,0700 22/05 Celtics vs Pacers #FHD
+https://obevcimanyd179249207.thapcam.link/live/caoFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/r%E1%BB%95/Celtics.png" ,0700 22/05 Celtics vs Pacers #Tiếng Anh
+https://obevcimanyd179314182.thapcam.link/live/may61/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/football/team/9a1ce30a4d491f205368bdca1a168c4f.png" ,0710 22/05 Temperley vs River Plate #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@xienSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/football/team/9a1ce30a4d491f205368bdca1a168c4f.png" ,0710 22/05 Temperley vs River Plate #SD2
+https://live-kh-1123139281.thapcam.link/xienSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/football/team/9a1ce30a4d491f205368bdca1a168c4f.png" ,0710 22/05 Temperley vs River Plate #HD
+https://live-eu-ay5eg6kw5uliv.thapcam.link/live/xienHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/football/team/9a1ce30a4d491f205368bdca1a168c4f.png" ,0710 22/05 Temperley vs River Plate #FHD
+https://obevcimanyd179249207.thapcam.link/live/xienFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/football/team/9a1ce30a4d491f205368bdca1a168c4f.png" ,0710 22/05 Temperley vs River Plate #Backup 1
+https://apisportvb90xltcbk.nsnd.live/live/sd-6MsEv6b2qHarg8HxRH/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png" ,0900 22/05 Los Angeles Sparks vs Washington Mystics #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z2SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png" ,0900 22/05 Los Angeles Sparks vs Washington Mystics #SD2
+https://live-kh-1123139281.thapcam.link/Z2SD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png" ,0900 22/05 Los Angeles Sparks vs Washington Mystics #HD
+https://live-eu-ay5eg6kw5uliv.thapcam.link/live/Z2HD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png" ,0900 22/05 Los Angeles Sparks vs Washington Mystics #FHD
+https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png" ,0900 22/05 Las Vegas Aces vs Phoenix Mercury #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@caySD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png" ,0900 22/05 Las Vegas Aces vs Phoenix Mercury #SD2
+https://live-kh-1123139281.thapcam.link/caySD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png" ,0900 22/05 Las Vegas Aces vs Phoenix Mercury #HD
+https://live-eu-ay5eg6kw5uliv.thapcam.link/live/cayHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://img.thesports.com/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png" ,0900 22/05 Las Vegas Aces vs Phoenix Mercury #FHD
+https://obevcimanyd179249207.thapcam.link/live/cayFHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/files/Screenshot_1-removebg-preview.png" ,0900 22/05 Malaysia Masters 2024 #SD1
+https://obevcimanyd179314182.thapcam.link/live/may6/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/files/Screenshot_1-removebg-preview.png" ,0900 22/05 Malaysia Masters 2024 #SD2
+https://obevcimanyd179314182.thapcam.link/live/may7/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/files/Screenshot_1-removebg-preview.png" ,0900 22/05 Malaysia Masters 2024 #HD
+https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/files/Screenshot_1-removebg-preview.png" ,0900 22/05 Malaysia Masters 2024 #FHD
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Kazakhstan(1).png" ,0900 22/05 Kazakhstan vs Singapore #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@cunSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Kazakhstan(1).png" ,0900 22/05 Kazakhstan vs Singapore #SD2
+https://live-kh-1123139281.thapcam.link/cunSD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Kazakhstan(1).png" ,0900 22/05 Kazakhstan vs Singapore #HD
+https://live-eu-ay5eg6kw5uliv.thapcam.link/live/cunHD/playlist.m3u8
+#EXTINF:-1 group-title="LIVE 0907 2205" tvg-logo="https://static.vebotv.app/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Kazakhstan(1).png" ,0900 22/05 Kazakhstan vs Singapore #FHD
+https://obevcimanyd179249207.thapcam.link/live/cunFHD/playlist.m3u8
