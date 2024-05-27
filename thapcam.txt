@@ -1,0 +1,27 @@
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 0623 2805" tvg-logo="https://img.thesports.com/basketball/team/5f6038a64343be950bdcad93ea8ad410.png" ,0500 28/05 Union Santa Fe vs Barracas Central #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@caSD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 0623 2805" tvg-logo="https://img.thesports.com/basketball/team/5f6038a64343be950bdcad93ea8ad410.png" ,0500 28/05 Union Santa Fe vs Barracas Central #SD2
+https://live-kh-1123139281.thapcam.link/caSD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 0623 2805" tvg-logo="https://img.thesports.com/basketball/team/5f6038a64343be950bdcad93ea8ad410.png" ,0500 28/05 Union Santa Fe vs Barracas Central #HD
+https://live-eu-ay5eg6kw5uliv.thapcam.link/live/caHD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 0623 2805" tvg-logo="https://img.thesports.com/basketball/team/5f6038a64343be950bdcad93ea8ad410.png" ,0500 28/05 Union Santa Fe vs Barracas Central #FullHD
+https://obevcimanyd179249207.thapcam.link/live/caFHD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 0623 2805" tvg-logo="https://img.thesports.com/basketball/team/5f6038a64343be950bdcad93ea8ad410.png" ,0500 28/05 Union Santa Fe vs Barracas Central #Backup 1
+https://apisportvb90xltcbk.nsnd.live/live/sd-6MrARXXMD5YUw1XCYB/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 0623 2805" tvg-logo="https://img.thesports.com/football/team/2d87cf3b426597f02435e2c72e8def93.png" ,0700 28/05 Atletico Tucuman vs CA Platense #SD1
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@xienSD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 0623 2805" tvg-logo="https://img.thesports.com/football/team/2d87cf3b426597f02435e2c72e8def93.png" ,0700 28/05 Atletico Tucuman vs CA Platense #SD2
+https://live-kh-1123139281.thapcam.link/xienSD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 0623 2805" tvg-logo="https://img.thesports.com/football/team/2d87cf3b426597f02435e2c72e8def93.png" ,0700 28/05 Atletico Tucuman vs CA Platense #HD
+https://live-eu-ay5eg6kw5uliv.thapcam.link/live/xienHD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 0623 2805" tvg-logo="https://img.thesports.com/football/team/2d87cf3b426597f02435e2c72e8def93.png" ,0700 28/05 Atletico Tucuman vs CA Platense #FullHD
+https://obevcimanyd179249207.thapcam.link/live/xienFHD/playlist.m3u8
