@@ -1,0 +1,174 @@
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 2101 1107" tvg-logo="https://g7w1r.4shares.live/files/bia.png" ,1600 11/07 PORTO World Cup 3-Cushion 2024 #HD # pool
+https://obevcimanyd179591709.thapcam.link/gCVFKXfebzW1gKnn7YjKlg/Fv2lucGIbhPi2caWYvF5Lg/1720703647295/live/may17/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 2101 1107" tvg-logo="https://g7w1r.4shares.live/files/tour.png" ,1800 11/07 Tour de France #HD # race
+https://obevcimanyd179591709.thapcam.link/0yMsyN8Ps_WhZiwB537UEg/Fv2lucGIbhPi2caWYvF5Lg/1720716785589/live/may10/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 2101 1107" tvg-logo="https://static.flashscore.com/res/image/data/6ZRcRj9j-zP0v7LQ2.png" ,1930 11/07 Wimbledon 2024 #Sân trung tâm # tennis
+https://obevcimanyd179591709.thapcam.link/FEPJrfJTiOueMYf8QIpxZA/Fv2lucGIbhPi2caWYvF5Lg/1720721448925/live/may7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 2101 1107" tvg-logo="https://api.sofascore.app/api/v1/team/50641/image" ,1930 11/07 Donna Vekić vs Jasmine Paolini #SD1 # tennis
+https://vb90xltcvg-secure.nsnd.live/1cU-mTgfernhcekeuVencA/e0cbdf727a82f90c0795ef9ffacae6f1/1720719646/live/_definst_/stream_1_1bda7@cuonSD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 2101 1107" tvg-logo="https://api.sofascore.app/api/v1/team/50641/image" ,1930 11/07 Donna Vekić vs Jasmine Paolini #SD2 # tennis
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjA3MTk2NDYsInVyaSI6Ii9jdW9uU0QiLCJpYXQiOjE3MjA2OTgwNDZ9.tQbd8mJT_OLoZbCMiO_Hk5s9AyvHY8othgfqV8xjexM-/cuonSD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 2101 1107" tvg-logo="https://api.sofascore.app/api/v1/team/50641/image" ,1930 11/07 Donna Vekić vs Jasmine Paolini #HD # tennis
+https://live-eu-pzybaks9eeliv.thapcam.link/9b98521f1c161d74056cf357ee450df4/1720719646268/live/cuonHD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 2101 1107" tvg-logo="https://api.sofascore.app/api/v1/team/50641/image" ,1930 11/07 Donna Vekić vs Jasmine Paolini #FullHD # tennis
+https://obevcimanyd179569584.thapcam.link/ZP0cz_3aREH86M0dtZNabQ/Fv2lucGIbhPi2caWYvF5Lg/1720719646269/live/cuonFHD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/v11/
+#EXTINF:-1 group-title="LIVE 2101 1107" tvg-logo="https://img.thesports.com/basketball/team/a431de8af67ea988c837ff726cdb30ca.png" ,1930 11/07 Ho Chi Minh City Wings vs Xigong Heat #HD # basketball
+https://obevcimanyd179591709.thapcam.link/EX1ogftEp1XZykxISzzeBg/Fv2lucGIbhPi2caWYvF5Lg/1720728072386/live/may19/playlist.m3u8
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://g7w1r.4shares.live/files/bia.png",1600 11/07 PORTO World Cup 3-Cushion 2024 # pool
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://g7w1r.4shares.live/files/tour.png",1800 11/07 Tour de France # race
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://static.flashscore.com/res/image/data/6ZRcRj9j-zP0v7LQ2.png",1930 11/07 Wimbledon 2024 # tennis
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://api.sofascore.app/api/v1/team/50641/image",1930 11/07 Donna Vekić vs Jasmine Paolini # tennis
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/basketball/team/a431de8af67ea988c837ff726cdb30ca.png",1930 11/07 Ho Chi Minh City Wings vs Xigong Heat # basketball
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://api.sofascore.app/api/v1/team/60398/image",2045 11/07 Barbora Krejcikova vs Elena Rybakina # tennis
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/6c693487c0894d72e1160a5199fcdcac.jpg",2130 11/07 Backa Topola vs FC Shakhtar Donetsk # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/e4e73b178c9fc00801c83684b02b6d81.png",2200 11/07 FK Aktobe Lento vs Sarajevo # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/b325fe2175ad9945e648dbb016b1756c.png",2200 11/07 Siauliai vs Levadia Tallinn # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/066236dc007de501d84a4a146f7597a9.png",2200 11/07 FK Liepaja vs Vikingur Gotu # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/026dbf213ca4c10c52bca7daef8e3c57.png",2200 11/07 Malisheva vs FK Buducnost Podgorica # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/76cee4e0cba92315015f7a8141bbd4b6.png",2300 11/07 ASK Bravo Publikum vs Connahs Quay Nomads FC # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/5ef6703cd46b664af49e25a398161d6a.png",2300 11/07 FC Noah vs FK Shkendija 79 # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/aed5cf646525b8a7fb02dad65f3d2d80.png",2300 11/07 Brunos Magpie vs Derry City # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/4fdb9204ec3896d25cfa4e303c23bd21.jpg",2330 11/07 Atletic Club D Escaldes vs F91 Dudelange # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/fcd8dc280beafdd1681f5e0c6a8e038d.png",2330 11/07 JK Tallinna Kalev vs Urartu # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/6be65a265ff052f7736d951643b2750c.png",0000 12/07 Sheriff Tiraspol vs Zira FK # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/983e56ee1d89379148cbb1d28384b6af.png",0000 12/07 Elfsborg vs Pafos FC # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/fcab910b1523f8f70972681169c4193c.png",0000 12/07 Paksi SE Honlapja vs Corvinul Hunedoara # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/f2080d67ed58f7c9049dae1a7cb5ad4c.png",0000 12/07 MFK Ruzomberok vs Tobol Kostanai # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/67c32fe6099ca692850e8d4e6cf60c0a.png",0000 12/07 UNA Strassen vs KuPs # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png",0000 12/07 Vaasa VPS vs FK Zalgiris Vilnius # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/cad9c0e0d8ed90e53989eb85f98940fa.png",0000 12/07 Torpedo Kutaisi vs KF Tirana # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/cc887a7a155983d6c60c55f87db596d8.png",0000 12/07 Floriana F.C. vs Tre Penne # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/ec6e3233bdb7f61ac0ec2c8464f178d4.png",0000 12/07 FC Torpedo Zhodino vs FC Milsami # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://static.flashscore.com/res/image/data/tUgxR1zB-MyFeHWzn.png",0010 12/07 Reds vs Rockies # other
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/6dd0de0ceab4d0977cbd2a3e8f5c8bb8.png",0030 12/07 LASK Linz vs Galatasaray # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/01a9c435554171a1c59526546b2fae4a.jpg",0030 12/07 Caernarfon vs Crusaders # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://egamersworld.com/_next/image?url=https%3A%2F%2Fegamersworld.com%2Fuploads%2Flol%2Fteams%2Fnigma-galaxy-mena-logo.png&w=256&q=75",0100 12/07 Nigma Galaxy Mena vs Twisted Mind # esports
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/38223fe4413d0e04ce3aff0b23da9c4d.png",0100 12/07 Talaea EI-Gaish vs Zamalek # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/ca2873db2e4098a463b85e2af51d3ad6.png",0100 12/07 Botev Plovdiv vs Maribor # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/86d5514b93200eabb47833999c232703.jpg",0100 12/07 Bala Town F.C. vs Paide Linnameeskond # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/bba1460d33988b65288c0e8328b5d085.png",0100 12/07 Partizani Tirana vs Marsaxlokk FC # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/3bf72dbe870d64929ce0120521717977.png",0130 12/07 Wisla Krakow vs KF Llapi # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/d8a2efc348ad983d2cea1a514fca4228.png",0130 12/07 FK Tikves Kavadarci vs Breidablik # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/b562647138280daa4e6d9bd79a0b5acc.png",0145 12/07 Mornar vs Dinamo Tbilisi # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/5e1e844a787d2210b294edd1b54d9904.png",0145 12/07 Shelbourne vs St Joseph's FC # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/40c76cf491d11d7589c5c65dcc380cd3.png",0145 12/07 SP La Fiorita vs FK Isloch Minsk # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/b95bc960b3da7a0823037c9f0ad86329.png",0200 12/07 Valur Reykjavik vs Vllaznia Shkoder # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/6c69fc2cbf514787c61e2b9e5e55674b.jpg",0200 12/07 Stjarnan Gardabaer vs Linfield FC # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/acb0d80017e970d0e7f20528091e5361.png",0215 12/07 Fram Reykjavik vs KR Reykjavik # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/83b65de5bac0affa4abc6faa2c3a24e6.jpg",0500 12/07 HFX Wanderers FC vs Pacific FC # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://static.flashscore.com/res/image/data/AcX8PwzB-r5trb9zO.png",0505 12/07 Phillies vs Dodgers # other
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/e6a85b64d28f448601e90857eb799140.png",0530 12/07 Palmeiras vs Atletico Clube Goianiense # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://static.flashscore.com/res/image/data/lGlxbdyB-8toS1iya.png",0550 12/07 Rays vs Yankees # other
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png",0600 12/07 New York Liberty vs Chicago Sky # basketball
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://api.sofascore.app/api/v1/team/5981/image",0600 12/07 Flamengo vs Fortaleza # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/1105c0c62d761d64b6f4c3e34f460278.png",0600 12/07 Criciuma vs Fluminense RJ # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://api.sofascore.app/api/v1/team/23495/image",0600 12/07 Papua New Guinea U19 vs New Zealand U19 # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://static.flashscore.com/res/image/data/E92vTtZA-pjxqSmk4.png",0610 12/07 Red Sox vs Athletics # other
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/b44aef0db79a96caff676333b2e5ff7b.png",0730 12/07 Vitoria BA vs Botafogo RJ # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/079e86cebd6511ce807cc6073a3e26ee.png",0730 12/07 Atletico Mineiro vs Sao Paulo # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://static.flashscore.com/res/image/data/Yg133Fg5-pnn58dSo.png",0840 12/07 Diamondbacks vs Braves # other
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/New%20Caledonia.png",0900 12/07 New Caledonia U19 vs Samoa U19 # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/basketball/team/8f06ac7835bf0ddf790691efc2d39aab.png",1430 12/07 Manawatu Jets vs Southland Sharks # basketball
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://egamersworld.com/_next/image?url=https%3A%2F%2Fegamersworld.com%2Fuploads%2Flol%2FteamsV2%2Ffearx-1702754119045.png&w=96&q=75",1500 12/07 FearX vs KT Rolster # esports
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://egamersworld.com/_next/image?url=https%3A%2F%2Fegamersworld.com%2Fuploads%2Flol%2Fteams%2Ft1-logo.png&w=96&q=75",1800 12/07 T1 vs Hanwha Life Esports # esports
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/5b1479508982e6a69ebe42a091dc43db.png",1800 12/07 Qingdao Youth Island vs Zhejiang Greentown # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/4678604b18b8680cf0099fbe9ad9df3d.png",1835 12/07 Cangzhou Mighty Lions vs Wuhan Three Towns # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://static.flashscore.com/res/image/data/pv2alWYA-d2Rnu9LF.png",1835 12/07 Shanghai Port vs Beijing Guoan # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/7afd28d5eb2d4fc3f060399dc689f613.png",1900 12/07 Chengdu Better City FC vs Tianjin Tigers # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/basketball/team/290bb5a5d16c3896908433bad65712dc.png",1930 12/07 Nha Trang Dolphins vs Da Nang Dragons # basketball
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Kazakhstan(1).png",2100 12/07 Kazakhstan (w) vs Romania (w) # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://img.thesports.com/football/team/3091777d4e5cf166b1039ac3fffe05ae.png",2230 12/07 Farul Constanta vs FC Unirea 2004 Slobozia # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Faroe%20Islands.png",2245 12/07 Faroe Islands (w) vs Montenegro (w) # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Armenia.png",2245 12/07 Armenia (w) vs Bulgaria (w) # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://egamersworld.com/_next/image?url=https%3A%2F%2Fegamersworld.com%2Fuploads%2Fcounterstrike%2FteamsV2%2Fsk-gaming-1702922716721.png&w=96&q=75",2300 12/07 SK Gaming vs Team Heretics # esports
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://api.sofascore.app/api/v1/team/6910/image",2300 12/07 Al Ahly SC vs Pyramids FC # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/finland1.png",2300 12/07 Finland (w) vs Norway (w) # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/czech1.png",2300 12/07 Czech (w) vs Spain (w) # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://i.imgur.com/7N4D1wG.png",2300 12/07 Austria (w) vs Poland (w) # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Azerbaijan.png",2300 12/07 Azerbaijan (w) vs Hungary (w) # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://i.imgur.com/nBNgooi.png",2300 12/07 Kosovo (w) vs Ukraine (w) # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/georgia2.png",2300 12/07 Georgia (w) vs Belarus (w) # football
+http://103.101.162.86/vtv1?token=live
+#EXTINF:-1 group-title="SCHEDULE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iceland1.png",2315 12/07 Iceland (w) vs Germany (w) # football
+http://103.101.162.86/vtv1?token=live
