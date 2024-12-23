@@ -1,30 +1,17 @@
-#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
 #EXTINF:-1 group-title="LIVE 1358 2312" tvg-logo="https://img.thesports.com/football/team/8d4c0a5d7192b5e72ba6fc6ebcf9e524.png" ,football # 1500 2312 # HD Nhanh # FC Macarthur vs Central Coast Mariners
-https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=d5828f5c910a3101aa8363ed9dca0d94&wsTime=1734937139&keeptime=21600
-#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=d5828f5c910a3101aa8363ed9dca0d94&wsTime=1734937139&keeptime=21600|Referer=https://i.fdcdn.xyz/
 #EXTINF:-1 group-title="LIVE 1358 2312" tvg-logo="https://img.thesports.com/football/team/8d4c0a5d7192b5e72ba6fc6ebcf9e524.png" ,football # 1500 2312 # HD1 # FC Macarthur vs Central Coast Mariners
-https://oisoxu179569584.akainu.xyz/a9hsLF-i-czkF9it11nptw/Fv2lucGIbhPi2caWYvF5Lg/1734958739031/live/dungHD/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
+https://oisoxu179569584.akainu.xyz/a9hsLF-i-czkF9it11nptw/Fv2lucGIbhPi2caWYvF5Lg/1734958739031/live/dungHD/playlist.m3u8|Referer=https://i.fdcdn.xyz/
+
 #EXTINF:-1 group-title="LIVE 1358 2312" tvg-logo="https://img.thesports.com/football/team/8d4c0a5d7192b5e72ba6fc6ebcf9e524.png" ,football # 1500 2312 # HD2 # FC Macarthur vs Central Coast Mariners
-https://live-kh-1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQ5NTg3MzksInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzQ5MzcxMzl9.lnicRXsF5iHU0tOKt1tym4GnYWXFKk_gsHYavidDsPA-/dungHD/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
+https://live-kh-1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQ5NTg3MzksInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzQ5MzcxMzl9.lnicRXsF5iHU0tOKt1tym4GnYWXFKk_gsHYavidDsPA-/dungHD/playlist.m3u8|Referer=https://i.fdcdn.xyz/
+
 #EXTINF:-1 group-title="LIVE 1358 2312" tvg-logo="https://img.thesports.com/football/team/8d4c0a5d7192b5e72ba6fc6ebcf9e524.png" ,football # 1500 2312 # SD # FC Macarthur vs Central Coast Mariners
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/76fd883fd8383f1c060ae7694b9079d2/1734958739031/live/dungSD/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/76fd883fd8383f1c060ae7694b9079d2/1734958739031/live/dungSD/playlist.m3u8|Referer=https://i.fdcdn.xyz/
+
 #EXTINF:-1 group-title="LIVE 1358 2312" tvg-logo="https://img.thesports.com/football/team/8d4c0a5d7192b5e72ba6fc6ebcf9e524.png" ,football # 1500 2312 # FullHD # FC Macarthur vs Central Coast Mariners
-https://xlcbck90.nsnd.live/A1g3XJBK_lPWVqx40Nwcag/09b8150fd09801bcc1dbb7e4e226d0e0/1734958739/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
-#EXTINF:-1 group-title="LIVE 1358 2312" tvg-logo="https://static.flashscore.com/res/image/data/KKaGREzB-2sm3dfDt.png" ,basketball # 1530 2312 # HD Nhanh # Melbourne United vs Tasmania JackJumpers
-https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=6690cf0872a6a18d6692ff3511dddb60&wsTime=1734937139&keeptime=21600
-#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
-#EXTINF:-1 group-title="LIVE 1358 2312" tvg-logo="https://static.flashscore.com/res/image/data/KKaGREzB-2sm3dfDt.png" ,basketball # 1530 2312 # HD1 # Melbourne United vs Tasmania JackJumpers
-https://oisoxu179569584.akainu.xyz/8pj425POruI_70gGztpEMw/Fv2lucGIbhPi2caWYvF5Lg/1734958739672/live/phepHD/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
-#EXTINF:-1 group-title="LIVE 1358 2312" tvg-logo="https://static.flashscore.com/res/image/data/KKaGREzB-2sm3dfDt.png" ,basketball # 1530 2312 # HD2 # Melbourne United vs Tasmania JackJumpers
-https://live-kh-1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQ5NTg3MzksInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzQ5MzcxMzl9.1Xkwsg190c8g_xnE_35CA_rwxS4LSi_iRzN6xbaoN9o-/phepHD/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
-#EXTINF:-1 group-title="LIVE 1358 2312" tvg-logo="https://static.flashscore.com/res/image/data/KKaGREzB-2sm3dfDt.png" ,basketball # 1530 2312 # SD # Melbourne United vs Tasmania JackJumpers
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/13c3fea96af1e829e9ccc1b218eb9d9a/1734958739672/live/phepSD/playlist.m3u8
+https://xlcbck90.nsnd.live/A1g3XJBK_lPWVqx40Nwcag/09b8150fd09801bcc1dbb7e4e226d0e0/1734958739/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8|Referer=https://i.fdcdn.xyz/
+
 #EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
 #EXTINF:-1 group-title="LIVE 1358 2312" tvg-logo="https://static.flashscore.com/res/image/data/KKaGREzB-2sm3dfDt.png" ,basketball # 1530 2312 # FullHD # Melbourne United vs Tasmania JackJumpers
 https://xlcbck90.nsnd.live/_GXWLDnW-1d8pxB29dW9dA/bb30dc1883f5f92057cd67eec640c4d0/1734958739/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
