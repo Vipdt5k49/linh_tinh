@@ -36,7 +36,7 @@
         <mxCell id="TsGcdmjitLyqCnz7x5hg-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="3. Kiểm tra các nghiệp vụ, cập nhật đầu ra cảnh báo" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="584.5" as="geometry" />
         </mxCell>
-        <mxCell id="TsGcdmjitLyqCnz7x5hg-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="4. Tạo ticket trên BCCS cho cảnh báo" vertex="1">
+        <mxCell id="TsGcdmjitLyqCnz7x5hg-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="4. Tạo phản ánh, gửi SMS và email cho cảnh báo" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="680" as="geometry" />
         </mxCell>
         <mxCell id="TsGcdmjitLyqCnz7x5hg-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" value="Cấu hình cảnh báo" vertex="1">
