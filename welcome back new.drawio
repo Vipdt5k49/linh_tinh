@@ -67,7 +67,7 @@
             <mxPoint x="7" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sd2RBxT5PQ9iYL-LGFmJ-28" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;font&gt;trong vòng 30 phút trước và 5 phút sau có tồn tại LU&lt;/font&gt;" vertex="1">
+        <mxCell id="Sd2RBxT5PQ9iYL-LGFmJ-28" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;font&gt;trong vòng 30 phút trước và 2 phút sau có tồn tại LU&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="100" x="860" y="260" as="geometry" />
         </mxCell>
         <mxCell id="ULogsUKsNFFnN8WLVaaq-73" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sd2RBxT5PQ9iYL-LGFmJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ULogsUKsNFFnN8WLVaaq-72" value="">
