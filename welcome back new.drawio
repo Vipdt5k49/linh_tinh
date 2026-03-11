@@ -117,7 +117,7 @@
             <mxPoint x="-20" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ULogsUKsNFFnN8WLVaaq-66" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;" value="Trong vòng 7 ngày trước có nhận tin welcome back" vertex="1">
+        <mxCell id="ULogsUKsNFFnN8WLVaaq-66" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;" value="Trong vòng 7 ngày trước có nhận tin" vertex="1">
           <mxGeometry height="80" width="80" x="990" y="545" as="geometry" />
         </mxCell>
         <mxCell id="ULogsUKsNFFnN8WLVaaq-67" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="" vertex="1">
@@ -126,7 +126,7 @@
         <mxCell id="ULogsUKsNFFnN8WLVaaq-68" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ULogsUKsNFFnN8WLVaaq-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ULogsUKsNFFnN8WLVaaq-70" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULogsUKsNFFnN8WLVaaq-69" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gửi tin welcome back" vertex="1">
+        <mxCell id="ULogsUKsNFFnN8WLVaaq-69" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gửi tin" vertex="1">
           <mxGeometry height="60" width="120" x="970" y="660" as="geometry" />
         </mxCell>
         <mxCell id="ULogsUKsNFFnN8WLVaaq-70" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" value="" vertex="1">
