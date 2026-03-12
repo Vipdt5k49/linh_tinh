@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.6.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1358" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -67,13 +67,13 @@
             <mxPoint x="7" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sd2RBxT5PQ9iYL-LGFmJ-28" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;font&gt;trong vòng 30 phút trước và 2 phút sau có tồn tại LU&lt;/font&gt;" vertex="1">
+        <mxCell id="Sd2RBxT5PQ9iYL-LGFmJ-28" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font&gt;trong vòng 30 phút trước và 2 phút sau có tồn tại LU&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="100" x="860" y="260" as="geometry" />
         </mxCell>
         <mxCell id="ULogsUKsNFFnN8WLVaaq-73" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Sd2RBxT5PQ9iYL-LGFmJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ULogsUKsNFFnN8WLVaaq-72" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sd2RBxT5PQ9iYL-LGFmJ-33" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="cập nhật lỗi: tồn tại bản tin LU" vertex="1">
+        <mxCell id="Sd2RBxT5PQ9iYL-LGFmJ-33" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" value="cập nhật lỗi: tồn tại bản tin LU" vertex="1">
           <mxGeometry height="60" width="120" x="700" y="270" as="geometry" />
         </mxCell>
         <mxCell id="ULogsUKsNFFnN8WLVaaq-54" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="" vertex="1">
