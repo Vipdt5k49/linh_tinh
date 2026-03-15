@@ -1,46 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1,Como - AS Roma
-https://pull-live7.fastestcdn-global.com/live/f1a69740f98840c689f6d963379fb634/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
-
 #EXTINF:-1,Real Betis - RC Celta
-https://pull-live7.fastestcdn-global.com/live/97af68e4453843a7a2180a9a195109d3/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/97af68e4453843a7a2180a9a195109d3/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/Real Betis-vs-RC Celta
 
 #EXTINF:-1,VfB Stuttgart - RB Leipzig
-https://pull-live7.fastestcdn-global.com/live/d4cb434d075049a98110ddf3c904dacd/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/d4cb434d075049a98110ddf3c904dacd/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/VfB Stuttgart-vs-RB Leipzig
 
 #EXTINF:-1,FC Universitatea Cluj - CFR Cluj
-https://pull-live7.fastestcdn-global.com/live/46190e821abc4bc1bff5c725437e6813/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/46190e821abc4bc1bff5c725437e6813/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/FC Universitatea Cluj-vs-CFR Cluj
 
 #EXTINF:-1,Lazio - AC Milan
-https://pull-live7.fastestcdn-global.com/live/31f5a42b2a154203ba97f1e6a5f0cba3/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/31f5a42b2a154203ba97f1e6a5f0cba3/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/Lazio-vs-AC Milan
 
 #EXTINF:-1,Stade Rennais FC - LOSC Lille
-https://pull-live7.fastestcdn-global.com/live/add85e6e9578402cb0e398384ad43c9c/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/add85e6e9578402cb0e398384ad43c9c/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/Stade Rennais FC-vs-LOSC Lille
 
 #EXTINF:-1,Real Sociedad - CA Osasuna
-https://pull-live7.fastestcdn-global.com/live/2ddc8835883a43ca8424ee4b9b197172/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/2ddc8835883a43ca8424ee4b9b197172/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/Real Sociedad-vs-CA Osasuna
 
 #EXTINF:-1,Bandirmaspor - Iğdır FK
-https://pull-live7.fastestcdn-global.com/live/e5b4202db36c43aca621ffd4f3af7fd8/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/e5b4202db36c43aca621ffd4f3af7fd8/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/Bandirmaspor-vs-Iğdır FK
 
 #EXTINF:-1,Tanjong Pagar Utd - Tampines Rovers FC
-https://pull-live7.fastestcdn-global.com/live/04b69d4f60f34d29be0fe7b7b46d356e/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/04b69d4f60f34d29be0fe7b7b46d356e/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/Tanjong Pagar Utd-vs-Tampines Rovers FC
 
 #EXTINF:-1,FC Kairat Almaty - FK Aktobe Lento
-https://pull-live7.fastestcdn-global.com/live/53dbc8778d964dc38350c3cf5161da19/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/53dbc8778d964dc38350c3cf5161da19/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/FC Kairat Almaty-vs-FK Aktobe Lento
 
 #EXTINF:-1,FC Botosani - FC Unirea 2004 Slobozia
-https://pull-live7.fastestcdn-global.com/live/9c03bc9eeadc4b7cbebfd3d4b4b5f6a1/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/9c03bc9eeadc4b7cbebfd3d4b4b5f6a1/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/FC Botosani-vs-FC Unirea 2004 Slobozia
 
 #EXTINF:-1,Fiorentina U20 - AS Roma U20
-https://pull-live7.fastestcdn-global.com/live/737897277b68413fbf826b03e616114f/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/737897277b68413fbf826b03e616114f/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/Fiorentina U20-vs-AS Roma U20
 
 #EXTINF:-1,Cremonese - Fiorentina
-https://pull-live7.fastestcdn-global.com/live/6012a093d7cb4e05acc3cbc6f70b3ed0/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/6012a093d7cb4e05acc3cbc6f70b3ed0/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/Cremonese-vs-Fiorentina
 
 #EXTINF:-1,Rayo Vallecano - Levante
-https://pull-live7.fastestcdn-global.com/live/62c61a47c9374f98ad12bf6616b86f8d/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/62c61a47c9374f98ad12bf6616b86f8d/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/Rayo Vallecano-vs-Levante
 
 #EXTINF:-1,Brentford - Wolverhampton Wanderers
-https://pull-live7.fastestcdn-global.com/live/12b8aa18bb184fda8308e0492d604232/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live
+https://pull-live7.fastestcdn-global.com/live/12b8aa18bb184fda8308e0492d604232/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/Brentford-vs-Wolverhampton Wanderers
