@@ -1,46 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1,philadelphia-76ers-vs-portland-trail-blazers-0500-16-03-2026
-https://cdn-hls.phogatv8.com/live/69b735a92f937_145/index.m3u8?expire=1774219305&sign=4bf839eb034a1e89f937392ece62920c
-
-#EXTINF:-1,tigres-uanl-vs-queretaro-fc-0600-16-03-2026
-https://cdn-hls.phogatv8.com/live/69b735236b8f4_154/index.m3u8?expire=1774219171&sign=9cb36f0bcf3a758bf67c87a576e5a25f
-
-#EXTINF:-1,red-bull-bragantino-vs-sao-paulo-0630-16-03-2026
-https://cdn-hls.phogatv8.com/live/69b739086b8f4_1030/index.m3u8?expire=1774220168&sign=87a5310acc6e16bbe25f9d378cf2cb76
-
-#EXTINF:-1,new-york-knicks-vs-golden-state-warriors-0700-16-03-2026
+#EXTINF:-1,parma-vs-cremonese-2100-21-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
 
-#EXTINF:-1,club-atletico-union-vs-boca-juniors-0800-16-03-2026
+#EXTINF:-1,dagon-port-vs-yadanarbon-fc-1630-16-03-2026
+https://cdn-hls.phogatv8.com/live/69b7c1fd2f937_148/index.m3u8?expire=1774255229&sign=c805921fc96c5f37b4f985eb8fc3531f
+
+#EXTINF:-1,fk-yelimay-semey-vs-altay-fk-1700-16-03-2026
+https://cdn-hls.phogatv8.com/live/69b7d1772f937_14/index.m3u8?expire=1774259191&sign=b5c5e5e9aaea4d65e46605575eb2b5e9
+
+#EXTINF:-1,bandirmaspor-vs-idr-fk-1730-16-03-2026
+https://cdn-hls.phogatv8.com/live/69b7d3386b8f4_1030/index.m3u8?expire=1774259640&sign=1b6db8a1edb5cbc7d4c486f133ea09a0
+
+#EXTINF:-1,parma-u20-vs-lecce-u20-1800-16-03-2026
+https://live.alilicloud.com/live/f3b08e3bbd5ced6b048e416849f189ad/playlist.m3u8
+
+#EXTINF:-1,araratarmenia-fc-vs-fk-van-charentsavan-1830-16-03-2026
+https://cdn-hls.phogatv8.com/live/69b7e0ce2f937_1549/index.m3u8?expire=1774263118&sign=c925bc4e7ad074436689f3746bdfb9b4
+
+#EXTINF:-1,tobol-kostanai-vs-fc-zhetysu-taldykorgan-1900-16-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
 
-#EXTINF:-1,club-america-vs-mazatlan-fc-0800-16-03-2026
+#EXTINF:-1,tanjong-pagar-utd-vs-tampines-rovers-fc-1930-16-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
 
-#EXTINF:-1,atletico-junior-barranquilla-vs-fortaleza-fc-0830-16-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1,rakhine-united-fc-vs-ispe-fc-1630-16-03-2026
+https://cdn-hls.phogatv8.com/live/69b7c7066b8f4_790/index.m3u8?expire=1774256518&sign=ec72d869247b8ad4fac30ddde1508f86
 
-#EXTINF:-1,tigres-women-vs-queretaro-women-0900-16-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
-
-#EXTINF:-1,san-jose-earthquakes-vs-seattle-sounders-0600-16-03-2026
-https://cdn-hls.phogatv8.com/live/69b731f56b8f4_181/index.m3u8?expire=1774218357&sign=b1365927321ebdf5bcac9204de422729
-
-#EXTINF:-1,jaguares-de-cordoba-vs-depindependiente-medellin-0620-16-03-2026
-https://cdn-hls.phogatv8.com/live/69b73ad76b8f4_11/index.m3u8?expire=1774220631&sign=f5b3f6805f0407055ef6c423d235932c
-
-#EXTINF:-1,sacramento-kings-vs-utah-jazz-0900-16-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1,sassuolo-women-vs-inter-milan-women-1800-16-03-2026
+https://cdn-hls.phogatv8.com/live/69b7db706b8f4_1984/index.m3u8?expire=1774261744&sign=943ee69ef2e317b2d29080853b033948
 
 #EXTINF:-1,kogas-vs-anyang-jungkwanjang-1700-16-03-2026
+https://cdn-hls.phogatv8.com/live/69b7cfbf6b8f4_742/index.m3u8?expire=1774258751&sign=02bec2b24fce526c8e3b6b78bd350170
+
+#EXTINF:-1,atlanta-hawks-vs-orlando-magic-0600-17-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
 
-#EXTINF:-1,rip-city-remix-vs-south-bay-lakers-0500-16-03-2026
-https://live.alilicloud.com/live/8eed9b448f6028f04ecf31950b973ab2/playlist.m3u8
+#EXTINF:-1,washington-wizards-vs-golden-state-warriors-0600-17-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
 
-#EXTINF:-1,mexico-city-capitanes-vs-memphis-hustle-0500-16-03-2026
-https://live.alilicloud.com/live/fbd5e959d03dcd5325c794c2f3f6e612/playlist.m3u8
+#EXTINF:-1,boston-celtics-vs-phoenix-suns-0630-17-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
 
-#EXTINF:-1,puerto-rico-women-vs-senegal-women-0700-16-03-2026
-https://live.alilicloud.com/live/2d0bd1b423dc7daf4d92e37db60da5e3/playlist.m3u8
+#EXTINF:-1,brooklyn-nets-vs-portland-trail-blazers-0630-17-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+
+#EXTINF:-1,chicago-bulls-vs-memphis-grizzlies-0700-17-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+
+#EXTINF:-1,new-orleans-pelicans-vs-dallas-mavericks-0700-17-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+
+#EXTINF:-1,houston-rockets-vs-los-angeles-lakers-0830-17-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+
+#EXTINF:-1,samuele-pieri-vs-gerard-campana-lee-1600-16-03-2026
+https://live.alilicloud.com/live/6607b883385bf23baee655addf5fcd5b/playlist.m3u8
+
+#EXTINF:-1,laurent-lokoli-vs-ergi-kirkin-1600-16-03-2026
+https://live.alilicloud.com/live/f3e064381893addd815ac1aa9f6d115c/playlist.m3u8
+
+#EXTINF:-1,andrea-fiorentini-vs-matyas-cerny-1600-16-03-2026
+https://live.alilicloud.com/live/02218893a7fc2418314e316896d31d8a/playlist.m3u8
+
+#EXTINF:-1,denis-yevseyev-vs-filip-pieczonka-1700-16-03-2026
+https://live.alilicloud.com/live/ba7fb4c2bd85240e0651e23c63a30e7e/playlist.m3u8
+
+#EXTINF:-1,frederico-ferreira-silva-vs-rudolf-molleker-1700-16-03-2026
+https://live.alilicloud.com/live/cdba564a072322f36040086c032ee2a2/playlist.m3u8
