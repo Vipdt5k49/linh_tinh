@@ -1,61 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",parma-vs-cremonese-2100-21-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",parma-vs-cremonese-2100-21-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",dagon-port-vs-yadanarbon-fc-1600-16-03-2026
-https://cdn-hls.phogatv8.com/live/69b7c1fd2f937_148/index.m3u8?expire=1774255229&sign=c805921fc96c5f37b4f985eb8fc3531f||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 16:08:07",ulytau-zhezkazgan-vs-kyzylzhar-petropavlovsk-1600-16-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",ulytau-zhezkazgan-vs-kyzylzhar-petropavlovsk-1600-16-03-2026
 https://cdn-hls.phogatv8.com/live/69b7c0df6b8f4_793/index.m3u8?expire=1774254943&sign=d51e4366ee976572537eb5d31a12241c||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",irtysh-pavlodar-vs-fk-atyrau-1700-16-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",dagon-port-vs-yadanarbon-fc-1630-16-03-2026
+https://cdn-hls.phogatv8.com/live/69b7c1fd2f937_148/index.m3u8?expire=1774255229&sign=c805921fc96c5f37b4f985eb8fc3531f||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 17:01:07",fk-yelimay-semey-vs-altay-fk-1700-16-03-2026
+https://cdn-hls.phogatv8.com/live/69b7d1772f937_14/index.m3u8?expire=1774259191&sign=b5c5e5e9aaea4d65e46605575eb2b5e9||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 17:01:07",bandirmaspor-vs-idr-fk-1730-16-03-2026
+https://cdn-hls.phogatv8.com/live/69b7d3386b8f4_1030/index.m3u8?expire=1774259640&sign=1b6db8a1edb5cbc7d4c486f133ea09a0||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 17:01:07",araratarmenia-fc-vs-fk-van-charentsavan-1830-16-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",fk-yelimay-semey-vs-altay-fk-1700-16-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",tobol-kostanai-vs-fc-zhetysu-taldykorgan-1900-16-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",bandirmaspor-vs-idr-fk-1730-16-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",tanjong-pagar-utd-vs-tampines-rovers-fc-1930-16-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",parma-u20-vs-lecce-u20-1800-16-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 16:08:07",araratarmenia-fc-vs-fk-van-charentsavan-1830-16-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 16:08:07",rakhine-united-fc-vs-ispe-fc-1630-16-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",rakhine-united-fc-vs-ispe-fc-1630-16-03-2026
 https://cdn-hls.phogatv8.com/live/69b7c7066b8f4_790/index.m3u8?expire=1774256518&sign=ec72d869247b8ad4fac30ddde1508f86||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",sassuolo-women-vs-inter-milan-women-1800-16-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",sassuolo-women-vs-inter-milan-women-1800-16-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",kogas-vs-anyang-jungkwanjang-1700-16-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",kogas-vs-anyang-jungkwanjang-1700-16-03-2026
+https://cdn-hls.phogatv8.com/live/69b7cfbf6b8f4_742/index.m3u8?expire=1774258751&sign=02bec2b24fce526c8e3b6b78bd350170||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 17:01:07",atlanta-hawks-vs-orlando-magic-0600-17-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",atlanta-hawks-vs-orlando-magic-0600-17-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",washington-wizards-vs-golden-state-warriors-0600-17-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",washington-wizards-vs-golden-state-warriors-0600-17-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",boston-celtics-vs-phoenix-suns-0630-17-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",boston-celtics-vs-phoenix-suns-0630-17-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",brooklyn-nets-vs-portland-trail-blazers-0630-17-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",brooklyn-nets-vs-portland-trail-blazers-0630-17-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",chicago-bulls-vs-memphis-grizzlies-0700-17-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",chicago-bulls-vs-memphis-grizzlies-0700-17-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",new-orleans-pelicans-vs-dallas-mavericks-0700-17-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",new-orleans-pelicans-vs-dallas-mavericks-0700-17-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",houston-rockets-vs-los-angeles-lakers-0830-17-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 16:08:07",houston-rockets-vs-los-angeles-lakers-0830-17-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 16:08:07",samuele-pieri-vs-gerard-campana-lee-1600-16-03-2026
-https://live.alilicloud.com/live/6607b883385bf23baee655addf5fcd5b/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 16:08:07",laurent-lokoli-vs-ergi-kirkin-1600-16-03-2026
+#EXTINF:-1 group-title="thapcamtv 17:01:07",laurent-lokoli-vs-ergi-kirkin-1600-16-03-2026
 https://live.alilicloud.com/live/f3e064381893addd815ac1aa9f6d115c/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 17:01:07",andrea-fiorentini-vs-matyas-cerny-1600-16-03-2026
+https://live.alilicloud.com/live/02218893a7fc2418314e316896d31d8a/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 17:01:07",samuele-pieri-vs-gerard-campana-lee-1600-16-03-2026
+https://live.alilicloud.com/live/6607b883385bf23baee655addf5fcd5b/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
