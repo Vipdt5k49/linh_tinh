@@ -1,22 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="gavangtv 01:19:12",Fiorentina U20 - AS Roma U20
-https://pull-live7.fastestcdn-global.com/live/737897277b68413fbf826b03e616114f/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
+#EXTINF:-1 group-title="thapcamtv 06:23:17",racing-club-de-avellaneda-vs-estudiantes-rio-cuarto-0600-17-03-2026
+https://cdn-hls.phogatv8.com/live/69b884f62f937_26/index.m3u8?expire=1774305142&sign=44c25264b6c1dfc1d9f272f4c4bb0ed3||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="gavangtv 01:19:12",FC Universitatea Cluj - CFR Cluj
-https://pull-live7.fastestcdn-global.com/live/46190e821abc4bc1bff5c725437e6813/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
-
-#EXTINF:-1 group-title="thapcamtv 01:19:12",bodrum-fk-vs-boluspor-0000-17-03-2026
-https://cdn-hls.phogatv8.com/live/69b8310f2f937_1984/index.m3u8?expire=1774283663&sign=726e065225e1ea33f59a3d0e161ae99b||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 01:19:12",aljazirauae-vs-khor-fakkan-ssc-0030-17-03-2026
-https://cdn-hls.phogatv8.com/live/69b837826b8f4_154/index.m3u8?expire=1774285314&sign=fd71b1a121ef6fc6a88fed153bbcc92c||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 01:19:12",dabba-alfujairah-vs-shabab-al-ahli-0030-17-03-2026
-https://cdn-hls.phogatv8.com/live/69b8356a2f937_1030/index.m3u8?expire=1774284778&sign=288bf0b8ed4b35e768f157be2c8fd426||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 01:19:12",pogon-szczecin-vs-korona-kielce-0100-17-03-2026
-https://cdn-hls.phogatv8.com/live/69b83e9c6b8f4_157/index.m3u8?expire=1774287132&sign=898f8ad28e5a6282890ca7337dec5856||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 01:19:12",silkeborg-vs-vejle-0100-17-03-2026
-https://cdn-hls.phogatv8.com/live/69b83d696b8f4_181/index.m3u8?expire=1774286825&sign=6d7963a5a8d3e92d2feea939babb946d||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 06:23:17",chapecoense-sc-vs-gremio-rs-0600-17-03-2026
+https://cdn-hls.phogatv8.com/live/69b884e82f937_181/index.m3u8?expire=1774305128&sign=e798941eb6498719349be5daf88091f7||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
