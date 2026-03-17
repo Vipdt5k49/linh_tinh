@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="gavangtv 21:19:04",Atletico de Madrid U19 - Club Brugge U19 - 2026-03-17 13:00:00
-https://pull-live7.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
+#EXTINF:-1 group-title="gavangtv 00:06:47",Lokomotiv Sofia - Septemvri Sofia - 2026-03-17T16:00:00
+https://pull-live7.fastestcdn-global.com/live/76ab4db008b545299d82fb0c8c663cef/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
 
-#EXTINF:-1 group-title="thapcamtv 21:19:04",atletico-de-madrid-u19-vs-club-brugge-u19-2000-17-03-2026
-https://cdn-hls.phogatv8.com/live/69b94b1d2f937_157/index.m3u8?expire=1774355869&sign=8a24b294a8203b17ae4e4e199e54df24||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 00:06:47",lokomotiv-sofia-vs-septemvri-sofia-2300-17-03-2026
+https://cdn-hls.phogatv8.com/live/69b973806b8f5_1984/index.m3u8?expire=1774366208&sign=bd0b0524e50f4dc905c18c9e10acf7da||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 00:06:47",fk-krasnodar-vs-cska-moscow-2330-17-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 00:06:47",fenerbahce-vs-gazisehir-gaziantep-0000-18-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
