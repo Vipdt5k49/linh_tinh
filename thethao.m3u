@@ -1,22 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="gavangtv 17:55:33",China Women - Australia Women - 2026-03-17T10:00:00
-https://pull-live7.fastestcdn-global.com/live/978dcf17f9f84f81bc75334156121e56/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
+#EXTINF:-1 group-title="gavangtv 19:05:20",FK Kaspyi Aktau - Okzhetpes - 2026-03-17T12:00:00
+https://pull-live7.fastestcdn-global.com/live/9ca301e08b694089a92f26158696ea21/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
 
-#EXTINF:-1 group-title="gavangtv 17:55:33",China Women - Australia Women - 2026-03-17T10:00:00
-https://pull-live7.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
+#EXTINF:-1 group-title="gavangtv 19:05:20",Atletico de Madrid U19 - Club Brugge U19 - 2026-03-17T13:00:00
+https://pull-live7.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
 
-#EXTINF:-1 group-title="thapcamtv 17:55:33",tonkid-saehengtonrug-saeheng-vs-koceila-mammeri-tanina-violette-mammeri-1740-17-03-2026
+#EXTINF:-1 group-title="gavangtv 19:05:20",Pattani - Buriram United - 2026-03-18T12:00:00
+https://pull-live7.fastestcdn-global.com/live/e9fea2a311af49fa8a5cc4f3628857af/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
+
+#EXTINF:-1 group-title="thapcamtv 19:05:20",tonkid-saehengtonrug-saeheng-vs-koceila-mammeri-tanina-violette-mammeri-1740-17-03-2026
 https://cdn-hls.phogatv8.com/live/69b906fd2f937_154/index.m3u8?expire=1774338429&sign=6535c60ca696cfd59a8df99ef123db15||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 17:55:33",aymeric-tores--kirsten-de-wit-vs-tsai-fu-cheng--sung-yuhsuan-1720-17-03-2026
+#EXTINF:-1 group-title="thapcamtv 19:05:20",aymeric-tores--kirsten-de-wit-vs-tsai-fu-cheng--sung-yuhsuan-1720-17-03-2026
 https://cdn-hls.phogatv8.com/live/69b90a0e2f937_148/index.m3u8?expire=1774339214&sign=5434e25aba14405698a0055a74cdca93||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 17:55:33",ai-po-yu--lin-xiao-min-vs-andy-buijk--meerte-loos-1740-17-03-2026
+#EXTINF:-1 group-title="thapcamtv 19:05:20",ai-po-yu--lin-xiao-min-vs-andy-buijk--meerte-loos-1740-17-03-2026
 https://cdn-hls.phogatv8.com/live/69b905592f937_145/index.m3u8?expire=1774338009&sign=dff7e24e26fd6240f3e1bb6dc78c860d||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 17:55:33",gimcheon-sangmu-football-club-vs-gwangju-football-club-1730-17-03-2026
+#EXTINF:-1 group-title="thapcamtv 19:05:20",gimcheon-sangmu-football-club-vs-gwangju-football-club-1730-17-03-2026
 https://cdn-hls.phogatv8.com/live/69b924d42f937_1549/index.m3u8?expire=1774346068&sign=198574d39656e91d2691d05e748def75||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 17:55:33",rajasthan-united-fc-vs-real-kashmir-1730-17-03-2026
+#EXTINF:-1 group-title="thapcamtv 19:05:20",rajasthan-united-fc-vs-real-kashmir-1730-17-03-2026
 https://cdn-hls.phogatv8.com/live/69b9280b2f937_157/index.m3u8?expire=1774346891&sign=6518e788d95001e290ec9c90f7ace3b0||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
