@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="gavangtv 01:01:08",Sporting CP - Bodo Glimt - 2026-03-17T17:45:00
+https://pull-live7.fastestcdn-global.com/live/702e3b71fb064e07987c05f68c59e328/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
+
+#EXTINF:-1 group-title="thapcamtv 01:01:08",sporting-cp-vs-bodo-glimt-0045-18-03-2026
+https://cdn-hls.phogatv8.com/live/69b98f8357b10_1210/index.m3u8?expire=1774373379&sign=c278fe0eb316edfad3cdb496bfa2d812||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 01:01:08",fk-krasnodar-vs-cska-moscow-2330-17-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 01:01:08",alwahda-fc-vs-al-ain-fc-0030-18-03-2026
+https://cdn-hls.phogatv8.com/live/69b987bd57b10_1030/index.m3u8?expire=1774371389&sign=ebf9a1050bda8de22e0f198a0619575e||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
