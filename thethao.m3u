@@ -1,4 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="thapcamtv 08:35:05",atlas-women-vs-monterrey-women-0800-17-03-2026
-https://cdn-hls.phogatv8.com/live/69b8a13a6b8f4_1984/index.m3u8?expire=1774312378&sign=38c9137dc388549fae53ca2fa841ba25||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="gavangtv 10:51:36",Leon Women - Mazatlan FC Women
+https://pull-live7.fastestcdn-global.com/live/b7daaddf2b9444e5a91274684f404002/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
+
+#EXTINF:-1 group-title="thapcamtv 10:51:36",houston-rockets-vs-los-angeles-lakers-0830-17-03-2026
+https://cdn-hls.phogatv8.com/live/69b8b1532f937_742/index.m3u8?expire=1774316499&sign=166deb965823c909e3704ea104f4d274||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 10:51:36",los-angeles-clippers-vs-san-antonio-spurs-0900-17-03-2026
+https://cdn-hls.phogatv8.com/live/69b8b79e2f937_760/index.m3u8?expire=1774318110&sign=15634c794e2d045896899879134bb0f6||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 10:51:36",club-america-women-vs-toluca-women-0900-17-03-2026
+https://cdn-hls.phogatv8.com/live/69b8b2f76b8f4_154/index.m3u8?expire=1774316919&sign=888932c6b066f03415407eb916e29d25||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 10:51:36",leon-women-vs-mazatlan-fc-women-1005-17-03-2026
+https://cdn-hls.phogatv8.com/live/69b8b9356b8f4_8472/index.m3u8?expire=1774318517&sign=09dce61d5af09c49849e1343cb94e83c||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
