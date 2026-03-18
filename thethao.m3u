@@ -1,31 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="gavangtv 19:22:48",SHB Da Nang - Thep Xanh Nam Dinh FC - 2026-03-18T11:00:00
+#EXTINF:-1 group-title="gavangtv 19:37:28",SHB Da Nang - Thep Xanh Nam Dinh FC - 2026-03-18T11:00:00
 https://pull-live7.fastestcdn-global.com/live/6a7087e7e88344e1be581b2484d0141c/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
 
-#EXTINF:-1 group-title="gavangtv 19:22:48",Pattani - Buriram United - 2026-03-18T12:00:00
+#EXTINF:-1 group-title="gavangtv 19:37:28",Pattani - Buriram United - 2026-03-18T12:00:00
 https://pull-live7.fastestcdn-global.com/live/e9fea2a311af49fa8a5cc4f3628857af/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
 
-#EXTINF:-1 group-title="thapcamtv 19:22:48",anna-tatranova-vs-natsuki-nidaira-1745-18-03-2026
+#EXTINF:-1 group-title="thapcamtv 19:37:28",anna-tatranova-vs-natsuki-nidaira-1745-18-03-2026
 https://cdn-hls.phogatv8.com/live/69ba5ee157b10_148/index.m3u8?expire=1774426465&sign=40148ccfc6373c3c12e1d561319eee28||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 19:22:48",shb-da-nang-vs-thep-xanh-nam-dinh-fc-1800-18-03-2026
+#EXTINF:-1 group-title="thapcamtv 19:37:28",shb-da-nang-vs-thep-xanh-nam-dinh-fc-1800-18-03-2026
 https://cdn-hls.phogatv8.com/live/69ba825b57b10_157/index.m3u8?expire=1774435547&sign=56450c97c8227d928b835742196c011d||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 19:22:48",adnan-maulanaindah-cahya-sari-jamil-vs-yuta-watanabemaya-taguchi-1810-18-03-2026
+#EXTINF:-1 group-title="thapcamtv 19:37:28",adnan-maulanaindah-cahya-sari-jamil-vs-yuta-watanabemaya-taguchi-1810-18-03-2026
 https://cdn-hls.phogatv8.com/live/69ba586b57b10_145/index.m3u8?expire=1774424811&sign=387879045ed98320cc9cadd99ab1228d||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
 
-#EXTINF:-1 group-title="thapcamtv 19:22:48",machida-zelvia-vs-kashima-antlers-1730-18-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 19:22:48",incheon-united-club-vs-daejeon-citizen-1730-18-03-2026
-https://cdn-hls.phogatv8.com/live/69ba759357b10_11/index.m3u8?expire=1774432275&sign=04dfe2e2d0cb194ec8b05264da64e1e0||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 19:22:48",bucheon-fc-1995-vs-gangwon-football-club-1730-18-03-2026
-https://cdn-hls.phogatv8.com/live/69ba798457b10_26/index.m3u8?expire=1774433284&sign=1dd1be27283755871db6612d582a93d6||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 19:22:48",metalist-1925-kharkivu21-vs-sc-poltava-u21-1730-18-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
-
-#EXTINF:-1 group-title="thapcamtv 19:22:48",shamakhi-fk-vs-araz-nakhchivan-1800-18-03-2026
+#EXTINF:-1 group-title="thapcamtv 19:37:28",shamakhi-fk-vs-araz-nakhchivan-1800-18-03-2026
 https://cdn-hls.phogatv8.com/live/69ba79f157b10_14/index.m3u8?expire=1774433393&sign=8da2814ff8db0bb9ede83ce26a61f21b||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 19:37:28",baku-sportinq-fk-vs-mingachevir-1800-18-03-2026
+https://cdn-hls.phogatv8.com/live/69ba8d2057b10_181/index.m3u8?expire=1774438304&sign=9cf8b7ddb1a5b3dd692119c8435e2d67||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 19:37:28",pattani-vs-buriram-united-1900-18-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 19:37:28",port-fc-vs-khonkaen-united-1900-18-03-2026
+https://cdn-hls.phogatv8.com/live/69ba9289560ad_8472/index.m3u8?expire=1774439689&sign=7e54673d4dc2d5b5676f197291b594d7||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
