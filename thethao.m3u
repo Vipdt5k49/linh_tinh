@@ -1,10 +1,1 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="gavangtv 09:46:07",LD Alajuelense - Los Angeles FC - 2026-03-18T01:00:00
-https://pull-live7.fastestcdn-global.com/live/16dbca303ef148fdab7623e9f30407b5/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
-
-#EXTINF:-1 group-title="gavangtv 09:46:07",Cruz Azul - Monterrey - 2026-03-18T03:00:00
-https://pull-live7.fastestcdn-global.com/live/7df33385e9a249bd82dd194bc8b135f2/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
-
-#EXTINF:-1 group-title="thapcamtv 09:46:07",ld-alajuelense-vs-los-angeles-fc-0800-18-03-2026
-https://cdn-hls.phogatv8.com/live/69b9f32d57b10_1984/index.m3u8?expire=1774398893&sign=aabfe31ef597551fc639dc9cdb6a8193||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
