@@ -1,4 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="gavangtv 01:10:14",FC Barcelona - Newcastle United - 2026-03-18 17:45:00
-https://cdn-hls.taoxanh.biz/live/69badf4a326d9_4908/index.m3u8?expire=1774459338&sign=a38ba99525f857868e65051224d66851||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Referer=https://bunchatv1.net/
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36
+https://cdn-hls.phogatv8.com/live/69bb1c9e560ad_148/index.m3u8
