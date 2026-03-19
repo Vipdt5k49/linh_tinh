@@ -1,77 +1,89 @@
 #EXTM3U
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",koceila-mammeri-tanina-violette-mammeri-vs-hu-ling-fangjheng-yi-chieh-2309-19-03-2026
+#EXTINF:-1 group-title="thapcamtv 23:52:59",koceila-mammeri-tanina-violette-mammeri-vs-hu-ling-fangjheng-yi-chieh-2309-19-03-2026
 https://cdn-hls.phogatv8.com/live/69bbd9a557b10_148/index.m3u8?expire=1774523429&sign=d22d6dd2624d55de6b873e69958c3dfb
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",sabah-baku-vs-standard-sumgayit-2215-19-03-2026
+#EXTINF:-1 group-title="thapcamtv 23:52:59",sabah-baku-vs-standard-sumgayit-2215-19-03-2026
 https://cdn-hls.phogatv8.com/live/69bc0a50560ad_157/index.m3u8?expire=1774535888&sign=9386324cdd0df633551d3b1d68a419b8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",wong-ling-ching-vs-malvika-bansod-2240-19-03-2026
+#EXTINF:-1 group-title="thapcamtv 23:52:59",wong-ling-ching-vs-malvika-bansod-2240-19-03-2026
 https://cdn-hls.phogatv8.com/live/69bbd606560ad_793/index.m3u8?expire=1774522502&sign=dd90378fb1035b4266bf998b1dd26be3
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",spartak-varna-vs-ludogorets-razgrad-2300-19-03-2026
+#EXTINF:-1 group-title="thapcamtv 23:52:59",spartak-varna-vs-ludogorets-razgrad-2300-19-03-2026
 https://cdn-hls.phogatv8.com/live/69bc177e560ad_145/index.m3u8?expire=1774539262&sign=f919e26bff6b06e55796e11c0dd65496
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",toma-junior-popov-vs-wang-tzu-wei-2310-19-03-2026
+#EXTINF:-1 group-title="thapcamtv 23:52:59",toma-junior-popov-vs-wang-tzu-wei-2310-19-03-2026
 https://cdn-hls.phogatv8.com/live/69bc069157b10_32/index.m3u8?expire=1774534929&sign=918ad14d332b462da1b8dafdc41b0077
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",magnus-johannesen-vs-wang-zheng-xing-2228-19-03-2026
+#EXTINF:-1 group-title="thapcamtv 23:52:59",magnus-johannesen-vs-wang-zheng-xing-2228-19-03-2026
 https://cdn-hls.phogatv8.com/live/69bbd32d560ad_8661/index.m3u8?expire=1774521773&sign=15a5041be1824d5cd8f5e6c4dd8f04de
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",parma-perm-vs-unics-kazan-2130-19-03-2026
-https://live.alilicloud.com/live/3bc70c2bb733abaa235c0c513eeaa3b9/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",avtodor-saratov-vs-cska-moscow-2200-19-03-2026
-https://live.alilicloud.com/live/0314684906bfe814c591914e9bcb6f7c/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",khimki-moscow-region-vs-ugra-university-2300-19-03-2026
-https://live.alilicloud.com/live/6a883d55db9e9862cee6a7748f7a7217/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",cska-moscow-2-vs-temp-sumz-revda-2300-19-03-2026
+#EXTINF:-1 group-title="thapcamtv 23:52:59",cska-moscow-2-vs-temp-sumz-revda-2300-19-03-2026
 https://live.alilicloud.com/live/67bdbabd9177a54edbf8dea07df8aa85/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",tambov-vs-dome-springs-izhevsk-2300-19-03-2026
-https://live.alilicloud.com/live/42051356bd02d15f3fbecd52db921c66/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",ac-oulu-vs-hba-marsky-2300-19-03-2026
+#EXTINF:-1 group-title="thapcamtv 23:52:59",ac-oulu-vs-hba-marsky-2300-19-03-2026
 https://live.alilicloud.com/live/9abffbd808447340a993b8bcf3c79355/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",scm-craiova-vs-csm-oradea-2300-19-03-2026
-https://live.alilicloud.com/live/1e4ab12ca5b77f92407c2bf11094a8a3/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 23:52:59",tambov-vs-dome-springs-izhevsk-2300-19-03-2026
+https://live.alilicloud.com/live/42051356bd02d15f3fbecd52db921c66/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",cez-nymburk-vs-srsni-pisek-2300-19-03-2026
+#EXTINF:-1 group-title="thapcamtv 23:52:59",cez-nymburk-vs-srsni-pisek-2300-19-03-2026
 https://live.alilicloud.com/live/b27b3b4eb4c78cc63618251bfc45e5da/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",darwin-blanch-vs-struff-jl-2230-19-03-2026
+#EXTINF:-1 group-title="thapcamtv 23:52:59",scm-craiova-vs-csm-oradea-2300-19-03-2026
+https://live.alilicloud.com/live/1e4ab12ca5b77f92407c2bf11094a8a3/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 23:52:59",ohio-state-vs-texas-christian-university-2315-19-03-2026
+https://live.alilicloud.com/live/1f16571ee128491e05d3c9a054fe3c89/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 23:52:59",shum-vs-lokomotiv-plovdiv-2330-19-03-2026
+https://live.alilicloud.com/live/741ccf3f0b73f11dba48ba233d69deaa/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 23:52:59",jyvaskyla-basketball-vs-raholan-pyrkiva-2330-19-03-2026
+https://live.alilicloud.com/live/60af594ee5ee493cfc1e53acf0fe34ec/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 23:52:59",darwin-blanch-vs-struff-jl-2230-19-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",zhang-zhizhen-vs-adrian-mannarino-2230-19-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 23:52:59",marcos-giron-vs-martin-landaluce-2330-19-03-2026
+https://cdn-hls.phogatv8.com/live/69bc1dc0560ad_26/index.m3u8?expire=1774540864&sign=7a6949d80a8103bfd08dc7e725390c0e
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",moise-kouame-vs-zachary-svajda-2100-19-03-2026
-https://live.alilicloud.com/live/db13bd3a7c9c1a60a34dbd649ff36b04/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 23:52:59",ethan-quinn-vs-hubert-hurkacz-2330-19-03-2026
+https://cdn-hls.phogatv8.com/live/69bc237c560ad_742/index.m3u8?expire=1774542332&sign=69679c100c671e4b4b9a568bd3835846
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",erik-greveliusadam-heinonen-vs-michalski-d--simundza-j-2150-19-03-2026
-https://live.alilicloud.com/live/3ce06f79306fa1c718ae300a72a6c398/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 23:52:59",dalma-galfi-vs-elvina-kalieva-2225-19-03-2026
+https://live.alilicloud.com/live/c593de5d36b07d156f7211c6acbd5b50/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 23:21:52",zizou-bergs-vs-jenson-brooksby-2200-19-03-2026
-https://live.alilicloud.com/live/d81f1045265335267fe9f93eb8030f84/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 23:52:59",felix-gill-vs-pablo-carreo-busta-2245-19-03-2026
+https://live.alilicloud.com/live/5893766ae2679759372fc60bd2582b2d/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 23:52:59",alexandra-eala-vs-laura-siegemund-2300-19-03-2026
+https://live.alilicloud.com/live/8568412c9f0e65beeb3005858b76cc3c/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 23:52:59",eva-lys-vs-yulia-starodubtseva-2305-19-03-2026
+https://live.alilicloud.com/live/95b1eb612f36a5ff08e8759306724ff5/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 23:52:59",zhang-zhizhen-vs-adrian-mannarino-2325-19-03-2026
+https://live.alilicloud.com/live/7c5a960e72d533d119872f3051974da6/playlist.m3u8
