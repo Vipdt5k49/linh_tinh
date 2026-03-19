@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://xem2.gv05.live/truc-tiep/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36
-https://pull-live7.fastestcdn-global.com/live/77a472f7b4d743559170a071405421d8/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://bunchatv1.net/
+#EXTINF:-1 group-title="thapcamtv 21:32:40",lo-sin-yan-happy-vs-nguyen-thuy-linh-2100-19-03-2026
+https://cdn-hls.taoxanh.biz/live/69bbe42470a69_133172/index.m3u8?expire=1774526116&sign=65ccb4a04088fbc2706f5e9bb1290032
