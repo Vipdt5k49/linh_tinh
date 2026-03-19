@@ -1,7 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="gavangtv 07:26:40",Inter Miami CF - Nashville - 2026-03-18 23:00:00
+#EXTINF:-1 group-title="gavangtv 07:52:30",Inter Miami CF - Nashville - 2026-03-18 23:00:00
 https://pull-live7.fastestcdn-global.com/live/d95d0256d09840259b51b745a8ad560d/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
 
-#EXTINF:-1 group-title="thapcamtv 07:26:40",inter-miami-cf-vs-nashville-0600-19-03-2026
+#EXTINF:-1 group-title="gavangtv 07:52:30",Club America - Philadelphia Union - 2026-03-19 01:00:00
+https://pull-live7.fastestcdn-global.com/live/9a9e44e59bf443d6905744f051b7de27/index.m3u8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://xem2.gv05.live&Referer=https://xem2.gv05.live/truc-tiep/
+
+#EXTINF:-1 group-title="thapcamtv 07:52:30",inter-miami-cf-vs-nashville-0600-19-03-2026
 https://cdn-hls.phogatv8.com/live/69bb1c9e560ad_148/index.m3u8?expire=1774475038&sign=f5d866892b0203be13e3d2e02fff5ee8||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 07:52:30",clube-de-regatas-vasco-da-gama-vs-fluminense-rj-0730-19-03-2026
+https://cdn-hls.phogatv8.com/live/69bb3cf757b10_181/index.m3u8?expire=1774483319&sign=58578998a9e083a8f5540272134cf73a||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
+
+#EXTINF:-1 group-title="thapcamtv 07:52:30",santos-vs-internacional-rs-0730-19-03-2026
+https://cdn-hls.phogatv8.com/live/69bb3cb757b10_11/index.m3u8?expire=1774483255&sign=2df8add0063b37b19e84adfd464728d0||User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36&Origin=https://thapcamtvbc.mobi&Referer=https://thapcamtvbc.mobi/
