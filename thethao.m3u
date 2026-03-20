@@ -1,37 +1,9 @@
 #EXTM3U
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 10:12:28",depindependiente-medellin-vs-atletico-junior-barranquilla-0830-20-03-2026
-https://cdn-hls.phogatv8.com/live/69bc9d0d57b10_157/index.m3u8?expire=1774573453&sign=e8fa5d54ae3cfc1a1b157d5923f847b3
+#EXTINF:-1 group-title="thapcamtv 12:44:20",albirex-niigata-vs-kataller-toyama-1200-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bcce7b57b10_1984/index.m3u8?expire=1774586107&sign=32d871abce5c387438be4ed36df9b06e
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 10:12:28",charlotte-hornets-vs-orlando-magic-0600-20-03-2026
-https://cdn-hls.phogatv8.com/live/69bca331560ad_742/index.m3u8?expire=1774575025&sign=309e80548e2bd89105e48eeb2f373d64
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 10:12:28",washington-wizards-vs-detroit-pistons-0600-20-03-2026
-https://cdn-hls.phogatv8.com/live/69bc79b6560ad_14/index.m3u8?expire=1774564406&sign=18f1787261bbe06aba36204e246e61b7
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 10:12:28",miami-heat-vs-los-angeles-lakers-0700-20-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 10:12:28",new-orleans-pelicans-vs-los-angeles-clippers-0700-20-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 10:12:28",san-antonio-spurs-vs-phoenix-suns-0700-20-03-2026
-https://cdn-hls.phogatv8.com/live/69bc894157b10_145/index.m3u8?expire=1774568385&sign=f430fe1c42c2f6dfa20a78e6fbb85665
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 10:12:28",utah-jazz-vs-milwaukee-bucks-0800-20-03-2026
-https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 10:12:28",sacramento-kings-vs-philadelphia-76ers-0900-20-03-2026
-https://cdn-hls.phogatv8.com/live/69bcb2c357b10_742/index.m3u8?expire=1774579011&sign=e3eb5099d78ce174acb76ff750e14689
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 10:12:28",mirra-andreeva-vs-mccartney-kessler-0930-20-03-2026
-https://live.alilicloud.com/live/60698a665cef9b5ba7cb89c559978bbf/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 12:44:20",thespa-kusatsu-gunma-vs-shonan-bellmare-1200-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bccf2557b10_181/index.m3u8?expire=1774586277&sign=0818e470aa8774a4605f6b7a6d181fcd
