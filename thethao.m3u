@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 12:44:20",albirex-niigata-vs-kataller-toyama-1200-20-03-2026
+#EXTINF:-1 group-title="thapcamtv 12:45:27",albirex-niigata-vs-kataller-toyama-1200-20-03-2026
 https://cdn-hls.phogatv8.com/live/69bcce7b57b10_1984/index.m3u8?expire=1774586107&sign=32d871abce5c387438be4ed36df9b06e
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 12:44:20",thespa-kusatsu-gunma-vs-shonan-bellmare-1200-20-03-2026
+#EXTINF:-1 group-title="thapcamtv 12:45:27",thespa-kusatsu-gunma-vs-shonan-bellmare-1200-20-03-2026
 https://cdn-hls.phogatv8.com/live/69bccf2557b10_181/index.m3u8?expire=1774586277&sign=0818e470aa8774a4605f6b7a6d181fcd
