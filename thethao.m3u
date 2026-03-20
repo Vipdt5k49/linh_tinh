@@ -1,9 +1,73 @@
 #EXTM3U
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 12:45:27",albirex-niigata-vs-kataller-toyama-1200-20-03-2026
-https://cdn-hls.phogatv8.com/live/69bcce7b57b10_1984/index.m3u8?expire=1774586107&sign=32d871abce5c387438be4ed36df9b06e
+#EXTINF:-1 group-title="thapcamtv 19:34:14",nozomi-okuhara-vs-nguyen-thuy-linh-1930-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bd17ab57b10_148/index.m3u8?expire=1774604843&sign=267395196bddabe4571869d3532166e0
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 12:45:27",thespa-kusatsu-gunma-vs-shonan-bellmare-1200-20-03-2026
-https://cdn-hls.phogatv8.com/live/69bccf2557b10_181/index.m3u8?expire=1774586277&sign=0818e470aa8774a4605f6b7a6d181fcd
+#EXTINF:-1 group-title="thapcamtv 19:34:14",cong-an-ho-chi-minh-city-vs-truong-tuoi-dong-nai-1915-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bd35dc57b10_154/index.m3u8?expire=1774612572&sign=a740e9360b9fc22fbcfa3935e5f3deba
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",lpb-ninh-binh-vs-binh-chung-thong-tin-1915-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bd38c5560ad_157/index.m3u8?expire=1774613317&sign=b62f1afc21936f89d9772e3618632523
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",dalian-yingbo-fc-vs-shanghai-port-fc-1800-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bd26f457b10_1984/index.m3u8?expire=1774608756&sign=b94827fc0ec306afc24340bffe8558be
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",fk-atyrau-vs-zhenis-astana-1800-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bd1f1857b10_793/index.m3u8?expire=1774606744&sign=8048854c6c1b0500c892fd6a18435d67
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",northeast-united-vs-odisha-fc-1830-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bd2b2a560ad_8472/index.m3u8?expire=1774609834&sign=9433c7bd863b4d5ad9d451dbd467b0e8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",fk-van-charentsavan-vs-araratarmenia-fc-1830-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bd283557b10_11/index.m3u8?expire=1774609077&sign=391a86390452334ba22b366bbc30075d
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",qingdao-hainiu-fc-vs-zhejiang-professional-fc-1835-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bd2c17560ad_1210/index.m3u8?expire=1774610071&sign=d29534c691cdc0feb513fa99efd72257
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",guangxi-hengchen-football-club-vs-shanghai-jiading-huilong-1900-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bd313b560ad_14/index.m3u8?expire=1774611387&sign=c459e4e6d012dad9cd8bb2b86b2d5d89
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",margot-lambert--camille-pognant-vs-lin-chihchunyang-chu-yun-1830-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bd034457b10_8661/index.m3u8?expire=1774599620&sign=2438ed118c69d64b8b6253602f43af69
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",suwon-kt-sonicboom-vs-kogas-1700-20-03-2026
+https://cdn-hls.phogatv8.com/live/69bd160a57b10_742/index.m3u8?expire=1774604426&sign=b6675e3f769f2b70a448d422432b9c0f
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",jiangsu-dragons-kentier-vs-guangdong-southern-tigers-1835-20-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",shandong-heroes-reserves-vs-tianjin-pioneers-reserves-1835-20-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",zhejiang-guangsha-lions-vs-beijing-royal-fighters-1835-20-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",shenzhen-vs-xinjiang-flying-tigers-1900-20-03-2026
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",suwon-kt-sonicboom-vs-daegu-kogas-pegasus-1700-20-03-2026
+https://live.alilicloud.com/live/510453fe796075b3ca72039ff9039310/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",jiangsu-dragons-kentier-vs-guangdong-southern-tigers-1835-20-03-2026
+https://live.alilicloud.com/live/3cfb53ad94c2c0d91a3897392bf8b2ef/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
+#EXTINF:-1 group-title="thapcamtv 19:34:14",lukas-neumayer-vs-arthur-gea-1820-20-03-2026
+https://live.alilicloud.com/live/8b4757d4cd70a8f7db960263be0af8d5/playlist.m3u8
