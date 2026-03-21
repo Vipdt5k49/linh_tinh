@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://bunchatv1.net/
-#EXTINF:-1 group-title="buncha",buncha
-https://cdn-hls.taoxanh.biz/live/69bc0d3670a69_73445/index.m3u8?expire=1774536630&sign=041770710749350b812609f8bc3765a6
+#EXTVLCOPT:http-referrer=https://sv2.xaycon2.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="xaycon",xaycon
+https://tfud4gr3dgmtugrzdgpbqgr4ukmmacpsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/xclive.zlylive.com/live/xctv_blv_xaycon/playlist.m3u8?wsSession=89ca445bbb84ddcc13abc1f0-177410291500671&wsIPSercert=936a07dc9f256cce52da95a034c39ca4&wsiphost=local&wsBindIP=1
