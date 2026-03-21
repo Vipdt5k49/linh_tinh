@@ -1,57 +1,37 @@
 #EXTM3U
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",necaxa-vs-club-tijuana-0800-21-03-2026
-https://cdn-hls.phogatv8.com/live/69bdf0a4560ad_181/index.m3u8?expire=1774660388&sign=05ea8c8ac620809c62efd9ffc453a411
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",auckland-fc-vs-macarthur-fc-0900-21-03-2026
+#EXTINF:-1 group-title="thapcamtv 10:36:47",auckland-fc-vs-macarthur-fc-0900-21-03-2026
 https://cdn-hls.phogatv8.com/live/69bdfa0a57b10_11/index.m3u8?expire=1774662794&sign=12fe723200737673b45434ea753afb63
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",guadalupe-fc-vs-sporting-fc-0900-21-03-2026
+#EXTINF:-1 group-title="thapcamtv 10:36:47",guadalupe-fc-vs-sporting-fc-0900-21-03-2026
 https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",denver-nuggets-vs-toronto-raptors-0800-21-03-2026
-https://cdn-hls.phogatv8.com/live/69bdeda1560ad_1210/index.m3u8?expire=1774659617&sign=fcc9d96e2912e3d57d30a0aee8cf3720
+#EXTINF:-1 group-title="thapcamtv 10:36:47",mazatlan-fc-vs-cruz-azul-1006-21-03-2026
+https://cdn-hls.phogatv8.com/live/69be035257b10_154/index.m3u8?expire=1774665170&sign=eeadd25038071f151ddeda7438e89bc0
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",denver-nuggets-vs-toronto-raptors-0800-21-03-2026
-https://live.alilicloud.com/live/0ec558a7aa010c0a24b388ccbbd056f3/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",el-salvador-vs-guatemala-0800-21-03-2026
-https://live.alilicloud.com/live/b6212dcf01f09a1ab0ee253200586525/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",rip-city-remix-vs-raptors-905-0830-21-03-2026
+#EXTINF:-1 group-title="thapcamtv 10:36:47",rip-city-remix-vs-raptors-905-0830-21-03-2026
 https://live.alilicloud.com/live/a638f1b8205acf5f1c8ddc4d5280c1aa/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",florida-gators-vs-prairie-view-am-0843-21-03-2026
+#EXTINF:-1 group-title="thapcamtv 10:36:47",florida-gators-vs-prairie-view-am-0843-21-03-2026
 https://live.alilicloud.com/live/5fd8ffedac857430fc99e4eef5fe0361/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",university-of-miami-vs-missouri-0907-21-03-2026
+#EXTINF:-1 group-title="thapcamtv 10:36:47",university-of-miami-vs-missouri-0907-21-03-2026
 https://live.alilicloud.com/live/d0a11fd21a5d70ab4cb52f405fd76a8d/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",rithvik-choudary-bollipalliarjun-kadhe-vs-mena-f--pacheco-mendez-r-0800-21-03-2026
-https://live.alilicloud.com/live/39400e8bdf49a8967ad4a964e2f7594e/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 10:36:47",uconn-huskies-vs-furman-0931-21-03-2026
+https://live.alilicloud.com/live/f84f2b97e95f2f95558b76b1bfa8a459/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",moise-kouame-vs-jiri-lehecka-0810-21-03-2026
-https://live.alilicloud.com/live/8ea6b7e3d2fd721fd2b6d7fb36da602d/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",arklon-huertas-del-pinoconner-huertas-del-pino-vs-mariano-kestelboimmarcelo-zormann-da-silva-0830-21-03-2026
-https://live.alilicloud.com/live/92c9667b8b9bfe4a51a7e201a40d2c6a/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",luciano-darderi-vs-martin-landaluce-0845-21-03-2026
+#EXTINF:-1 group-title="thapcamtv 10:36:47",luciano-darderi-vs-martin-landaluce-0845-21-03-2026
 https://live.alilicloud.com/live/bfbf64594d24b006cd797a0740a48cfe/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 09:45:27",mariano-navone-vs-valentin-vacherot-0850-21-03-2026
-https://live.alilicloud.com/live/b81807886eaf1fc5da31ec9e75ba194f/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 10:36:47",elena-rybakina-vs-yulia-putintseva-0920-21-03-2026
+https://live.alilicloud.com/live/24d34154825331b3433fa794937cad3c/playlist.m3u8
