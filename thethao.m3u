@@ -1,25 +1,9 @@
 #EXTM3U
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 12:21:29",brisbane-roar-vs-wellington-phoenix-1100-21-03-2026
-https://cdn-hls.phogatv8.com/live/69be14f7560ad_35/index.m3u8?expire=1774669687&sign=91613c1bd2757db1e662c2e6c219cae3
+#EXTINF:-1 group-title="thapcamtv 13:29:23",leeming-institute-of-technology-vs-national-formasa-university-1200-24-03-2026
+https://live.alilicloud.com/live/6e9b1f56cacc68ccd2053d89d81a165c/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 12:21:29",fagiano-okayama-vs-vvaren-nagasaki-1200-21-03-2026
-https://cdn-hls.phogatv8.com/live/69be1ebc560ad_23/index.m3u8?expire=1774672188&sign=f0ed9d485a216e753c65495ebee0f3c6
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 12:21:29",goyang-sono-vs-mobis-phoebus-1200-21-03-2026
-https://cdn-hls.phogatv8.com/live/69be258057b10_742/index.m3u8?expire=1774673920&sign=4f052d31d0885753f5e3c731a0ffed80
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 12:21:29",tokushima-gambarous-vs-tokyo-hachioji-trains-1100-21-03-2026
-https://live.alilicloud.com/live/ea455bfa27f605d13f87a6b2fac8a812/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 12:21:29",goyang-sono-skygunners-vs-ulsan-mobis-phoebus-1200-21-03-2026
-https://live.alilicloud.com/live/6343b247fc74a57bd46e707b3043fc46/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 12:21:29",tokyo-excellence-vs-fukui-blowinds-1205-21-03-2026
-https://live.alilicloud.com/live/c0af526a0edd49d48208164c329fdd8d/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 13:29:23",wu-tunglin-vs-rio-noguchi-1300-24-03-2026
+https://live.alilicloud.com/live/daa8361d3e56d981b3d226399ebb0278/playlist.m3u8
