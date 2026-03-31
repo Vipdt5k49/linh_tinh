@@ -1,85 +1,77 @@
 #EXTM3U
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",real-kashmir-vs-namdhari-fc-1730-25-03-2026
-https://cdn-hls.phogatv8.com/live/69c3b340560ae_145/index.m3u8?expire=1775037888&sign=9c5348c8d80b14403471d1d2937ab584
+#EXTINF:-1 group-title="thapcamtv 19:33:06",china-u23-vs-vietnam-u23-1835-31-03-2026
+https://cdn-hls.phogatv8.com/live/69cba44357b11_154/index.m3u8?expire=1775558339&sign=f91158a6333f04952e88996d4d619f2c
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",sri-lanka-u20-vs-nepal-u20-1745-25-03-2026
-https://cdn-hls.phogatv8.com/live/69c3b6f4560ae_9204/index.m3u8?expire=1775038836&sign=8cd4eb65b82362b4a2bc00f7c2b6e9a4
+#EXTINF:-1 group-title="thapcamtv 19:33:06",vietnam-vs-malaysia-1900-31-03-2026
+https://cdn-hls.phogatv8.com/live/69cbb2f3560af_151/index.m3u8?expire=1775562099&sign=d59422f1c1caf0ac3cfdfad4ad46e3de
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",kasetsart-fc-vs-sisaket-united-1800-25-03-2026
-https://cdn-hls.phogatv8.com/live/69c3b8ae57b11_157/index.m3u8?expire=1775039278&sign=2985b1c4e11c68590e911ff4b763edbf
+#EXTINF:-1 group-title="thapcamtv 19:33:06",kazakhstan-vs-comoros-1900-31-03-2026
+https://cdn-hls.phogatv8.com/live/69cbaf1357b11_157/index.m3u8?expire=1775561107&sign=27d63c198652669d46761e7c60867483
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",croatia-u19-vs-switzerland-u19-1800-25-03-2026
-https://cdn-hls.phogatv8.com/live/69c3bee8560ae_148/index.m3u8?expire=1775040872&sign=5b121eb04bd01ba0f117be2293bc2d6c
+#EXTINF:-1 group-title="thapcamtv 19:33:06",singapore-vs-bangladesh-1900-31-03-2026
+https://cdn-hls.phogatv8.com/live/69cbaf09560af_14/index.m3u8?expire=1775561097&sign=a7d6d84d81921f1387497607eb970d90
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",china-u23-vs-thailand-u23-1835-25-03-2026
-https://cdn-hls.phogatv8.com/live/69c3bf2f560ae_1549/index.m3u8?expire=1775040943&sign=b57a504450fd8fc00e7d87b06331cc0d
+#EXTINF:-1 group-title="thapcamtv 19:33:06",nepal-vs-laos-1900-31-03-2026
+https://cdn-hls.phogatv8.com/live/69cbb0aa57b11_145/index.m3u8?expire=1775561514&sign=d9884ae0037a3cde07b2540990b36f95
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",tuloy-fc-vs-manila-digger-fc-1900-25-03-2026
-https://cdn-hls.phogatv8.com/live/69c3c8e4560ae_1210/index.m3u8?expire=1775043428&sign=0b6f2e53fad7771d2969c38d99fbb82e
+#EXTINF:-1 group-title="thapcamtv 19:33:06",bhutan-vs-brunei-darussalam-1930-31-03-2026
+https://cdn-hls.phogatv8.com/live/69cbb6ff560af_26/index.m3u8?expire=1775563135&sign=59fabd1af61f11c8459d88a023587bbc
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",kazakhstan-vs-namibia-1900-25-03-2026
-https://cdn-hls.phogatv8.com/live/69c3c76157b11_23/index.m3u8?expire=1775043041&sign=9098f72316aebb6ba7b083cf11c789fe
+#EXTINF:-1 group-title="thapcamtv 19:33:06",thailand-vs-turkmenistan-1930-31-03-2026
+https://cdn-hls.phogatv8.com/live/69cbb783560af_32/index.m3u8?expire=1775563267&sign=41bc64446988660e2cb981df44e2f153
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",san-miguel-beermen-vs-converge-fiberxers-1830-25-03-2026
-https://live.alilicloud.com/live/806337e43eecd5dda46d4d3ccbf3ae3c/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",hebei-win-power-women-vs-fujian-xiamen-women-1830-31-03-2026
+https://live.alilicloud.com/live/0d3323df7ed4ba28fd298d9affc5b473/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",hefei-kuangfeng-vs-changsha-yongsheng-1830-25-03-2026
-https://live.alilicloud.com/live/7da9d4e329ff1e6c7dc5a0ea94b42509/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",zhejiang-chouzhou-bank-women-vs-hefei-culture-and-tourism-womens-1830-31-03-2026
+https://live.alilicloud.com/live/d5602045627f62e0bf7bc72750cd5bc2/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",shanghai-blackbird-vs-shandong-honey-badger-1830-25-03-2026
-https://live.alilicloud.com/live/24def7affbdeedd4b1c7005267205adf/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",san-miguel-beermen-vs-macau-black-bears-1830-31-03-2026
+https://live.alilicloud.com/live/98d67727f020c7a851542899835b9589/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",ningbo-rockets-vs-fujian-xunxing-sturgeons-1835-25-03-2026
-https://live.alilicloud.com/live/0934f152abcbe4ea724ed3b0b4909ee9/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",hefei-kuangfeng-vs-changsha-yongsheng-1830-31-03-2026
+https://live.alilicloud.com/live/bf0418ddd83e9854b333bc5e77d66d0c/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",shanxi-loongs-fenjiu-vs-shanghai-jiushi-sharks-1835-25-03-2026
-https://live.alilicloud.com/live/9685d8a4341c0d9b1f6878abb5f76221/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",shanghai-blackbird-vs-shandong-honey-badger-1830-31-03-2026
+https://live.alilicloud.com/live/59eb1e28858e6aae3839fa3091a2ae07/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",guangdong-southern-tigers-vs-sichuan-jinqiang-blue-whales-1835-25-03-2026
-https://live.alilicloud.com/live/d5049832a713b697e4b7c07db3e435de/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",guangdong-southern-tigers-vs-jiangsu-dragons-kentier-1835-31-03-2026
+https://live.alilicloud.com/live/b246254b41563a3e51d2198d3f93dce8/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",jilin-northeast-tigers-vs-liaoning-flying-leopards-1835-25-03-2026
-https://live.alilicloud.com/live/f9e96009917cdb149cfb6521c89547c3/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",jilin-northeast-tigers-vs-shanghai-jiushi-sharks-1835-31-03-2026
+https://live.alilicloud.com/live/06983b3a5c2a8f376e064cd9e52a0e50/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",beijing-shougang-ducks-vs-zhejiang-golden-bulls-1835-25-03-2026
-https://live.alilicloud.com/live/6c023c34f0ed1e822d932fc613508772/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",juan-manuel-cerundolo-vs-kamil-majchrzak-1700-31-03-2026
+https://live.alilicloud.com/live/6b8600199df608b30dd261572d82f8d9/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",leyre-romero-gormaz-vs-suzan-lamens-1800-25-03-2026
-https://live.alilicloud.com/live/b46fb1bffa8d6fce4e097b8d9f2779ae/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",roberto-bautista-agut-vs-titouan-droguet-1750-31-03-2026
+https://live.alilicloud.com/live/fe914a4ce71ae41348db3008d30def3b/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",pablo-llamas-ruiz-vs-dali-blanch-1840-25-03-2026
-https://live.alilicloud.com/live/ab75440efba580ab3a125ce395ece235/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",francesco-maestrelli-vs-botic-van-de-zandschulp-1830-31-03-2026
+https://live.alilicloud.com/live/210bf322d1b0478021de49ba6083e8cb/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",mirceaalexandru-jecanseita-watanabe-vs-karol-drzewieckipiotr-matuszewski-1845-25-03-2026
-https://live.alilicloud.com/live/6abd90bdf458f11af168583df6338b57/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",mattia-bellucci-vs-reda-bennani-1830-31-03-2026
+https://live.alilicloud.com/live/b7663c3860bb2b2fc15606124dad8c39/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",tamara-zidanek-vs-sara-sorribes-tormo-1900-25-03-2026
-https://live.alilicloud.com/live/1403ccda94a09c3a9edf7b1eca91b827/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",federico-cina-vs-francesco-forti-1905-25-03-2026
-https://live.alilicloud.com/live/f363b9c85194ba7f192e951f333d49c6/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/
-#EXTINF:-1 group-title="thapcamtv 19:22:09",matej-dodig-vs-sandro-kopp-1910-25-03-2026
-https://live.alilicloud.com/live/235a153443d9a62f6608b62c422acd1c/playlist.m3u8
+#EXTINF:-1 group-title="thapcamtv 19:33:06",tomas-machacmatej-vocel-vs-rarneodophherbert-1920-31-03-2026
+https://live.alilicloud.com/live/9d723f41426d240bc7294c0c81e2c92e/playlist.m3u8
