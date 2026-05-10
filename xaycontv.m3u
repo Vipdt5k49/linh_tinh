@@ -1,11 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Hamburger SV vs SC Freiburg | BLV Chiến Thần | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Athletic Club vs Valencia | BLV Thợ Lặn | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 
