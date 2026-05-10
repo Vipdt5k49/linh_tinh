@@ -111,6 +111,11 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , Manchester City vs Brentford | BLV Lửng Mật | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_thienbong/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Manchester City vs Brentford | BLV Xây Con | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
 
@@ -126,11 +131,6 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Manchester City vs Brentford | BLV Lửng Mật | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_thienbong/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Lazio vs Inter | BLV Bịp Con | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 
@@ -138,6 +138,16 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Sevilla vs Espanyol | BLV A Cỏ | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , Sunderland vs Manchester United | BLV H+ | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , Fulham vs Bournemouth | BLV Thợ Lặn | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -161,16 +171,6 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_nguoikien/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Sunderland vs Manchester United | BLV H+ | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Fulham vs Bournemouth | BLV Thợ Lặn | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , RB Leipzig vs FC St. Pauli | BLV Bịp Con | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 
@@ -178,6 +178,11 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Cagliari vs Udinese | BLV Hàn Tín | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , Liverpool vs Chelsea | BLV H+ | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -198,11 +203,6 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Liverpool vs Chelsea | BLV Thợ Lặn | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Liverpool vs Chelsea | BLV H+ | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -251,13 +251,13 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Torino vs Sassuolo | BLV Thợ Lặn | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:-1 , Lens vs Nantes | BLV Chiến Thần | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Lens vs Nantes | BLV Chiến Thần | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
+#EXTINF:-1 , Torino vs Sassuolo | BLV Thợ Lặn | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -271,13 +271,13 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 1. FC Kaiserslautern vs Arminia Bielefeld | BLV Thợ Lặn | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:-1 , SC Paderborn 07 vs Karlsruher SC | BLV Xây Con | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , SC Paderborn 07 vs Karlsruher SC | BLV Xây Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
+#EXTINF:-1 , 1. FC Kaiserslautern vs Arminia Bielefeld | BLV Thợ Lặn | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -311,13 +311,13 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_nguoikien/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Philippines U17 W vs Chinese Taipei U17 W | BLV Chiến Thần | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
+#EXTINF:-1 , SC Delhi vs Odisha | BLV Văn Tích | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , SC Delhi vs Odisha | BLV Văn Tích | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
+#EXTINF:-1 , Philippines U17 W vs Chinese Taipei U17 W | BLV Chiến Thần | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -326,13 +326,13 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Heidelberg United vs South Melbourne | BLV Hàn Tín | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
+#EXTINF:-1 , St. Albans Saints vs Green Gully | BLV Thợ Lặn | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , St. Albans Saints vs Green Gully | BLV Thợ Lặn | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:-1 , Heidelberg United vs South Melbourne | BLV Hàn Tín | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -406,13 +406,13 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , National Bank of Egypt vs Ismaily SC | BLV Xây Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
+#EXTINF:-1 , Bodrum FK vs Pendikspor | BLV A Cỏ | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Bodrum FK vs Pendikspor | BLV A Cỏ | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:-1 , National Bank of Egypt vs Ismaily SC | BLV Xây Con | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -436,13 +436,13 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , El Geish vs Ghazl El Mehalla | BLV Thợ Lặn | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:-1 , El Geish vs Ghazl El Mehalla | BLV H+ | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , El Geish vs Ghazl El Mehalla | BLV H+ | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
+#EXTINF:-1 , El Geish vs Ghazl El Mehalla | BLV Thợ Lặn | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -461,13 +461,13 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Vietnam U17 W vs Myanmar U17 W | BLV Người Kiến | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_nguoikien/playlist.m3u8
+#EXTINF:-1 , Vietnam U17 W vs Myanmar U17 W | BLV Chiến Thần | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Vietnam U17 W vs Myanmar U17 W | BLV Chiến Thần | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
+#EXTINF:-1 , Vietnam U17 W vs Myanmar U17 W | BLV Người Kiến | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_nguoikien/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -566,13 +566,13 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Spartak Moscow vs CSKA Moscow | BLV Bịp Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 , Yemen U17 vs Vietnam U17 | BLV Chiến Thần | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Yemen U17 vs Vietnam U17 | BLV Chiến Thần | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
+#EXTINF:-1 , Spartak Moscow vs CSKA Moscow | BLV Bịp Con | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -716,13 +716,13 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Indonesia U17 vs China PR U17 | BLV Xây Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
+#EXTINF:-1 , Indonesia U17 vs China PR U17 | BLV H+ | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Indonesia U17 vs China PR U17 | BLV H+ | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
+#EXTINF:-1 , Indonesia U17 vs China PR U17 | BLV Xây Con | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -761,13 +761,13 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Shandong Luneng vs Shanghai Shenhua | BLV Bịp Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 , Shenyang Urban vs Chengdu Better City | BLV Chiến Thần | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Shenyang Urban vs Chengdu Better City | BLV Chiến Thần | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
+#EXTINF:-1 , Shandong Luneng vs Shanghai Shenhua | BLV Bịp Con | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -777,6 +777,11 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , FC Seoul vs FC Anyang | BLV Hàn Tín | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , Chinese Taipei U17 vs South Korea U17 W | BLV Hàn Tín | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
@@ -791,11 +796,6 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Chinese Taipei U17 vs South Korea U17 W | BLV Hàn Tín | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Concepción vs Huachipato | BLV Hàn Tín | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
 
@@ -803,6 +803,11 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Estudiantes de Rio Cuarto vs Instituto Cordoba | BLV Văn Tích | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , Everton vs Manchester City | BLV Người Kiến | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_nguoikien/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -818,11 +823,6 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Everton vs Manchester City | BLV H+ | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Everton vs Manchester City | BLV Người Kiến | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_nguoikien/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -861,6 +861,16 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , Chelsea vs Nottingham Forest | BLV Thợ Lặn | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , Odisha vs Bengaluru | BLV A Cỏ | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Chelsea vs Nottingham Forest | BLV H+ | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
 
@@ -873,16 +883,6 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_nguoikien/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Chelsea vs Nottingham Forest | BLV Xây Con | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Odisha vs Bengaluru | BLV A Cỏ | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Chelsea vs Nottingham Forest | BLV Thợ Lặn | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -966,6 +966,11 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , Manchester United vs Liverpool | BLV Chiến Thần | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , Manchester United vs Liverpool | BLV H+ | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
 
@@ -976,20 +981,15 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Manchester United vs Liverpool | BLV Chiến Thần | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , FC St. Pauli vs FSV Mainz 05 | BLV A Cỏ | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Sassuolo vs AC Milan | BLV Bịp Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 , Bournemouth vs Crystal Palace | BLV Thợ Lặn | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , Bournemouth vs Crystal Palace | BLV Thợ Lặn | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:-1 , Sassuolo vs AC Milan | BLV Bịp Con | FHD
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
