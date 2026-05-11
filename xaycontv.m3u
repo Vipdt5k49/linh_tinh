@@ -1,36 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 01:45 11/05/2026 | AC Milan vs Atalanta | BLV Thợ Lặn | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 02:00 11/05/2026 | Barcelona vs Real Madrid | BLV H+ | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 02:00 11/05/2026 | Barcelona vs Real Madrid | BLV Lửng Mật | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_thienbong/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 02:00 11/05/2026 | Barcelona vs Real Madrid | BLV Người Kiến | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_nguoikien/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 02:00 11/05/2026 | Monaco vs Lille | BLV Chiến Thần | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 23:30 10/05/2026 | Oviedo vs Getafe | BLV Bịp Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 08:15 11/05/2026 | U.N.A.M. - Pumas vs Club America | BLV Văn Tích | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
 
