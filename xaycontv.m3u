@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 08:15 11/05/2026 | U.N.A.M. - Pumas vs Club America | BLV Văn Tích | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 08:00 11/05/2026 | Los Angeles FC vs Houston Dynamo | BLV Hàn Tín | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 14:00 11/05/2026 | Japan U17 W vs South Korea U17 W | BLV Hàn Tín | FHD
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
 
