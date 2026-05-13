@@ -1,90 +1,165 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 20:00 12/05/2026 | Al Shouleh vs Hottin | BLV A Cỏ | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:-1 , 17:30 13/05/2026 | Nam Dinh vs Selangor | BLV Thợ Lặn | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 23:00 12/05/2026 | Japan U17 vs Indonesia U17 | BLV Bịp Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 , 17:30 13/05/2026 | Nam Dinh vs Selangor | BLV Thợ Lặn | HD
+https://alive.yarncdn.live/xctv_blv_tholan/tracks-v2a1/mono.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 23:20 12/05/2026 | Al Kholood vs Al Okhdood | BLV A Cỏ | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:-1 , 17:30 13/05/2026 | Nam Dinh vs Selangor | BLV Thợ Lặn | SD
+https://alive.yarncdn.live/xctv_blv_tholan/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 00:00 13/05/2026 | Celta Vigo vs Levante | BLV Xây Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
+#EXTINF:-1 , 19:00 13/05/2026 | Buriram United vs Johor Darul Takzim FC | BLV A Cỏ | FHD
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 02:00 13/05/2026 | Southampton vs Middlesbrough | BLV Xây Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
+#EXTINF:-1 , 19:00 13/05/2026 | Buriram United vs Johor Darul Takzim FC | BLV A Cỏ | HD
+https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 01:00 13/05/2026 | Al-Nassr vs Al-Hilal Saudi FC | BLV Bịp Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 06:20 13/05/2026 | Atletico Nacional vs Internacional de Bogota | BLV Văn Tích | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 08:30 13/05/2026 | Santa Fe vs America de Cali | BLV Văn Tích | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 17:30 13/05/2026 | Nam Dinh vs Selangor | BLV A Cỏ | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 19:00 13/05/2026 | Buriram United vs Johor Darul Takzim FC | BLV Thợ Lặn | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:-1 , 19:00 13/05/2026 | Buriram United vs Johor Darul Takzim FC | BLV A Cỏ | SD
+https://alive.yarncdn.live/xctv_blv_aco/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 21:00 13/05/2026 | Masr vs Ghazl El Mehalla | BLV Bịp Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 21:00 13/05/2026 | Masr vs Ghazl El Mehalla | BLV Bịp Con | HD
+https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 21:00 13/05/2026 | Masr vs Ghazl El Mehalla | BLV Bịp Con | SD
+https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 22:30 13/05/2026 | VJS vs FF Jaro | BLV A Cỏ | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 22:30 13/05/2026 | VJS vs FF Jaro | BLV A Cỏ | HD
+https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 22:30 13/05/2026 | VJS vs FF Jaro | BLV A Cỏ | SD
+https://alive.yarncdn.live/xctv_blv_aco/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 00:00 14/05/2026 | Villarreal vs Sevilla | BLV Xây Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
+https://xclive.yarncdn.live/live/xctv_blv_xaycon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:00 14/05/2026 | Villarreal vs Sevilla | BLV Xây Con | HD
+https://alive.yarncdn.live/xctv_blv_xaycon/tracks-v2a1/mono.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:00 14/05/2026 | Villarreal vs Sevilla | BLV Xây Con | SD
+https://alive.yarncdn.live/xctv_blv_xaycon/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 00:00 14/05/2026 | Vietnam U17 vs United Arab Emirates U17 | BLV Bịp Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:00 14/05/2026 | Vietnam U17 vs United Arab Emirates U17 | BLV Bịp Con | HD
+https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:00 14/05/2026 | Vietnam U17 vs United Arab Emirates U17 | BLV Bịp Con | SD
+https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 00:00 14/05/2026 | Espanyol vs Athletic Club | BLV Thợ Lặn | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:00 14/05/2026 | Espanyol vs Athletic Club | BLV Thợ Lặn | HD
+https://alive.yarncdn.live/xctv_blv_tholan/tracks-v2a1/mono.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:00 14/05/2026 | Espanyol vs Athletic Club | BLV Thợ Lặn | SD
+https://alive.yarncdn.live/xctv_blv_tholan/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 02:00 14/05/2026 | Manchester City vs Crystal Palace | BLV Xây Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
+https://xclive.yarncdn.live/live/xctv_blv_xaycon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 02:00 14/05/2026 | Manchester City vs Crystal Palace | BLV Xây Con | HD
+https://alive.yarncdn.live/xctv_blv_xaycon/tracks-v2a1/mono.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 02:00 14/05/2026 | Manchester City vs Crystal Palace | BLV Xây Con | SD
+https://alive.yarncdn.live/xctv_blv_xaycon/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 02:00 14/05/2026 | Lazio vs Inter | BLV Thợ Lặn | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 02:00 14/05/2026 | Lazio vs Inter | BLV Thợ Lặn | HD
+https://alive.yarncdn.live/xctv_blv_tholan/tracks-v2a1/mono.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 02:00 14/05/2026 | Lazio vs Inter | BLV Thợ Lặn | SD
+https://alive.yarncdn.live/xctv_blv_tholan/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 02:30 14/05/2026 | Alaves vs Barcelona | BLV Bịp Con | FHD
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 02:30 14/05/2026 | Alaves vs Barcelona | BLV Bịp Con | HD
+https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 02:30 14/05/2026 | Alaves vs Barcelona | BLV Bịp Con | SD
+https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 16:00 13/05/2026 | Gainare Tottori vs Biwako Shiga | BLV Văn Tích | FHD
+https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 16:00 13/05/2026 | Gainare Tottori vs Biwako Shiga | BLV Văn Tích | HD
+https://alive.yarncdn.live/xctv_blv_vantich/tracks-v2a1/mono.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 16:00 13/05/2026 | Gainare Tottori vs Biwako Shiga | BLV Văn Tích | SD
+https://alive.yarncdn.live/xctv_blv_vantich/tracks-v1a1/mono.m3u8
