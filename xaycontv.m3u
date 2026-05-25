@@ -1,60 +1,50 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 18:00 24/05/2026 | Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân | BLV A Cỏ | FHD
+#EXTINF:-1 , 18:00 25/05/2026 | Kolding IF vs Hillerød | BLV A Cỏ | FHD
 https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 19:00 24/05/2026 | Shanghai Shenhua vs Sichuan Jiuniu | BLV Người Kiến | FHD
+#EXTINF:-1 , 18:30 25/05/2026 | Croatia U17 vs Belgium U17 | BLV Người Kiến | FHD
 https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 19:15 24/05/2026 | Ha Noi vs Nam Dinh | BLV Thợ Lặn | FHD
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 20:00 24/05/2026 | Parma vs Sassuolo | BLV A Cỏ | FHD
-https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 22:00 24/05/2026 | Brighton vs Manchester United | BLV Người Kiến | FHD
-https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 22:00 24/05/2026 | Tottenham vs Everton | BLV A Cỏ | FHD
-https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 22:00 24/05/2026 | Liverpool vs Brentford | BLV Văn Tích | FHD
-https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 22:00 24/05/2026 | Sunderland vs Chelsea | BLV Thợ Lặn | FHD
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 22:00 24/05/2026 | Crystal Palace vs Arsenal | BLV Bịp Con | FHD
+#EXTINF:-1 , 20:00 25/05/2026 | Hvidovre vs Esbjerg | BLV Bịp Con | FHD
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 01:45 25/05/2026 | Cremonese vs Como | BLV Thợ Lặn | FHD
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:-1 , 21:00 25/05/2026 | Enppi vs Wadi Degla | BLV A Cỏ | FHD
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 01:45 25/05/2026 | Torino vs Juventus | BLV Người Kiến | FHD
+#EXTINF:-1 , 22:00 25/05/2026 | Sarpsborg 08 FF vs Molde | BLV Người Kiến | FHD
 https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 02:00 25/05/2026 | Villarreal vs Atletico Madrid | BLV Bịp Con | FHD
+#EXTINF:-1 , 00:00 26/05/2026 | IFK Goteborg vs Mjallby AIF | BLV Người Kiến | FHD
+https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:30 26/05/2026 | Ludogorets vs CSKA Sofia | BLV A Cỏ | FHD
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 01:30 26/05/2026 | SC Paderborn 07 vs VfL Wolfsburg | BLV Bịp Con | FHD
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 14:30 25/05/2026 | Suwon Bluewings vs Cheonan City | BLV Thợ Lặn | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:15 26/05/2026 | Sandefjord vs Fredrikstad | BLV Thợ Lặn | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
