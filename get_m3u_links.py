@@ -123,7 +123,7 @@ def upload_to_github(content: str):
     check = requests.get(api_url, headers=gh_headers, params={"ref": BRANCH})
     if check.status_code == 200:
         sha = check.json().get("sha")
-        print(f"File đã tồn tại, sẽ cập nhật (sha={sha[:7]}...)")
+        print(f"File đã tồn tại, sẽ cập nhật (sha={sha})")
     elif check.status_code == 404:
         print("File chưa tồn tại, sẽ tạo mới.")
     else:
