@@ -1,0 +1,27 @@
+name: Update xaycontv.m3u
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # Chạy mỗi 5 phút
+  workflow_dispatch:          # Cho phép chạy thủ công
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python get_m3u_links.py
