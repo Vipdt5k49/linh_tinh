@@ -7,7 +7,7 @@ from datetime import datetime, timezone, timedelta
 TZ_VN = timezone(timedelta(hours=7))
 
 # ====== CẤU HÌNH GITHUB ======
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "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")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "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")
 REPO_NAME    = "Vipdt5k49/linh_tinh"
 FILE_PATH    = "xaycontv.m3u"
 BRANCH       = "main"
