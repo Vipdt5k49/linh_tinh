@@ -2,7 +2,7 @@ name: Update xaycontv.m3u
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # Chạy mỗi 5 phút
+    - cron: '*/15 * * * *'   # Chạy mỗi 15 phút
   workflow_dispatch:          # Cho phép chạy thủ công
 
 jobs:
