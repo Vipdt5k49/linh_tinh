@@ -6,8 +6,8 @@ https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 18:35 09/06/2026 | China vs Thailand | BLV Bịp Con | FHD
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 , 18:35 09/06/2026 | China vs Thailand | BLV A Cỏ | FHD
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -21,8 +21,8 @@ https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 20:00 09/06/2026 | Indonesia vs Mozambique | BLV A Cỏ | FHD
-https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:-1 , 20:00 09/06/2026 | Indonesia vs Mozambique | BLV Bịp Con | FHD
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
