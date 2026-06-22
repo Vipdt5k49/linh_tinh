@@ -1,21 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 00:00 23/06/2026 | Argentina vs Austria | BLV Tam Mao | FHD
-https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 00:00 23/06/2026 | Argentina vs Austria | BLV Thợ Lặn | FHD
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 00:00 23/06/2026 | Argentina vs Austria | BLV Bịp Con | FHD
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 04:00 23/06/2026 | France vs Iraq | BLV Bịp Con | FHD
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 
