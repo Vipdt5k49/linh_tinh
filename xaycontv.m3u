@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 19:00 22/06/2026 | Thimphu vs Tsirang | BLV Bịp Con | FHD
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 22:00 22/06/2026 | Dila vs Rustavi | BLV Tam Mao | FHD
-https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 00:00 23/06/2026 | Argentina vs Austria | BLV Tam Mao | FHD
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 
@@ -41,5 +31,75 @@ https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 21:30 22/06/2026 | Asiagoal vs Bishkek City | BLV Thợ Lặn | FHD
+#EXTINF:-1 , 00:00 24/06/2026 | Portugal vs Uzbekistan | BLV Bịp Con | FHD
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 03:00 24/06/2026 | England vs Ghana | BLV Bịp Con | FHD
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:00 24/06/2026 | Portugal vs Uzbekistan | BLV Thợ Lặn | FHD
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 03:00 24/06/2026 | England vs Ghana | BLV Thợ Lặn | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 18:30 23/06/2026 | Nantong Haimen Codion vs Shanghai Port II | BLV Tam Mao | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:00 24/06/2026 | Portugal vs Uzbekistan | BLV Tam Mao | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 03:00 24/06/2026 | England vs Ghana | BLV Tam Mao | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 07:00 23/06/2026 | Norway vs Senegal | BLV Quan Vũ | FHD
+https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 10:00 23/06/2026 | Jordan vs Algeria | BLV Quan Vũ | FHD
+https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 07:00 23/06/2026 | Norway vs Senegal | BLV Rồng Đất | FHD
+https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 10:00 23/06/2026 | Jordan vs Algeria | BLV Rồng Đất | FHD
+https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 22:00 23/06/2026 | Lahti vs Turku PS | BLV Rồng Đất | FHD
+https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 07:00 23/06/2026 | Norway vs Senegal | BLV Phong Vân | FHD
+https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 10:00 23/06/2026 | Jordan vs Algeria | BLV Phong Vân | FHD
+https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 19:45 23/06/2026 | Tdamn Hadramawt vs Al Wehda Sanaa | BLV Phong Vân | FHD
+https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8
