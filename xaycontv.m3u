@@ -6,21 +6,6 @@ https://xclive.yarncdn.live/live/xctv_blv_hantin/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 08:00 25/06/2026 | South Africa vs South Korea | BLV Quan Vũ | FHD
-https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 08:00 25/06/2026 | Czechia vs Mexico | BLV Rồng Đất | FHD
-https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 08:00 25/06/2026 | Czechia vs Mexico | BLV Phong Vân | FHD
-https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 19:00 25/06/2026 | Yelimay Semey 2 vs Turan Turkistan | BLV Quan Vũ | FHD
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
 
