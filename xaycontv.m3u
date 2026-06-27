@@ -1,11 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 19:00 27/06/2026 | Beijing Guoan vs Wuhan Three Towns | BLV Thợ Lặn | FHD
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 21:00 27/06/2026 | Mariehamn vs Inter Turku | BLV Phong Vân | FHD
 https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8
 
