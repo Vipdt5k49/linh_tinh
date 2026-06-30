@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 22:00 04/07/2026 | VPS vs Mariehamn | BLV Chuối | FHD
-https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 23:00 30/06/2026 | FK Liepaja vs Ogre United | BLV Bịp Con | FHD
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 00:00 01/07/2026 | Ivory Coast vs Norway | BLV Bịp Con | FHD
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 
@@ -18,16 +8,6 @@ https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 00:00 01/07/2026 | Ivory Coast vs Norway | BLV Chìm Sâu | FHD
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 00:00 01/07/2026 | Ivory Coast vs Norway | BLV Rồng Đất | FHD
-https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 04:00 01/07/2026 | France vs Sweden | BLV Rồng Đất | FHD
-https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -48,3 +28,78 @@ https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 08:00 01/07/2026 | Mexico vs Ecuador | BLV Tam Mao | FHD
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 16:30 01/07/2026 | Rochedale U23 vs Moreton City Excelsior U23 | BLV Kent | FHD
+https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 17:00 01/07/2026 | Hamilton Olympic vs Charlestown City Blues | BLV Tam Mao | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 19:00 01/07/2026 | Austria U19 W vs Switzerland U19 W | BLV Chuối | FHD
+https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 22:00 01/07/2026 | Tukums vs Super Nova | BLV Bịp Con | FHD
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 22:00 01/07/2026 | Spain U19 W vs Iceland U19 W | BLV Kent | FHD
+https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 23:00 01/07/2026 | England vs Congo DR | BLV Chuối | FHD
+https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 23:00 01/07/2026 | England vs Congo DR | BLV Chìm Sâu | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 23:00 01/07/2026 | England vs Congo DR | BLV Bịp Con | FHD
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 02:00 02/07/2026 | Wales U19 vs Germany U19 | BLV Tam Mao | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 03:00 02/07/2026 | Belgium vs Senegal | BLV Chìm Sâu | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 03:00 02/07/2026 | Belgium vs Senegal | BLV Bịp Con | FHD
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 03:00 02/07/2026 | Belgium vs Senegal | BLV Chuối | FHD
+https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 07:00 02/07/2026 | USA vs Bosnia & Herzegovina | BLV Kent | FHD
+https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 07:00 02/07/2026 | USA vs Bosnia & Herzegovina | BLV Tam Mao | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 22:00 30/06/2026 | VPS vs Inter Turku | BLV Chuối | FHD
+https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
