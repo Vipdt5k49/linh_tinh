@@ -11,18 +11,18 @@ https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 01:00 04/07/2026 | Australia vs Egypt | BLV Bịp Con | FHD
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 , 01:00 04/07/2026 | Australia vs Egypt | BLV Rồng Đất | FHD
+https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 05:00 04/07/2026 | Argentina vs Cape Verde Islands | BLV Bịp Con | FHD
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 , 05:00 04/07/2026 | Argentina vs Cape Verde Islands | BLV Chìm Sâu | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 05:00 04/07/2026 | Argentina vs Cape Verde Islands | BLV Bịp Con | FHD
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 , 05:00 04/07/2026 | Argentina vs Cape Verde Islands | BLV Rồng Đất | FHD
+https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -153,8 +153,3 @@ https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 21:00 05/07/2026 | Aktobe vs Zhetysu | BLV Tam Mao | FHD
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 00:00 03/07/2026 | Serbia U19 vs Ukraine U19 | BLV Phong Vân | FHD
-https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8
