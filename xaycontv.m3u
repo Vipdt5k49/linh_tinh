@@ -1,17 +1,12 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 23:00 05/07/2026 | Tammeka vs Laagri | BLV Ciu | FHD
-https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 03:00 06/07/2026 | Brazil vs Norway | BLV Min | FHD
 https://xclive.yarncdn.live/live/xctv_blv_thienbong/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 03:00 06/07/2026 | Brazil vs Norway | BLV Bịp Con | FHD
+#EXTINF:-1 , 03:00 06/07/2026 | Brazil vs Norway | BLV PIB | FHD
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
@@ -31,7 +26,7 @@ https://xclive.yarncdn.live/live/xctv_blv_thienbong/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 07:00 06/07/2026 | Mexico vs England | BLV Bịp Con | FHD
+#EXTINF:-1 , 07:00 06/07/2026 | Mexico vs England | BLV PIB | FHD
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
@@ -76,7 +71,7 @@ https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 02:00 07/07/2026 | Portugal vs Spain | BLV Bịp Con | FHD
+#EXTINF:-1 , 02:00 07/07/2026 | Portugal vs Spain | BLV PIB | FHD
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
@@ -96,7 +91,7 @@ https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 07:00 07/07/2026 | USA vs Belgium | BLV Bịp Con | FHD
+#EXTINF:-1 , 07:00 07/07/2026 | USA vs Belgium | BLV PIB | FHD
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
