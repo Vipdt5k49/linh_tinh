@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 19:00 07/07/2026 | Drukpa vs Thimphu | BLV Tam Mao | FHD
-https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 21:00 07/07/2026 | Spain U19 W vs Sweden U19 W | BLV Rồng Đất | FHD
-https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 23:00 07/07/2026 | Argentina vs Egypt | BLV Tam Mao | FHD
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 
@@ -67,4 +57,44 @@ https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 23:00 08/07/2026 | Flora Tallinn vs Saburtalo | BLV Ciu | FHD
+https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:00 09/07/2026 | Petrocub vs Egnatia Rrogozhinë | BLV PIB | FHD
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:00 09/07/2026 | ML Vitebsk vs Universitatea Craiova | BLV Rồng Đất | FHD
+https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 00:30 09/07/2026 | FC Differdange 03 vs Ilves | BLV Tam Mao | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 09:30 09/07/2026 | Vancouver Whitecaps vs Cavalry FC | BLV Kent | FHD
+https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 19:00 09/07/2026 | Akademiya Ontustik vs Arys | BLV Ciu | FHD
+https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 20:00 09/07/2026 | Aktobe Jas vs Khan Tengri | BLV Tam Mao | FHD
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 21:00 09/07/2026 | Atlètic Club d'Escaldes vs Mornar | BLV PIB | FHD
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 , 23:00 09/07/2026 | Alashkert vs Yelimay Semey | BLV Ciu | FHD
 https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
