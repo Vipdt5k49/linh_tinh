@@ -1,11 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 , 09:30 09/07/2026 | Vancouver Whitecaps vs Cavalry FC | BLV Kent | FHD
-https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://sv2.xaycon.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 , 19:00 09/07/2026 | Akademiya Ontustik vs Arys | BLV Ciu | FHD
 https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
 
